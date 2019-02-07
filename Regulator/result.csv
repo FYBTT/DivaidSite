@@ -1,88 +1,88 @@
-Order No.,Gas,Max Inlet Pressure(Bar),Max Outlet Pressure(Bar),Inlet Connection,Outlet Connection,Features,Type
-MR-0101,Oxygen,3000,250,CGA540,9/16''-18,1_2_3_4_5_6_7_8,American Style Victor Type SR450 Heavy Duty Regulator
-MR-0101A,Acetylene,400,15,CGA510,9/16''-18LH,1_2_3_9_10_11_12,American Style Victor Type SR450 Heavy Duty Regulator
-MR-0102,Oxygen,3000,250,CGA540,9/16''-18,1_2_3_4_5_6_7_8,American Style Victor Type SR460 Heavy Duty Regulator
-MR-0101A,Acetylene,400,15,CGA510,9/16''-18LH,1_2_3_9_10_11_12,American Style Victor Type SR460 Heavy Duty Regulator
-MR-0103,Oxygen,3000,250,CGA540,9/16''-18,1_2_3_4_5_6_7_8,American Style Victor Type SR350 Heavy Duty Regulator
-MR-0103A,Acetylene,400,15,CGA510,9/16''-18LH,1_2_3_9_10_11_12,American Style Victor Type SR450 Heavy Duty Regulator
-MR-0103B,Propane,400,125,CGA510,9/16''-18LH,1_2_3_9_10_11_12,American Style Victor Type SR450 Heavy Duty Regulator
-MR-0104,Oxygen,3000,250,CGA540,9/16''-18,1_2_3_4_5_6_7_8,American Style Victor Type SR350 Heavy Duty Regulator
-MR-0104A,Acetylene,400,15,CGA510,9/16''-18LH,1_2_3_9_10_11_12,American Style Victor Type SR450 Heavy Duty Regulator
-MR-0104B,Propane,400,125,CGA510,9/16''-18LH,1_2_3_9_10_11_12,American Style Victor Type SR450 Heavy Duty Regulator
-MR-0105,Oxygen,3000,250,CGA540,9/16''-18,1_2_3_4_5_6_7_8,American Style Heavy Duty Regulator
-MR-0105A,Acetylene,400,15,CGA510,9/16''-18LH,1_2_3_9_10_11_12,American Style Victor Type Heavy Duty Regulator
-MR-0105B,Propane,400,125,Clamp,9/16''-18LH,1_2_3_9_10_11_12,American Style Victor Type Heavy Duty Regulator
-MR-0101,Oxygen,3000,250,CGA540,9/16''-18,1_2_3_4_5_6_7_8,American Style Victor Type SR250 Medium Duty Regulator
-MR-0103A,Acetylene,400,15,CGA510,9/16''-18LH,1_2_3_9_10_11_12,American Style Victor Type SR260 Medium Duty Regulator
-MR-0107,Oxygen,3000,250,CGA540,9/16''-18,1_2_3_4_5_6_7_8,American Style Victor Type SR250 Medium Duty Regulator
-MR-0107A,Acetylene,400,15,CGA510,9/16''-18LH,1_2_3_9_10_11_12,American Style Victor Type SR260 Medium Duty Regulator
-MR-0107B,Propane,400,125,CGA510,9/16''-18LH,1_2_3_9_10_11_12,American Style Victor Type SR260 Medium Duty Regulator
-MR-0108,Oxygen,3000,250,CGA540,9/16''-18,1_2_3_4_5_6_7_8,American Style Victor Type SR150 Light Duty Regulator
-MR-0108A,Acetylene,400,15,CGA200,9/16''-18LH,1_2_3_9_10_11_12,American Style Victor Type SR160 Light Duty Regulator
-MR-0109,Oxygen,3000,200,CGA540,9/16''-18,1_2_3_4_5_6_7_8,American Style Victor Type Heavy Duty Regulator
-MR-0109A,Acetylene,400,15,CGA510,9/16''-18LH,1_2_3_9_10_11_12,American Style Victor Type Heavy Duty Regulator
-MR-0110,Oxygen,3000,250,CGA540,9/16''-18,1_13_3_4_5_6_7_8,American Type Regulator
-MR-0110A,Acetylene,400,15,CGA510,9/16''-18LH,1_2_3_9_10_11_12,American Type Regulator
-MR-0111,Oxygen,3000,250,CGA540,9/16''-18,1_14_3_4_5_6_7_8,American Type Regulator
-MR-0111A,Acetylene,400,15,CGA510,9/16''-18LH,1_2_3_9_10_11_12,American Type Heavy Duty Regulator
-MR-0112,Oxygen,3000,250,CGA540,9/16''-18,1_2_3_4_5_6_7_8,American Style Harris Type Regulator
-MR-0112A,Acetylene,400,15,CGA510,9/16''-18LH,1_2_3_9_10_11_12,American Style Harris Type Regulator
-MR-0201,Oxygen,4000,145,G5/8'',BSP3/8'',1_15_16_4_5_6_7_8,British Style Murex Type 300 Series Regulator
-MR-0201A,Acetylene,300,25,G5/8'',BSP3/8''-LH,1_15_16_4_5_6_7_8,British Style Murex Type 300 Series Regulator
-MR-0202,Oxygen,4000,145,G5/8'',BSP3/8'',1_15_16_4_5_6_7_8,British Style Murex Type 300 Series Light Duty Regulator
-MR-0202A,Acetylene,300,25,G5/8'',BSP3/8''-LH,1_15_16_4_5_6_7_8,British Style Murex Type 300 Series Regulator
-MR-0203,Oxygen,4000,145,G5/8'',BSP3/8'',17_15_16_4_5_6_7_8,British Type Regulator
-MR-0203A,Acetylene,300,25,G5/8'',BSP3/8''-LH,17_15_16_4_5_6_7_8,British Type Regulator
-MR-0204,Oxygen,4000,145,G5/8'',BSP3/8'',1_15_16_4_5_6_7_8,British Type Regulator
-MR-0204A,Acetylene,300,25,G5/8'',BSP3/8''-LH,1_15_16_4_5_6_7_8,British Type Regulator
-MR-0301,Oxygen,200,10,G5/8''-14,G1/4''-19,18_19_20_21_22_23,Italy Type Regulator
-MR-0301A,Acetylene,25,1.5,Clamp,G1/4''-19-LH,18_19_20_21_22_23,Italy Type Regulator
-MR-0301B,Argon/CO2,200,10,W21.8-14,G1/4''-19,18_19_20_21_22_23,Italy Type Regulator
-MR-0301C,Propane,25,1.5,W21.8-14,G1/4''-19-LH,18_19_20_21_22_23,Italy Type Regulator
-MR-0302,Oxygen,200,10,G5/8''-14,G1/4''-19,18_19_20_21_22_23,Italy Model Mujelli Type Regulator
-MR-0302A,Acetylene,25,1.5,Clamp,G1/4''-19-LH,18_19_20_21_22_23,Italy Model Mujelli Type Regulator
-MR-0302B,CO2,25,1.5,W21.8-14,G1/4''-19,18_19_20_21_22_23,Italy Model Mujelli Type Regulator
-MR-0303,Oxygen,200,10,G5/8''-14,G1/4''-19,18_19_20_21_22_23,Italy Type Regulator
-MR-0303A,Acetylene,25,1.5,Clamp,G1/4''-19-LH,18_19_20_21_22_23,Italy Type Regulator
-MR-0303B,CO2,25,1.5,W21.8-14,G1/4''-19,18_19_20_21_22_23,Italy Type Regulator
-MR-0304,CO2,25,1.5,W21.8-14,G1/4''-19,18_19_20_21_22_23,Italy Type Mini Regulator
-MR-0305,CO2,25,1.5,W21.8-14,G1/4''-19,18_19_20_21_22_23,Italy Type Mini Regulator
-MR-0401,Oxygen,200,15,G5/8'',BSP3/8'',24_25_26_27,Japan Model Yamato Type Regulator
-MR-0401A,Acetylene,15,1.5,G5/8''-LH,BSP3/8''-LH,24_25_26_27,Japan Model Yamato Type Regulator
-MR-0401B,Propane,200,15,G5/8''-LH,BSP3/8''-LH,24_25_26_27,Japan Model Yamato Type Regulator
-MR-0402,Oxygen,200,15,G5/8'',BSP3/8'',24_25_26_27,Japan Model Tanaka Type Regulator
-MR-0402A,Acetylene,15,1.5,G5/8''-LH,BSP3/8''-LH,24_25_26_27,Japan Model Tanaka Type Regulator
-MR-0402B,Propane,200,15,G5/8''-LH,BSP3/8''-LH,24_25_26_27,Japan Model Tanaka Type Regulator
-MR-0403,Oxygen,200,15,G5/8'',BSP3/8'',24_25_26_27,Japan Model Nakata Type Regulator
-MR-0403A,Acetylene,15,1.5,G5/8''-LH,BSP3/8''-LH,24_25_26_27,Japan Model Nakata Type Regulator
-MR-0403B,Propane,200,15,G5/8''-LH,BSP3/8''-LH,24_25_26_27,Japan Model Nakata Type Regulator
-MR-0501,Oxygen,25,2.5,G3/4,M16*1.5,24_28_29_30_31,Russia Type Regulator
-MR-0501A,CO2,16,1,G3/4,M16*1.5,24_28_29_30_31,Russia Type Regulator
-MR-0501B,Propane,3,0.5,G7/8,M16*1.5-LH,24_28_29_30_31,Russia Type Regulator
-MR-0502,Oxygen,25,2.5,G3/4,M16*1.5,24_28_29_30_31,Russia Type Regulator
-MR-0502A,CO2,16,1,G3/4,M16*1.5,24_28_29_30_31,Russia Type Regulator
-MR-0502B,Propane,3,0.5,G7/8,M16*1.5-LH,24_28_29_30_31,Russia Type Regulator
-MR-0503,Oxygen,25,2.5,G3/4,M16*1.5,24_28_29_30_31,Russia Type Regulator
-MR-0503A,CO2,16,1,G3/4,M16*1.5,24_28_29_30_31,Russia Type Regulator
-MR-0503B,Propane,3,0.5,G7/8,M16*1.5-LH,24_28_29_30_31,Russia Type Regulator
-MR-0601,Oxygen,200,10,W21.8-14,BSP3/8''-RH,1_15_16_4_5_6_12,Germany Model Zinser Type Regulator
-MR-0601A,Acetylene,30,1.5,W21.8-14,BSP3/8''-LH,1_15_16_9_10_32,Germany Model Zinser Type Regulator
-MR-0601B,CO2,200,10,W21.8-14,BSP3/8''-RH,1_15_16_9_10_32,Germany Model Zinser Type Regulator
-MR-0701,Oxygen,200,10,G5/8'',BSP3/8''-RH,1_15_16_4_5_6_12,French Model SAF Type Regulator
-MR-0601A,Acetylene,30,1.5,Clamp,BSP3/8''-LH,1_15_16_9_10_32,French Model SAF Type Regulator
-MR-0701B,CO2,200,10,G5/8'',BSP3/8''-RH,1_15_16_9_10_32,French Model SAF Type Regulator
-MR-0801,Oxygen,200,10,G5/8'',BSP3/8''-RH,1_15_16_4_5_6_12,South-East Asia Type Regulator
-MR-0801A,Acetylene,30,1.5,G5/8'',BSP3/8''-LH,1_15_16_9_10_32,South-East Asia Type Regulator
-MR-0801B,Propane,30,1.5,G5/8'',BSP3/8''-LH,1_15_16_9_10_32,South-East Asia Type Regulator
-MR-0802,Oxygen,200,10,G5/8'',BSP3/8''-RH,1_15_16_4_5_6_12,South-East Asia Type Regulator
-MR-0802A,Acetylene,30,1.5,G5/8'',BSP3/8''-LH,1_15_16_9_10_32,South-East Asia Type Regulator
-MR-0802B,Propane,30,1.5,G5/8'',BSP3/8''-LH,1_15_16_9_10_32,South-East Asia Type Regulator
-MR-0803,Oxygen,200,10,G5/8'',BSP3/8''-RH,1_15_16_4_5_6_12,South-East Asia Type Regulator
-MR-0803A,Acetylene,30,1.5,G5/8'',BSP3/8''-LH,1_15_16_9_10_32,South-East Asia Type Regulator
-MR-0803B,Propane,30,1.5,G5/8'',BSP3/8''-LH,1_15_16_9_10_32,South-East Asia Type Regulator
-MR-1101,Oxygen,30000,800,G5/8'',BSP3/8''-RH,33_15_16_4_5_6_12,Australian Type Regulator
-MR-1101A,Acetylene,4000,150,G5/8'',BSP3/8''-LH,1_15_16_9_10_32,Australian Type Regulator
-MR-1101B,Acetylene,4000,150,G5/8'',BSP3/8''-LH,1_15_16_9_10_32,South-East Asia Type Regulator
-MR-1301,Oxygen,200,10,G5/8'',BSP3/8''-RH,1_15_16_4_5_6_12,Switzerland Model Gloor Type Regulator
-MR-1301A,Acetylene,25,1.5,G5/8'',BSP3/8''-LH,1_15_16_9_10_32,Switzerland Model Gloor Type Regulator
-MR-1301B,CO2,200,10,G5/8'',BSP3/8''-RH,1_15_16_4_5_6_12,Switzerland Model Gloor Type Regulator
+order_no,gas,max_inlet_pressure,max_outlet_pressure,inlet_connection,outlet_connection,Type
+1,MR-0101,Oxygen,3000,250,CGA540,9/16''-18,American Style Victor Type SR450 Heavy Duty Regulator
+2,MR-0101A,Acetylene,400,15,CGA510,9/16''-18LH,American Style Victor Type SR450 Heavy Duty Regulator
+3,MR-0102,Oxygen,3000,250,CGA540,9/16''-18,American Style Victor Type SR460 Heavy Duty Regulator
+4,MR-0101A,Acetylene,400,15,CGA510,9/16''-18LH,American Style Victor Type SR460 Heavy Duty Regulator
+5,MR-0103,Oxygen,3000,250,CGA540,9/16''-18,American Style Victor Type SR350 Heavy Duty Regulator
+6,MR-0103A,Acetylene,400,15,CGA510,9/16''-18LH,American Style Victor Type SR450 Heavy Duty Regulator
+7,MR-0103B,Propane,400,125,CGA510,9/16''-18LH,American Style Victor Type SR450 Heavy Duty Regulator
+8,MR-0104,Oxygen,3000,250,CGA540,9/16''-18,American Style Victor Type SR350 Heavy Duty Regulator
+9,MR-0104A,Acetylene,400,15,CGA510,9/16''-18LH,American Style Victor Type SR450 Heavy Duty Regulator
+10,MR-0104B,Propane,400,125,CGA510,9/16''-18LH,American Style Victor Type SR450 Heavy Duty Regulator
+11,MR-0105,Oxygen,3000,250,CGA540,9/16''-18,American Style Heavy Duty Regulator
+12,MR-0105A,Acetylene,400,15,CGA510,9/16''-18LH,American Style Victor Type Heavy Duty Regulator
+13,MR-0105B,Propane,400,125,Clamp,9/16''-18LH,American Style Victor Type Heavy Duty Regulator
+14,MR-0101,Oxygen,3000,250,CGA540,9/16''-18,American Style Victor Type SR250 Medium Duty Regulator
+15,MR-0103A,Acetylene,400,15,CGA510,9/16''-18LH,American Style Victor Type SR260 Medium Duty Regulator
+16,MR-0107,Oxygen,3000,250,CGA540,9/16''-18,American Style Victor Type SR250 Medium Duty Regulator
+17,MR-0107A,Acetylene,400,15,CGA510,9/16''-18LH,American Style Victor Type SR260 Medium Duty Regulator
+18,MR-0107B,Propane,400,125,CGA510,9/16''-18LH,American Style Victor Type SR260 Medium Duty Regulator
+19,MR-0108,Oxygen,3000,250,CGA540,9/16''-18,American Style Victor Type SR150 Light Duty Regulator
+20,MR-0108A,Acetylene,400,15,CGA200,9/16''-18LH,American Style Victor Type SR160 Light Duty Regulator
+21,MR-0109,Oxygen,3000,200,CGA540,9/16''-18,American Style Victor Type Heavy Duty Regulator
+22,MR-0109A,Acetylene,400,15,CGA510,9/16''-18LH,American Style Victor Type Heavy Duty Regulator
+23,MR-0110,Oxygen,3000,250,CGA540,9/16''-18,American Type Regulator
+24,MR-0110A,Acetylene,400,15,CGA510,9/16''-18LH,American Type Regulator
+25,MR-0111,Oxygen,3000,250,CGA540,9/16''-18,American Type Regulator
+26,MR-0111A,Acetylene,400,15,CGA510,9/16''-18LH,American Type Heavy Duty Regulator
+27,MR-0112,Oxygen,3000,250,CGA540,9/16''-18,American Style Harris Type Regulator
+28,MR-0112A,Acetylene,400,15,CGA510,9/16''-18LH,American Style Harris Type Regulator
+29,MR-0201,Oxygen,4000,145,G5/8'',BSP3/8'',British Style Murex Type 300 Series Regulator
+30,MR-0201A,Acetylene,300,25,G5/8'',BSP3/8''-LH,British Style Murex Type 300 Series Regulator
+31,MR-0202,Oxygen,4000,145,G5/8'',BSP3/8'',British Style Murex Type 300 Series Light Duty Regulator
+32,MR-0202A,Acetylene,300,25,G5/8'',BSP3/8''-LH,British Style Murex Type 300 Series Regulator
+33,MR-0203,Oxygen,4000,145,G5/8'',BSP3/8'',British Type Regulator
+34,MR-0203A,Acetylene,300,25,G5/8'',BSP3/8''-LH,British Type Regulator
+35,MR-0204,Oxygen,4000,145,G5/8'',BSP3/8'',British Type Regulator
+36,MR-0204A,Acetylene,300,25,G5/8'',BSP3/8''-LH,British Type Regulator
+37,MR-0301,Oxygen,200,10,G5/8''-14,G1/4''-19,Italy Type Regulator
+38,MR-0301A,Acetylene,25,1.5,Clamp,G1/4''-19-LH,Italy Type Regulator
+39,MR-0301B,Argon/CO2,200,10,W21.8-14,G1/4''-19,Italy Type Regulator
+40,MR-0301C,Propane,25,1.5,W21.8-14,G1/4''-19-LH,Italy Type Regulator
+41,MR-0302,Oxygen,200,10,G5/8''-14,G1/4''-19,Italy Model Mujelli Type Regulator
+42,MR-0302A,Acetylene,25,1.5,Clamp,G1/4''-19-LH,Italy Model Mujelli Type Regulator
+43,MR-0302B,CO2,25,1.5,W21.8-14,G1/4''-19,Italy Model Mujelli Type Regulator
+44,MR-0303,Oxygen,200,10,G5/8''-14,G1/4''-19,Italy Type Regulator
+45,MR-0303A,Acetylene,25,1.5,Clamp,G1/4''-19-LH,Italy Type Regulator
+46,MR-0303B,CO2,25,1.5,W21.8-14,G1/4''-19,Italy Type Regulator
+47,MR-0304,CO2,25,1.5,W21.8-14,G1/4''-19,Italy Type Mini Regulator
+48,MR-0305,CO2,25,1.5,W21.8-14,G1/4''-19,Italy Type Mini Regulator
+49,MR-0401,Oxygen,200,15,G5/8'',BSP3/8'',Japan Model Yamato Type Regulator
+50,MR-0401A,Acetylene,15,1.5,G5/8''-LH,BSP3/8''-LH,Japan Model Yamato Type Regulator
+51,MR-0401B,Propane,200,15,G5/8''-LH,BSP3/8''-LH,Japan Model Yamato Type Regulator
+52,MR-0402,Oxygen,200,15,G5/8'',BSP3/8'',Japan Model Tanaka Type Regulator
+53,MR-0402A,Acetylene,15,1.5,G5/8''-LH,BSP3/8''-LH,Japan Model Tanaka Type Regulator
+54,MR-0402B,Propane,200,15,G5/8''-LH,BSP3/8''-LH,Japan Model Tanaka Type Regulator
+55,MR-0403,Oxygen,200,15,G5/8'',BSP3/8'',Japan Model Nakata Type Regulator
+56,MR-0403A,Acetylene,15,1.5,G5/8''-LH,BSP3/8''-LH,Japan Model Nakata Type Regulator
+57,MR-0403B,Propane,200,15,G5/8''-LH,BSP3/8''-LH,Japan Model Nakata Type Regulator
+58,MR-0501,Oxygen,25,2.5,G3/4,M16*1.5,Russia Type Regulator
+59,MR-0501A,CO2,16,1,G3/4,M16*1.5,Russia Type Regulator
+60,MR-0501B,Propane,3,0.5,G7/8,M16*1.5-LH,Russia Type Regulator
+61,MR-0502,Oxygen,25,2.5,G3/4,M16*1.5,Russia Type Regulator
+62,MR-0502A,CO2,16,1,G3/4,M16*1.5,Russia Type Regulator
+63,MR-0502B,Propane,3,0.5,G7/8,M16*1.5-LH,Russia Type Regulator
+64,MR-0503,Oxygen,25,2.5,G3/4,M16*1.5,Russia Type Regulator
+65,MR-0503A,CO2,16,1,G3/4,M16*1.5,Russia Type Regulator
+66,MR-0503B,Propane,3,0.5,G7/8,M16*1.5-LH,Russia Type Regulator
+67,MR-0601,Oxygen,200,10,W21.8-14,BSP3/8''-RH,Germany Model Zinser Type Regulator
+68,MR-0601A,Acetylene,30,1.5,W21.8-14,BSP3/8''-LH,Germany Model Zinser Type Regulator
+69,MR-0601B,CO2,200,10,W21.8-14,BSP3/8''-RH,Germany Model Zinser Type Regulator
+70,MR-0701,Oxygen,200,10,G5/8'',BSP3/8''-RH,French Model SAF Type Regulator
+71,MR-0601A,Acetylene,30,1.5,Clamp,BSP3/8''-LH,French Model SAF Type Regulator
+72,MR-0701B,CO2,200,10,G5/8'',BSP3/8''-RH,French Model SAF Type Regulator
+73,MR-0801,Oxygen,200,10,G5/8'',BSP3/8''-RH,South-East Asia Type Regulator
+74,MR-0801A,Acetylene,30,1.5,G5/8'',BSP3/8''-LH,South-East Asia Type Regulator
+75,MR-0801B,Propane,30,1.5,G5/8'',BSP3/8''-LH,South-East Asia Type Regulator
+76,MR-0802,Oxygen,200,10,G5/8'',BSP3/8''-RH,South-East Asia Type Regulator
+77,MR-0802A,Acetylene,30,1.5,G5/8'',BSP3/8''-LH,South-East Asia Type Regulator
+78,MR-0802B,Propane,30,1.5,G5/8'',BSP3/8''-LH,South-East Asia Type Regulator
+79,MR-0803,Oxygen,200,10,G5/8'',BSP3/8''-RH,South-East Asia Type Regulator
+80,MR-0803A,Acetylene,30,1.5,G5/8'',BSP3/8''-LH,South-East Asia Type Regulator
+81,MR-0803B,Propane,30,1.5,G5/8'',BSP3/8''-LH,South-East Asia Type Regulator
+82,MR-1101,Oxygen,30000,800,G5/8'',BSP3/8''-RH,Australian Type Regulator
+83,MR-1101A,Acetylene,4000,150,G5/8'',BSP3/8''-LH,Australian Type Regulator
+84,MR-1101B,Acetylene,4000,150,G5/8'',BSP3/8''-LH,South-East Asia Type Regulator
+85,MR-1301,Oxygen,200,10,G5/8'',BSP3/8''-RH,Switzerland Model Gloor Type Regulator
+86,MR-1301A,Acetylene,25,1.5,G5/8'',BSP3/8''-LH,Switzerland Model Gloor Type Regulator
+87,MR-1301B,CO2,200,10,G5/8'',BSP3/8''-RH,Switzerland Model Gloor Type Regulator
