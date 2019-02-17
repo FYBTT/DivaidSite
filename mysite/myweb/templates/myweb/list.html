@@ -1,0 +1,87 @@
+{% extends "base.html" %}
+{%block mainblock%}
+    <script src="/static/js/jq-paginator.js"></script>
+    <div class="container">
+        <ol class="breadcrumb" style="margin-bottom:0px">
+            <li><a href="/webSite/list/query/MR/">PRODUCTS</a></li>
+            <li class="active"><a href="/webSite/list/query/{{query}}/">{{query}}</a></li>
+        </ol>
+    </div>
+    <div id="description">
+        <div class="container">
+            <h2>Result:</h2>
+            <div class="row"  id="listContainer">
+            </div>
+        </div>
+        <div class="text-center">
+                <nav aria-label="Page navigation">
+                    <ul id="paginator" class="pagination"></ul>
+                </nav> 
+        </div>    
+    </div>
+    
+    <script type="text/JavaScript">
+        $.jqPaginator('#paginator', {
+        totalPages: 1,
+        visiblePages: 7,
+        currentPage: 1,
+        onPageChange: function (num, type) {
+            search(num);
+        }
+    });
+    function search(pageIndex){
+        $.ajax({ url : '/webSite/list/AjaxQuery/{{query}}/'+pageIndex+'/',
+            type : "post",
+            data : {
+                'csrfmiddlewaretoken':$("#queryForm").children('input')[0].value,
+            },
+            dataType : "json",
+            success : function(datas) {
+                var data=datas.data;
+                var str='';
+                if(datas.totalPages>0){
+                    $('#paginator').jqPaginator('option', {
+                        totalPages: datas.totalPages//总页数
+                    });
+                }
+                if(data.length>0){
+                    for(var i=0;i<data.length;i++){
+                        str+='<div class="col-sm-6 col-md-4 col-lg-3">'
+                        str+='<a href="/webSite/list/good_id/'+data[i].order_no+'/">'
+                        str+='<div class="thumbnail">'
+                        str+='<img src="/static/goods/'+data[i].order_no.substring(3)+'.jpg">'
+                        str+='<div class="caption">'
+                        str+='<h3>'+data[i].order_no+'</h3>'
+                        str+='<p>'+data[i].typeInShort+'</p>'
+                        str+='</div></div></a></div>'
+                    }
+                    $("#listContainer").html(str);
+                }else{
+                    $("#listContainer").html("no data……");
+                    $('#paginator').jqPaginator('option', {
+                        totalPages: 1
+                    });
+                }
+            },
+            error:function () {
+                alert('no data');
+            }
+        });
+    }
+    $(function (){
+        $.ajaxSetup({
+            headers: {
+                "X-CSRFToken": getCookie("csrftoken") 
+            }    
+        });
+    });
+
+    function getCookie(name) {
+        var arr,reg=new RegExp("(^| )"+name+"=([^;]*)(;|$)");     
+        if(arr=document.cookie.match(reg))         
+            return unescape(arr[2]);     
+        else         
+            return null; 
+    } 
+    </script>
+{%endblock%}

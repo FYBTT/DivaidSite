@@ -5,30 +5,35 @@ from django.shortcuts import render
 
 # Create your views here.
 
-from django.http import HttpResponse
+from django.http import HttpResponse, JsonResponse
 
 from .models import Goods, GoodType, Feature
+from django.db.models import Q
+from django.conf import settings
+import json
+
+pageSize = settings.PAGE_SIZE
 
 def home(request):
     context = {}
     return render(request, 'myweb/home.html', context)
 
-def search(request):
-    if 'good' in request.GET:
-        good_id = request.GET['good']
-        reSet = Goods.objects.filter(order_no__icontains = good_id)
-        print len(reSet)
-        if len(reSet) > 1:
-            return HttpResponse("hello list ")
-        else:
-            return good(request, good_id)
-    else:
-        return HttpResponse("no good info")
+def listPage(request, query):
+    context = {
+        'query': query,
+    }
+    return render(request, 'myweb/list.html', context)
 
-def listGet(request, page_id):
-    goodsList = Goods.objects.all()
-    output = ','.join([q.gas for q in goodsList])
-    return HttpResponse("hello list " + output)
+def listAjaxGet(request, query, page_id):
+    start = (int(page_id) - 1)*pageSize
+    good_count = Goods.objects.filter(Q(order_no__icontains = query)|Q(typeInShort__icontains = query)).count()
+    reSet = Goods.objects.filter(Q(order_no__icontains = query)|Q(typeInShort__icontains = query)).values('order_no', 'typeInShort')[start: pageSize + start]
+    print len(reSet)
+    result = list(reSet)
+    datas = {}
+    datas['data'] = result
+    datas['totalPages'] = (good_count + pageSize - 1)/pageSize
+    return JsonResponse(datas)
 
 def good(request, good_id):
     reSet = Goods.objects.filter(order_no = good_id)

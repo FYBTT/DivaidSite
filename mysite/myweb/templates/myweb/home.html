@@ -1,109 +1,34 @@
-{%load static%}
-<!DOCTYPE html>
-<html lang="zh-CN">
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>NINGBO MASTER</title>
+{% extends "base.html" %}
 
-    <!-- Bootstrap -->
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/dist/css/bootstrap.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <link type="text/css" rel="stylesheet" href="{% static 'css/sliceStyle.css'%}">
-    <!-- HTML5 shim 和 Respond.js 是为了让 IE8 支持 HTML5 元素和媒体查询（media queries）功能 -->
-    <!-- 警告：通过 file:// 协议（就是直接将 html 页面拖拽到浏览器中）访问页面时 Respond.js 不起作用 -->
-    <!--[if lt IE 9]>
-      <script src="https://cdn.jsdelivr.net/npm/html5shiv@3.7.3/dist/html5shiv.min.js"></script>
-      <script src="https://cdn.jsdelivr.net/npm/respond.js@1.4.2/dest/respond.min.js"></script>
-    <![endif]-->
-  </head>
-  <body>
-        <div class="container">
-            <div class="row">
-                <div class="col-md-2 col-lg-2 col-sm-2 col-xs-4">
-                        <img src="{% static 'pic/logo.PNG'%}" title="logo" alt="logo" class="img-responsive left-block" >
-                </div>
-                <div class="col-md-4 col-lg-4 col-sm-4 col-xs-8">
-                        <h3>MASTER WELDING</h3>
-                        <h5>TOOLS CO.LTD</h5>
-                </div>
-            </div>
-        </div>
-        <nav class="navbar navbar-inverse">
-                <div class="container">
-                    <!-- Brand and toggle get grouped for better mobile display -->
-                    <div class="navbar-header">
-                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
-                        <span class="sr-only">Toggle navigation</span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                    </button>
-                      <a class="navbar-brand" href="#"><strong><span class="glyphicon glyphicon-flash" aria-hidden="true"></span></strong></a>
-                    </div>
-
-                    <!-- Collect the nav links, forms, and other content for toggling -->
-                    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-                    <ul class="nav navbar-nav ">
-                        <li class="active"><a href="#"><strong>HOME</strong></a></li>
-                        <li class="dropdown">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><strong>PRODUCTS</strong> <span class="caret"></span></a>
-                        <ul class="dropdown-menu">
-                            <li><a href="#">Regulator</a></li>
-                            <li><a href="#">Cutting Torch</a></li>
-                            <li><a href="#">Welding Torch</a></li>
-                            <li role="separator" class="divider"></li>
-                            <li><a href="#">Heating Torch</a></li>
-                            <li role="separator" class="divider"></li>
-                            <li><a href="#">Cutting&Welding Kit</a></li>
-                            <li><a href="#">Torch Accessories</a></li>
-                            <li><a href="#">Electric welding Accessories</a></li>
-                            <li><a href="#">Welding Machine</a></li>
-                            <li><a href="#">Safety Product</a></li>
-                            <li><a href="#">Welding Material</a></li>
-                        </ul>
-                        </li>
-                        <li><a href="#"><strong>ABOUT </strong></a></li>
-                        <li><a href="#"><strong>CONTACT</strong></a></li>
-                    </ul>
-                    <form class="navbar-form navbar-right" action="/webSite/search/" method="GET">
-                        <div class="form-group">
-                        <input type="text" class="form-control" placeholder="Search" name="good">
-                        </div>
-                        <button type="submit" class="btn btn-danger"><span class="glyphicon glyphicon-search" aria-hidden="true"></span></button>
-                    </form>
-                    </div><!-- /.navbar-collapse -->
-                </div>
-        </nav>
-
+{% block mainblock %}
+        <link type="text/css" rel="stylesheet" href="/static/css/sliceStyle.css">
 
         <div class="contactBody" id="slice">
             <div class="container">
               <section class="pc-banner">
               	<div class="swiper-container">
               		<div class="swiper-wrapper">
-              			<div class=" swiper-slide swiper-slide-center none-effect" style="background:url({%static 'pic/4.jpg'%});">
+              			<div class=" swiper-slide swiper-slide-center none-effect" style="background:url(/static/pic/4.jpg);">
               				<h1 class = "text-center article-title">We Will Win</h1>
                       <p>图片列表部分，用一个外层div包裹所有</p>
                       <p>然后每个img会被一个div，则class为item的包裹住</p>
               			</div>
-              			<div class=" swiper-slide" style="background:url({%static 'pic/1.jpg'%});">
+              			<div class=" swiper-slide" style="background:url(/static/pic/1.jpg);">
                       <h1 class = "text-center article-title">We Will Win</h1>
                       <p>图片列表部分，用一个外层div包裹所有</p>
                       <p>然后每个img会被一个div，则class为item的包裹住</p>
               			</div>
-              			<div class="swiper-slide" style ="background:url({%static 'pic/2.jpg'%});">
+              			<div class="swiper-slide" style ="background:url(/static/pic/2.jpg);">
                       <h1 class = "text-center article-title">We Will Win</h1>
                       <p>图片列表部分，用一个外层div包裹所有</p>
                       <p>然后每个img会被一个div，则class为item的包裹住</p>
               			</div>
-              			<div class="swiper-slide" style="background:url({%static 'pic/3.jpg'%});">
+              			<div class="swiper-slide" style="background:url(/static/pic/3.jpg);">
                       <h1 class = "text-center article-title">We Will Win</h1>
                       <p>图片列表部分，用一个外层div包裹所有</p>
                       <p>然后每个img会被一个div，则class为item的包裹住</p>
               			</div>
-              			<div class="swiper-slide" style="background:url({%static 'pic/5.jpg'%});">
+              			<div class="swiper-slide" style="background:url(/static/pic/5.jpg);">
                       <h1 class = "text-center article-title">We Will Win</h1>
                       <p>图片列表部分，用一个外层div包裹所有</p>
                       <p>然后每个img会被一个div，则class为item的包裹住</p>
@@ -128,103 +53,35 @@
               </div>
             </div>
           </div>
-
-
-          <div class="contactBody" id="footbanner">
-            <div class="container">
-              <div class="row  text-center">
-                  <h1>better quality, better service</h1>
-                  <i class="fa fa-hand-o-down" aria-hidden="true" style="font-size:72px;"></i>
-                  <p><strong><a class="btn btn-danger" href="#" style="font-size:24px; color:rgb(255, 255, 255)">materwelding tools@outlook.com</a><strong></p>
-              </div>
-            </div>
-          </div>
-
-
-        <footer>
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-3 col-lg-3 col-sm-3">
-                        <h4>CONTACT</h4>
-                        <p><span class="glyphicon glyphicon-home" aria-hidden="true"></span>Yunlong Village, Yinzhou District, Ningbo, Zhejiang Province, China.</p>
-                        <p><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span> masterweldingtools@outlook.com </p>
-                        <!--
-                        <p><span class="glyphicon glyphicon-earphone" aria-hidden="true"></span>+86 15257409697</p>
-                        -->
-                        <p>Mobil/Wechat/Whatsapp：+86 15257409697</p>
-                    </div>
-                    <div class="col-md-2 col-lg-2">
-                        <h4>COMPANY</h4>
-                        <p><span class="glyphicon glyphicon-triangle-right" aria-hidden="true"></span>About Us</p>
-                        <p><span class="glyphicon glyphicon-triangle-right" aria-hidden="true"></span>Enqury</p>
-                        <p><span class="glyphicon glyphicon-triangle-right" aria-hidden="true"></span>Contact Us</p>
-                        <p><span class="glyphicon glyphicon-triangle-right" aria-hidden="true"></span>Dealears</p>
-                    </div>
-                    <div class="col-md-2 col-lg-2">
-                            <h4>PRODUCTS</h4>
-                            <p><span class="glyphicon glyphicon-triangle-right" aria-hidden="true"></span>Welding Equipment</p>
-                            <p><span class="glyphicon glyphicon-triangle-right" aria-hidden="true"></span>Safety Equipment</p>
-                            <p><span class="glyphicon glyphicon-triangle-right" aria-hidden="true"></span>Filler Metals</p>
-                            <p><span class="glyphicon glyphicon-triangle-right" aria-hidden="true"></span>Accessories</p>
-                    </div>
-                    <div class="col-md-2 col-lg-2">
-                            <h4>SUPPORTS</h4>
-                            <p><span class="glyphicon glyphicon-triangle-right" aria-hidden="true"></span>Warranty Registration</p>
-                            <p><span class="glyphicon glyphicon-triangle-right" aria-hidden="true"></span>Batch Certificate</p>
-                            <p><span class="glyphicon glyphicon-triangle-right" aria-hidden="true"></span>Privacy Policy</p>
-                            <p><span class="glyphicon glyphicon-triangle-right" aria-hidden="true"></span>Products Warranty</p>
-                    </div>
-                    <div class="col-md-3 col-lg-3">
-                            <h4>ABOUT</h4>
-                            <p>our objective is to provide products that are of the highest quality, offer more feature and innovation when compared to smilar products that are supplied by our competitors</p>
-                            <button type="button" class="btn btn-danger">more</button>
-                    </div>
-                </div>
-                <!--
-                <div class="row text-center">
-                  <i class="fa fa-facebook-square" style="font-size:36px"></i>
-                  <i class="fa fa-instagram" style="font-size:36px"></i>
-                  <i class="fa fa-linkedin-square" style="font-size:36px"></i>
-                  <i class="fa fa-wechat" style="font-size:36px"></i>
-                </div>
-                <div class="row text-center">@Unimig Welding Pty Ltd. All Rights Reserved Designed by bear</div>
-              -->
-            </div>
-       </footer>
-    <link href="{%static 'css/textColor.css'%}" type="text/css"  rel="stylesheet">
-    <!-- jQuery (Bootstrap 的所有 JavaScript 插件都依赖 jQuery，所以必须放在前边) -->
-    <script src="https://cdn.jsdelivr.net/npm/jquery@1.12.4/dist/jquery.min.js"></script>
-    <!-- 加载 Bootstrap 的所有 JavaScript 插件。你也可以根据需要只加载单个插件。 -->
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/dist/js/bootstrap.min.js"></script>
-    <script type="text/javascript" src="{% static 'js/swiper.min.js'%}"></script>
-    <script type="text/javascript">
-
-    	window.onload = function() {
-    		var swiper = new Swiper('.swiper-container',{
-          initialSlide: 0 , //设置初始化时slide的索引，默认0
-          autoplay: 2000, // 设置自动切换的时间间隔，默认0
-    			speed: 1000,
-    			autoplayDisableOnInteraction: true,
-    			loop: true,
-    			centeredSlides: true,
-    			slidesPerView: 2,
-          pagination : '.swiper-pagination',
-          paginationType : 'progress',
-    			paginationClickable: true,
-    			prevButton: '.swiper-button-prev',
-    			nextButton: '.swiper-button-next',
-    			onInit: function(swiper) {
-    				swiper.slides[2].className = "swiper-slide swiper-slide-active";
-    			},
-    			breakpoints: {
-    				668: {
-    					slidesPerView: 1,
-    				}
-    			}
-    		});
-    	}
-
-
-    </script>
-  </body>
-</html>
+          <script type="text/javascript" src="/static/js/swiper.min.js"></script>
+          <script type="text/javascript">
+      
+            window.onload = function() {
+              var swiper = new Swiper('.swiper-container',{
+                initialSlide: 0 , //设置初始化时slide的索引，默认0
+                autoplay: 2000, // 设置自动切换的时间间隔，默认0
+                speed: 1000,
+                autoplayDisableOnInteraction: true,
+                loop: true,
+                centeredSlides: true,
+                slidesPerView: 2,
+                pagination : '.swiper-pagination',
+                paginationType : 'progress',
+                paginationClickable: true,
+                prevButton: '.swiper-button-prev',
+                nextButton: '.swiper-button-next',
+                onInit: function(swiper) {
+                  swiper.slides[2].className = "swiper-slide swiper-slide-active";
+                },
+                breakpoints: {
+                  668: {
+                    slidesPerView: 1,
+                  }
+                }
+              });
+            }
+      
+      
+          </script>
+{%endblock%}
+         

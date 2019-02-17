@@ -23,6 +23,7 @@ class Goods(models.Model):
     inlet_connection = models.CharField(max_length = 10)
     outlet_connection = models.CharField(max_length = 20)
     features = models.ManyToManyField(Feature)
+    typeInShort = models.CharField(max_length = 30, default = 'Regulator')
     type_no = models.ForeignKey(GoodType, on_delete = models.CASCADE)
     def __str__(self):
         return self.order_no
