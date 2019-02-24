@@ -28,7 +28,6 @@ def listAjaxGet(request, query, page_id):
     start = (int(page_id) - 1)*pageSize
     good_count = Goods.objects.filter(Q(order_no__icontains = query)|Q(typeInShort__icontains = query)).count()
     reSet = Goods.objects.filter(Q(order_no__icontains = query)|Q(typeInShort__icontains = query)).values('order_no', 'typeInShort')[start: pageSize + start]
-    print len(reSet)
     result = list(reSet)
     datas = {}
     datas['data'] = result
