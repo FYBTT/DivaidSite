@@ -25,5 +25,12 @@ class Goods(models.Model):
     features = models.ManyToManyField(Feature)
     typeInShort = models.CharField(max_length = 30, default = 'Regulator')
     type_no = models.ForeignKey(GoodType, on_delete = models.CASCADE)
+    country_no = models.CharField(max_length = 5, default = '00')
     def __str__(self):
         return self.order_no
+
+class Country(models.Model):
+    country_no = models.CharField(primary_key = True, max_length = 5)
+    country_text = models.CharField(max_length = 50)
+    def __str__(self):
+        return self.country_text

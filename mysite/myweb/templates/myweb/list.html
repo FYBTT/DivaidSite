@@ -1,15 +1,28 @@
 {% extends "base.html" %}
 {%block mainblock%}
+    <link rel="stylesheet" href="/static/css/bootstrap-select.css">    
     <script src="/static/js/jq-paginator.js"></script>
     <div class="container">
         <ol class="breadcrumb" style="margin-bottom:0px">
-            <li><a href="/webSite/list/query/MR/">PRODUCTS</a></li>
-            <li class="active"><a href="/webSite/list/query/{{query}}/">{{query}}</a></li>
+            <li><a href="/webSite/list/query/00/MR/">PRODUCTS</a></li>
+            <li class="active"><a href="/webSite/list/query/00/{{query}}/">{{query}}</a></li>
         </ol>
     </div>
     <div id="description">
         <div class="container">
-            <h2>Result:</h2>
+            <div class="row" style="font-size: 24px; margin-top: 10px; margin-bottom: 10px;">
+                <div class="col-md-6 col-lg-6 col-sm-6 text-left">
+                    Result:
+                </div>
+                <div class="col-md-6 col-lg-6 col-sm-6 text-right">
+                    <select class="selectpicker" id="area" onchange="search(1)">
+                        <option value="00">all</option>
+                        {% for cour in country%}
+                        <option value="{{cour.country_no}}">{{cour.country_text}}</option>
+                        {%endfor%}
+                    </select>
+                </div>
+            </div>
             <div class="row"  id="listContainer">
             </div>
         </div>
@@ -30,7 +43,7 @@
         }
     });
     function search(pageIndex){
-        $.ajax({ url : '/webSite/list/AjaxQuery/{{query}}/'+pageIndex+'/',
+        $.ajax({ url : '/webSite/list/AjaxQuery/{{query}}/'+ $('#area').val() +'/'+pageIndex+'/',
             type : "post",
             data : {
                 'csrfmiddlewaretoken':$("#queryForm").children('input')[0].value,
@@ -41,7 +54,8 @@
                 var str='';
                 if(datas.totalPages>0){
                     $('#paginator').jqPaginator('option', {
-                        totalPages: datas.totalPages//总页数
+                        totalPages: datas.totalPages,//总页数
+                        currentPage: pageIndex,
                     });
                 }
                 if(data.length>0){
@@ -59,7 +73,8 @@
                 }else{
                     $("#listContainer").html("no data……");
                     $('#paginator').jqPaginator('option', {
-                        totalPages: 1
+                        totalPages: 1,
+                        currentPage: 1,
                     });
                 }
             },
@@ -67,21 +82,7 @@
                 alert('no data');
             }
         });
-    }
-    $(function (){
-        $.ajaxSetup({
-            headers: {
-                "X-CSRFToken": getCookie("csrftoken") 
-            }    
-        });
-    });
-
-    function getCookie(name) {
-        var arr,reg=new RegExp("(^| )"+name+"=([^;]*)(;|$)");     
-        if(arr=document.cookie.match(reg))         
-            return unescape(arr[2]);     
-        else         
-            return null; 
     } 
     </script>
+    <script src="/static/js/bootstrap-select.js"></script>
 {%endblock%}
