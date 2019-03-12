@@ -25,7 +25,7 @@ SECRET_KEY = '%b+%s0r$o2v2t7nw6(y+j)xfrq5j*pnaxfref)v^939!=ysz4t'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['localhost', '127.0.0.1', '47.93.41.106']
+ALLOWED_HOSTS = ['localhost', '127.0.0.1', '47.93.41.106', 'masterweldingtools.com', 'www.masterweldingtools.com']
 
 
 # Application definition
