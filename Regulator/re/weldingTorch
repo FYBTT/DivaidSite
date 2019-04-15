@@ -1,0 +1,379 @@
+(dp0
+S'MW-0102'
+p1
+(dp2
+S'order_no'
+p3
+g1
+sS'country'
+p4
+S'01'
+p5
+sS'specification'
+p6
+(dp7
+S'Welding Tip'
+p8
+(lp9
+S'Minor'
+p10
+asS'Hose Connection'
+p11
+(lp12
+S"9/16''-18"
+p13
+asS'Torch Handle'
+p14
+(lp15
+S'Light Duty'
+p16
+asS'Welding Capacity(mm)'
+p17
+(lp18
+S'0-10'
+p19
+assS'feaList'
+p20
+(lp21
+sS'typeDetail'
+p22
+S'American Type Jewelry Welding torch'
+p23
+sS'typeInShort'
+p24
+S'Welding torch'
+p25
+ssS'MW-0101'
+p26
+(dp27
+g3
+g26
+sg4
+S'01'
+p28
+sg6
+(dp29
+S'Welding Tip'
+p30
+(lp31
+S'L/W'
+p32
+asS'Hose Connection'
+p33
+(lp34
+S"9/16''-18"
+p35
+asS'Torch Handle'
+p36
+(lp37
+S'Medium Duty'
+p38
+asS'Welding Capacity(mm)'
+p39
+(lp40
+S'0-12'
+p41
+assg20
+(lp42
+sg22
+S'American Type Medium Duty Welding torch'
+p43
+sg24
+g25
+ssS'MW-0501'
+p44
+(dp45
+g3
+g44
+sg4
+S'05'
+p46
+sg6
+(dp47
+S'Welding Tip'
+p48
+(lp49
+S'2024W'
+p50
+asS'Hose Connection'
+p51
+(lp52
+S'M16*1.5 6/9MM'
+p53
+asS'Torch Handle'
+p54
+(lp55
+S'Medium Duty'
+p56
+asS'Welding Capacity(mm)'
+p57
+(lp58
+S'0-12'
+p59
+assg20
+(lp60
+sg22
+S'Russia Type Medium Duty Welding torch'
+p61
+sg24
+g25
+ssS'MW-0401'
+p62
+(dp63
+g3
+g62
+sg4
+S'04'
+p64
+sg6
+(dp65
+S'Welding Tip'
+p66
+(lp67
+S'WT-8'
+p68
+asS'Hose Connection'
+p69
+(lp70
+S"BSP3/8''"
+p71
+asS'Torch Handle'
+p72
+(lp73
+S'Medium Duty'
+p74
+asS'Welding Capacity(mm)'
+p75
+(lp76
+S'0-10'
+p77
+assg20
+(lp78
+sg22
+S'Jpan Type Medium Duty Welding torch'
+p79
+sg24
+g25
+ssS'MW-0701'
+p80
+(dp81
+g3
+g80
+sg4
+S'07'
+p82
+sg6
+(dp83
+S'Welding Tip'
+p84
+(lp85
+S'WT-8'
+p86
+asS'Hose Connection'
+p87
+(lp88
+S'8MM'
+p89
+asS'Torch Handle'
+p90
+(lp91
+S'Light Duty'
+p92
+asS'Welding Capacity(mm)'
+p93
+(lp94
+S'0-25'
+p95
+assg20
+(lp96
+sg22
+S'French SAF Type Light Duty Welding torch'
+p97
+sg24
+g25
+ssS'MW-0703'
+p98
+(dp99
+g3
+g98
+sg4
+S'07'
+p100
+sg6
+(dp101
+S'Welding Tip'
+p102
+(lp103
+S'WT-8'
+p104
+asS'Hose Connection'
+p105
+(lp106
+S'8MM'
+p107
+asS'Torch Handle'
+p108
+(lp109
+S'Light Duty'
+p110
+asS'Welding Capacity(mm)'
+p111
+(lp112
+S'0-25'
+p113
+assg20
+(lp114
+sg22
+S'French Sofajo Type Light Duty Welding torch'
+p115
+sg24
+g25
+ssS'MW-0702'
+p116
+(dp117
+g3
+g116
+sg4
+S'07'
+p118
+sg6
+(dp119
+S'Welding Tip'
+p120
+(lp121
+S'WT-8'
+p122
+asS'Hose Connection'
+p123
+(lp124
+S'8MM'
+p125
+asS'Torch Handle'
+p126
+(lp127
+S'Light Duty'
+p128
+asS'Welding Capacity(mm)'
+p129
+(lp130
+S'0-25'
+p131
+assg20
+(lp132
+sg22
+S'French Sofajo Type Light Duty Welding torch'
+p133
+sg24
+g25
+ssS'MW-0201'
+p134
+(dp135
+g3
+g134
+sg4
+S'02'
+p136
+sg6
+(dp137
+S'Welding Tip'
+p138
+(lp139
+S'2024W'
+p140
+asS'Hose Connection'
+p141
+(lp142
+S"BSP3/8''"
+p143
+asS'Torch Handle'
+p144
+(lp145
+S'Light Duty'
+p146
+asS'Welding Capacity(mm)'
+p147
+(lp148
+S'0-12'
+p149
+assg20
+(lp150
+sg22
+S'British Type Light Duty Welding torch'
+p151
+sg24
+g25
+ssS'MW-0202'
+p152
+(dp153
+g3
+g152
+sg4
+S'02'
+p154
+sg6
+(dp155
+S'Welding Tip'
+p156
+(lp157
+S'2024W'
+p158
+asS'Hose Connection'
+p159
+(lp160
+S"BSP3/8''"
+p161
+asS'Torch Handle'
+p162
+(lp163
+S'Medium Duty'
+p164
+asS'Welding Capacity(mm)'
+p165
+(lp166
+S'0-12'
+p167
+assg20
+(lp168
+sg22
+S'British Type Medium Duty Welding torch'
+p169
+sg24
+g25
+ssS'MW-1301'
+p170
+(dp171
+g3
+g170
+sg4
+S'13'
+p172
+sg6
+(dp173
+S'Welding Tip'
+p174
+(lp175
+S'WT-8'
+p176
+asS'Hose Connection'
+p177
+(lp178
+S'8MM'
+p179
+asS'Torch Handle'
+p180
+(lp181
+S'Heavy Duty'
+p182
+asS'Welding Capacity(mm)'
+p183
+(lp184
+S'0-25'
+p185
+assg20
+(lp186
+sg22
+S'Switzerland Model Gloor Type Heavy Duty Welding torch'
+p187
+sg24
+g25
+ss.

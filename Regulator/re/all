@@ -1,0 +1,8778 @@
+(dp0
+S'MW-0501'
+p1
+(dp2
+S'order_no'
+p3
+g1
+sS'country'
+p4
+S'05'
+p5
+sS'specification'
+p6
+(dp7
+S'Torch Handle'
+p8
+(lp9
+S'Medium Duty'
+p10
+asS'Hose Connection'
+p11
+(lp12
+S'M16*1.5 6/9MM'
+p13
+asS'Welding Tip'
+p14
+(lp15
+S'2024W'
+p16
+asS'Welding Capacity(mm)'
+p17
+(lp18
+S'0-12'
+p19
+assS'feaList'
+p20
+(lp21
+sS'typeDetail'
+p22
+S'Russia Type Medium Duty Welding torch'
+p23
+sS'typeInShort'
+p24
+S'Welding torch'
+p25
+ssS'MC-0601'
+p26
+(dp27
+S'order_no'
+p28
+g26
+sS'country'
+p29
+S'06'
+p30
+sS'specification'
+p31
+(dp32
+S'Length(mm)'
+p33
+(lp34
+S'470'
+p35
+asS'Head'
+p36
+(lp37
+S'90\xc2\xb0'
+p38
+asS'Nozzle for Acetylene'
+p39
+(lp40
+S'2025C'
+p41
+asS'Nozzle for Propane'
+p42
+(lp43
+S'2025C'
+p44
+asS'Cutting Capacity(mm)'
+p45
+(lp46
+S'3-250'
+p47
+assS'feaList'
+p48
+(lp49
+S'Solid forged head resist abuse and distortion'
+p50
+aS'Brazed connection prevents leaks'
+p51
+aS'Protected torch union nut protects seats and "O"-ring from abuse'
+p52
+aS'Stainless steel forged lever for exceptional strength'
+p53
+aS'Forged brass handle with aluminum grip'
+p54
+aS'Ease-on cutting oxygen control for smoother starts'
+p55
+aS"Hose connection: BSP 3/8'', other thread sizes available"
+p56
+asS'typeDetail'
+p57
+S'Germany Zinser Style Cutting torch'
+p58
+sS'typeInShort'
+p59
+S'Cutting torch'
+p60
+ssS'MR-0402'
+p61
+(dp62
+S'order_no'
+p63
+g61
+sS'country'
+p64
+S'04'
+p65
+sS'specification'
+p66
+(dp67
+S'Inlet Connection'
+p68
+(lp69
+S"G5/8''"
+p70
+asS'Outlet Connection'
+p71
+(lp72
+S"BSP3/8''"
+p73
+asS'Max Inlet Pressure(bar)'
+p74
+(lp75
+S'200'
+p76
+asS'Gas'
+p77
+(lp78
+S'Oxygen'
+p79
+asS'Max Outlet Pressure(bar)'
+p80
+(lp81
+S'15'
+p82
+assS'feaList'
+p83
+(lp84
+S'Forged brass body for maximum strength'
+p85
+aS'Aluminum bonnet spray color paint'
+p86
+aS'Sintered metal inlet filter to trap impurities'
+p87
+aS'No soldered joints for easy maintenance'
+p88
+asS'typeDetail'
+p89
+S'Japan Model Tanaka Type Regulator'
+p90
+sS'typeInShort'
+p91
+S'Regulator'
+p92
+ssS'MR-0112A'
+p93
+(dp94
+g63
+g93
+sg64
+S'01'
+p95
+sg66
+(dp96
+S'Inlet Connection'
+p97
+(lp98
+S'CGA510'
+p99
+asS'Outlet Connection'
+p100
+(lp101
+S"9/16''-18LH"
+p102
+asS'Max Inlet Pressure(Psi)'
+p103
+(lp104
+S'400'
+p105
+asS'Gas'
+p106
+(lp107
+S'Acetylene'
+p108
+asS'Max Outlet Pressure(Psi)'
+p109
+(lp110
+S'15'
+p111
+assg83
+(lp112
+S'Single stage construction'
+p113
+aS'Forged brass body & bonnet for maximum strenth'
+p114
+aS'Stainless steel diaphragm'
+p115
+aS'Sintered metal inlet filter to trap impurities'
+p116
+aS'No soldered joints, for easy maintenance'
+p117
+aS'Side entry'
+p118
+aS'Connection of other thread sizes avaliable'
+p119
+asg89
+S'American Style Harris Type Regulator'
+p120
+sg91
+g92
+ssS'MCN-0701'
+p121
+(dp122
+S'order_no'
+p123
+g121
+sS'country'
+p124
+S'07'
+p125
+sS'specification'
+p126
+(dp127
+S'Model No'
+p128
+(lp129
+S'7/10'
+p130
+aS'10/10'
+p131
+aS'12/10'
+p132
+aS'16/10'
+p133
+aS'20/10'
+p134
+aS'25/10'
+p135
+aS'30/10'
+p136
+asS'Orifice Size(mm)'
+p137
+(lp138
+S'0.7'
+p139
+aS'1'
+p140
+aS'1.2'
+p141
+aS'1.6'
+p142
+aS'2'
+p143
+aS'2.5'
+p144
+aS'3'
+p145
+asS'Cutting Thickness(mm)'
+p146
+(lp147
+S'3-10'
+p148
+aS'10-25'
+p149
+aS'25-50'
+p150
+aS'50-80'
+p151
+aS'80-120'
+p152
+aS'120-200'
+p153
+aS'200-300'
+p154
+assS'feaList'
+p155
+(lp156
+sS'typeDetail'
+p157
+S'G1-P French Type Cutting Nozzle'
+p158
+sS'typeInShort'
+p159
+S'cutting nozzle'
+p160
+ssS'MCN-0702'
+p161
+(dp162
+g123
+g161
+sg124
+S'07'
+p163
+sg126
+(dp164
+S'Model No'
+p165
+(lp166
+S'7/10'
+p167
+aS'10/10'
+p168
+aS'12/10'
+p169
+aS'16/10'
+p170
+aS'20/10'
+p171
+aS'25/10'
+p172
+aS'30/10'
+p173
+asS'Orifice Size(mm)'
+p174
+(lp175
+S'0.7'
+p176
+aS'1'
+p177
+aS'1.2'
+p178
+aS'1.6'
+p179
+aS'2'
+p180
+aS'2.5'
+p181
+aS'3'
+p182
+asS'Cutting Thickness(mm)'
+p183
+(lp184
+S'3-10'
+p185
+aS'10-25'
+p186
+aS'25-50'
+p187
+aS'50-80'
+p188
+aS'80-120'
+p189
+aS'120-200'
+p190
+aS'200-300'
+p191
+assg155
+(lp192
+sg157
+S'G1-A French Type Cutting Nozzle'
+p193
+sg159
+g160
+ssS'MW-0401'
+p194
+(dp195
+g3
+g194
+sg4
+S'04'
+p196
+sg6
+(dp197
+S'Torch Handle'
+p198
+(lp199
+S'Medium Duty'
+p200
+asS'Hose Connection'
+p201
+(lp202
+S"BSP3/8''"
+p203
+asS'Welding Tip'
+p204
+(lp205
+S'WT-8'
+p206
+asS'Welding Capacity(mm)'
+p207
+(lp208
+S'0-10'
+p209
+assg20
+(lp210
+sg22
+S'Jpan Type Medium Duty Welding torch'
+p211
+sg24
+g25
+ssS'MR-0401'
+p212
+(dp213
+g63
+g212
+sg64
+S'04'
+p214
+sg66
+(dp215
+S'Inlet Connection'
+p216
+(lp217
+S"G5/8''"
+p218
+asS'Outlet Connection'
+p219
+(lp220
+S"BSP3/8''"
+p221
+asS'Max Inlet Pressure(bar)'
+p222
+(lp223
+S'200'
+p224
+asS'Gas'
+p225
+(lp226
+S'Oxygen'
+p227
+asS'Max Outlet Pressure(bar)'
+p228
+(lp229
+S'15'
+p230
+assg83
+(lp231
+S'Forged brass body for maximum strength'
+p232
+aS'Aluminum bonnet spray color paint'
+p233
+aS'Sintered metal inlet filter to trap impurities'
+p234
+aS'No soldered joints for easy maintenance'
+p235
+asg89
+S'Japan Model Yamato Type Regulator'
+p236
+sg91
+g92
+ssS'MC-0403'
+p237
+(dp238
+g28
+g237
+sg29
+S'04'
+p239
+sg31
+(dp240
+S'Length(mm)'
+p241
+(lp242
+S'440'
+p243
+asS'Head'
+p244
+(lp245
+S'90\xc2\xb0'
+p246
+asS'Nozzle for Acetylene'
+p247
+(lp248
+S'"M" AC'
+p249
+asS'Nozzle for Propane'
+p250
+(lp251
+S'"M" LPG'
+p252
+asS'Cutting Capacity(mm)'
+p253
+(lp254
+S'3-100'
+p255
+assg48
+(lp256
+S'Die-forged brass head for added strength and durability'
+p257
+aS'Suitable for both acetylene and propane service'
+p258
+aS'Nozzle mix principle for maximum safety'
+p259
+aS"Hose connection: BSP 3/8'', other thread sizes available"
+p260
+asg57
+S'440 M Type Cutting torch'
+p261
+sg59
+g60
+ssS'MR-0403'
+p262
+(dp263
+g63
+g262
+sg64
+S'04'
+p264
+sg66
+(dp265
+S'Inlet Connection'
+p266
+(lp267
+S"G5/8''"
+p268
+asS'Outlet Connection'
+p269
+(lp270
+S"BSP3/8''"
+p271
+asS'Max Inlet Pressure(bar)'
+p272
+(lp273
+S'200'
+p274
+asS'Gas'
+p275
+(lp276
+S'Oxygen'
+p277
+asS'Max Outlet Pressure(bar)'
+p278
+(lp279
+S'15'
+p280
+assg83
+(lp281
+S'Forged brass body for maximum strength'
+p282
+aS'Aluminum bonnet spray color paint'
+p283
+aS'Sintered metal inlet filter to trap impurities'
+p284
+aS'No soldered joints for easy maintenance'
+p285
+asg89
+S'Japan Model Nakata Type Regulator'
+p286
+sg91
+g92
+ssS'MR-0501A'
+p287
+(dp288
+g63
+g287
+sg64
+S'05'
+p289
+sg66
+(dp290
+S'Inlet Connection'
+p291
+(lp292
+S'G3/4'
+p293
+asS'Outlet Connection'
+p294
+(lp295
+S'M16*1.5'
+p296
+asS'Max Inlet Pressure(Mpa)'
+p297
+(lp298
+S'16'
+p299
+asS'Gas'
+p300
+(lp301
+S'CO2'
+p302
+asS'Max Outlet Pressure(Mpa)'
+p303
+(lp304
+S'1'
+p305
+assg83
+(lp306
+S'Forged brass body for maximum strength'
+p307
+aS'Suitable for various welding and cutting applications'
+p308
+aS'Body and cap forged A brass ensure maximum strength'
+p309
+aS'Deisgn expecially for for Russian Market'
+p310
+aS'Coonnection of other thread sizes avaliable'
+p311
+asg89
+S'Russia Type Regulator'
+p312
+sg91
+g92
+ssS'MR-0104A'
+p313
+(dp314
+g63
+g313
+sg64
+S'01'
+p315
+sg66
+(dp316
+S'Inlet Connection'
+p317
+(lp318
+S'CGA510'
+p319
+asS'Outlet Connection'
+p320
+(lp321
+S"9/16''-18LH"
+p322
+asS'Max Inlet Pressure(Psi)'
+p323
+(lp324
+S'400'
+p325
+asS'Gas'
+p326
+(lp327
+S'Acetylene'
+p328
+asS'Max Outlet Pressure(Psi)'
+p329
+(lp330
+S'15'
+p331
+assg83
+(lp332
+S'Single stage construction'
+p333
+aS'Forged brass body & bonnet for maximum strenth'
+p334
+aS'Stainless steel diaphragm'
+p335
+aS'Sintered metal inlet filter to trap impurities'
+p336
+aS'No soldered joints, for easy maintenance'
+p337
+aS'Side entry'
+p338
+aS'Connection of other thread sizes avaliable'
+p339
+asg89
+S'American Style Victor Type SR450 Heavy Duty Regulator'
+p340
+sg91
+g92
+ssS'MC-0404'
+p341
+(dp342
+g28
+g341
+sg29
+S'04'
+p343
+sg31
+(dp344
+S'Length(mm)'
+p345
+(lp346
+S'450'
+p347
+asS'Head'
+p348
+(lp349
+S'90\xc2\xb0'
+p350
+asS'Nozzle for Acetylene'
+p351
+(lp352
+S'"A" AC'
+p353
+asS'Nozzle for Propane'
+p354
+(lp355
+S'"A" LPG'
+p356
+asS'Cutting Capacity(mm)'
+p357
+(lp358
+S'3-150'
+p359
+assg48
+(lp360
+S'Die-forged brass head for added strength and durability'
+p361
+aS'Suitable for both acetylene and propane service'
+p362
+aS'Nozzle mix principle for maximum safety'
+p363
+aS"Hose connection: BSP 3/8'', other thread sizes available"
+p364
+asg57
+S'520 A Type Cutting torch'
+p365
+sg59
+g60
+ssS'MR-0104B'
+p366
+(dp367
+g63
+g366
+sg64
+S'01'
+p368
+sg66
+(dp369
+S'Inlet Connection'
+p370
+(lp371
+S'CGA510'
+p372
+asS'Outlet Connection'
+p373
+(lp374
+S"9/16''-18LH"
+p375
+asS'Max Inlet Pressure(Psi)'
+p376
+(lp377
+S'400'
+p378
+asS'Gas'
+p379
+(lp380
+S'Propane'
+p381
+asS'Max Outlet Pressure(Psi)'
+p382
+(lp383
+S'125'
+p384
+assg83
+(lp385
+S'Single stage construction'
+p386
+aS'Forged brass body & bonnet for maximum strenth'
+p387
+aS'Stainless steel diaphragm'
+p388
+aS'Sintered metal inlet filter to trap impurities'
+p389
+aS'No soldered joints, for easy maintenance'
+p390
+aS'Side entry'
+p391
+aS'Connection of other thread sizes avaliable'
+p392
+asg89
+S'American Style Victor Type SR450 Heavy Duty Regulator'
+p393
+sg91
+g92
+ssS'MCN-0102'
+p394
+(dp395
+g123
+g394
+sg124
+S'01'
+p396
+sg126
+(dp397
+S'Model No'
+p398
+(lp399
+S'000'
+p400
+aS'00'
+p401
+aS'0'
+p402
+aS'1'
+p403
+aS'2'
+p404
+aS'3'
+p405
+aS'4'
+p406
+aS'5'
+p407
+aS'6'
+p408
+aS'7'
+p409
+aS'8'
+p410
+asS'Orifice Size(mm)'
+p411
+(lp412
+S'0.7'
+p413
+aS'0.8'
+p414
+aS'1'
+p415
+aS'1.2'
+p416
+aS'1.5'
+p417
+aS'1.8'
+p418
+aS'2.1'
+p419
+aS'2.5'
+p420
+aS'3'
+p421
+aS'3.5'
+p422
+aS'4'
+p423
+asS'Cutting Thickness(mm)'
+p424
+(lp425
+S'1-3'
+p426
+aS'3-6'
+p427
+aS'6-10'
+p428
+aS'10-20'
+p429
+aS'20-40'
+p430
+aS'40-60'
+p431
+aS'60-80'
+p432
+aS'80-125'
+p433
+aS'125-200'
+p434
+aS'200-250'
+p435
+aS'250-300'
+p436
+assg155
+(lp437
+sg157
+S'1-101 Acetylene American Type Cutting Nozzle'
+p438
+sg159
+g160
+ssS'MCN-0103'
+p439
+(dp440
+g123
+g439
+sg124
+S'01'
+p441
+sg126
+(dp442
+S'Model No'
+p443
+(lp444
+S'000'
+p445
+aS'00'
+p446
+ag402
+ag403
+ag404
+ag405
+ag406
+ag407
+ag408
+ag409
+ag410
+asS'Orifice Size(mm)'
+p447
+(lp448
+S'0.8'
+p449
+aS'0.9'
+p450
+aS'1'
+p451
+aS'1.2'
+p452
+aS'1.6'
+p453
+aS'2'
+p454
+aS'2.4'
+p455
+aS'2.8'
+p456
+aS'3.2'
+p457
+aS'3.5'
+p458
+aS'4'
+p459
+asS'Cutting Thickness(mm)'
+p460
+(lp461
+S'1-5'
+p462
+aS'5-10'
+p463
+aS'10-15'
+p464
+aS'15-25'
+p465
+aS'25-50'
+p466
+aS'50-100'
+p467
+aS'100-175'
+p468
+aS'175-250'
+p469
+aS'250-300'
+p470
+aS'200-250'
+p471
+aS'250-300'
+p472
+assg155
+(lp473
+sg157
+S'6290NX Propane American Type Cutting Nozzle'
+p474
+sg159
+g160
+ssS'MR-0105B'
+p475
+(dp476
+g63
+g475
+sg64
+S'01'
+p477
+sg66
+(dp478
+S'Inlet Connection'
+p479
+(lp480
+S'Clamp'
+p481
+asS'Outlet Connection'
+p482
+(lp483
+S"9/16''-18LH"
+p484
+asS'Max Inlet Pressure(Psi)'
+p485
+(lp486
+S'400'
+p487
+asS'Gas'
+p488
+(lp489
+S'Propane'
+p490
+asS'Max Outlet Pressure(Psi)'
+p491
+(lp492
+S'125'
+p493
+assg83
+(lp494
+S'Single stage construction'
+p495
+aS'Forged brass body & bonnet for maximum strenth'
+p496
+aS'Stainless steel diaphragm'
+p497
+aS'Sintered metal inlet filter to trap impurities'
+p498
+aS'No soldered joints, for easy maintenance'
+p499
+aS'Side entry'
+p500
+aS'Connection of other thread sizes avaliable'
+p501
+asg89
+S'American Style Victor Type Heavy Duty Regulator'
+p502
+sg91
+g92
+ssS'MCN-0101'
+p503
+(dp504
+g123
+g503
+sg124
+S'01'
+p505
+sg126
+(dp506
+S'Model No'
+p507
+(lp508
+S'000'
+p509
+aS'00'
+p510
+ag402
+ag403
+ag404
+ag405
+ag406
+ag407
+ag408
+ag409
+ag410
+asS'Orifice Size(mm)'
+p511
+(lp512
+S'0.7'
+p513
+aS'0.8'
+p514
+aS'1'
+p515
+aS'1.2'
+p516
+aS'1.5'
+p517
+aS'1.8'
+p518
+aS'2.1'
+p519
+aS'2.5'
+p520
+aS'3.1'
+p521
+aS'3.6'
+p522
+aS'4.1'
+p523
+asS'Cutting Thickness(mm)'
+p524
+(lp525
+S'1-3'
+p526
+aS'3-6'
+p527
+aS'6-10'
+p528
+aS'10-20'
+p529
+aS'20-40'
+p530
+aS'40-60'
+p531
+aS'60-80'
+p532
+aS'80-125'
+p533
+aS'125-200'
+p534
+aS'200-250'
+p535
+aS'250-300'
+p536
+assg155
+(lp537
+sg157
+S'GPN Propane American Type Cutting Nozzle'
+p538
+sg159
+g160
+ssS'MCN-0104'
+p539
+(dp540
+g123
+g539
+sg124
+S'01'
+p541
+sg126
+(dp542
+S'Model No'
+p543
+(lp544
+S'000'
+p545
+aS'00'
+p546
+ag402
+ag403
+ag404
+ag405
+ag406
+ag407
+ag408
+ag409
+ag410
+asS'Orifice Size(mm)'
+p547
+(lp548
+S'0.7'
+p549
+aS'0.8'
+p550
+aS'1'
+p551
+aS'1.2'
+p552
+aS'1.5'
+p553
+aS'1.8'
+p554
+aS'2.1'
+p555
+aS'2.5'
+p556
+aS'3'
+p557
+aS'3.5'
+p558
+aS'4'
+p559
+asS'Cutting Thickness(mm)'
+p560
+(lp561
+S'1-3'
+p562
+aS'3-6'
+p563
+aS'6-10'
+p564
+aS'10-20'
+p565
+aS'20-40'
+p566
+aS'40-60'
+p567
+aS'60-80'
+p568
+aS'80-125'
+p569
+aS'125-200'
+p570
+aS'200-250'
+p571
+aS'250-300'
+p572
+assg155
+(lp573
+sg157
+S'6290 Acetylene American Type Cutting Nozzle'
+p574
+sg159
+g160
+ssS'MR-0303A'
+p575
+(dp576
+g63
+g575
+sg64
+S'03'
+p577
+sg66
+(dp578
+S'Inlet Connection'
+p579
+(lp580
+S'Clamp'
+p581
+asS'Outlet Connection'
+p582
+(lp583
+S"G1/4''-19-LH"
+p584
+asS'Max Inlet Pressure(bar)'
+p585
+(lp586
+S'25'
+p587
+asS'Gas'
+p588
+(lp589
+S'Acetylene'
+p590
+asS'Max Outlet Pressure(bar)'
+p591
+(lp592
+S'1.5'
+p593
+assg83
+(lp594
+S'Ideal to fit welding machine MIG/MAG, which require robustness and high flow rates stability'
+p595
+aS'The additional valve for fine control and convenience and ensures a high flow stability'
+p596
+aS'Adjusting knob made of high grade PC provides smooth pressure adjustment'
+p597
+aS'A very sturdy structure for a pressure reducer with bottom adjusting knob and side entry'
+p598
+aS'Integrated safety valve and shut-off valve'
+p599
+aS'No soldered joints for easy maintenance'
+p600
+asg89
+S'Italy Type Regulator'
+p601
+sg91
+g92
+ssS'MR-0802A'
+p602
+(dp603
+g63
+g602
+sg64
+S'08'
+p604
+sg66
+(dp605
+S'Inlet Connection'
+p606
+(lp607
+S"G5/8''"
+p608
+asS'Outlet Connection'
+p609
+(lp610
+S"BSP3/8''-LH"
+p611
+asS'Max Inlet Pressure(Psi)'
+p612
+(lp613
+S'30'
+p614
+asS'Gas'
+p615
+(lp616
+S'Acetylene'
+p617
+asS'Max Outlet Pressure(Psi)'
+p618
+(lp619
+S'1.5'
+p620
+assg83
+(lp621
+S'Single stage construction'
+p622
+aS'Solid forged brass body with all operational data permanentlyengraved'
+p623
+aS'Unique encapsulated vavle design for maximum control'
+p624
+aS'Sintered metal inlet filter to trap impurities'
+p625
+aS'No soldered joints, for easy maintenance'
+p626
+aS'Connection of other thread sizes avaliable'
+p627
+asg89
+S'South-East Asia Type Regulator'
+p628
+sg91
+g92
+ssS'MR-0802B'
+p629
+(dp630
+g63
+g629
+sg64
+S'08'
+p631
+sg66
+(dp632
+S'Inlet Connection'
+p633
+(lp634
+S"G5/8''"
+p635
+asS'Outlet Connection'
+p636
+(lp637
+S"BSP3/8''-LH"
+p638
+asS'Max Inlet Pressure(Psi)'
+p639
+(lp640
+S'30'
+p641
+asS'Gas'
+p642
+(lp643
+S'Propane'
+p644
+asS'Max Outlet Pressure(Psi)'
+p645
+(lp646
+S'1.5'
+p647
+assg83
+(lp648
+S'Single stage construction'
+p649
+aS'Solid forged brass body with all operational data permanentlyengraved'
+p650
+aS'Unique encapsulated vavle design for maximum control'
+p651
+aS'Sintered metal inlet filter to trap impurities'
+p652
+aS'No soldered joints, for easy maintenance'
+p653
+aS'Connection of other thread sizes avaliable'
+p654
+asg89
+S'South-East Asia Type Regulator'
+p655
+sg91
+g92
+ssS'MC-0201'
+p656
+(dp657
+g28
+g656
+sg29
+S'02'
+p658
+sg31
+(dp659
+S'Length(mm)'
+p660
+(lp661
+S'490'
+p662
+aS'490'
+p663
+asS'Head'
+p664
+(lp665
+S'75\xc2\xb0/90\xc2\xb0/180\xc2\xb0'
+p666
+aS'75\xc2\xb0/90\xc2\xb0/180\xc2\xb0'
+p667
+asS'Nozzle for Acetylene'
+p668
+(lp669
+S'ANM '
+p670
+aS'ANME'
+p671
+asS'Nozzle for Propane'
+p672
+(lp673
+S'PNM '
+p674
+aS'PNME'
+p675
+asS'Cutting Capacity(mm)'
+p676
+(lp677
+S'3-300'
+p678
+aS'3-300'
+p679
+assg48
+(lp680
+S'Die-forged brass head for added strength and durability'
+p681
+aS'Suitable for both acetylene and propane service'
+p682
+aS'Backfire resistant design'
+p683
+aS'Nozzle mix principle for maximum safety'
+p684
+aS'Stainless steel lever with hold-down button'
+p685
+aS"Hose connection: BSP 3/8'', other thread sizes available"
+p686
+asg57
+S'NM-250 Cutting torch'
+p687
+sg59
+g60
+ssS'MC-0202'
+p688
+(dp689
+g28
+g688
+sg29
+S'02'
+p690
+sg31
+(dp691
+S'Length(mm)'
+p692
+(lp693
+S'445'
+p694
+aS'445'
+p695
+asS'Head'
+p696
+(lp697
+S'90\xc2\xb0'
+p698
+aS'90\xc2\xb0'
+p699
+asS'Nozzle for Acetylene'
+p700
+(lp701
+S'ANM '
+p702
+aS'ANME'
+p703
+asS'Nozzle for Propane'
+p704
+(lp705
+S'PNM '
+p706
+aS'PNME'
+p707
+asS'Cutting Capacity(mm)'
+p708
+(lp709
+S'3-200'
+p710
+aS'3-200'
+p711
+assg48
+(lp712
+S'CA-271 cutting attachment'
+p713
+aS'TH-272 torch handle'
+p714
+aS'Heavy chrome finish for maximum wear resistance'
+p715
+aS'Stainless steel tubes'
+p716
+aS'Unique aluminum alloy gun drilled handle specially shaped for comfort and lightness with strength and reliability'
+p717
+aS'Brass coupling nut & "O" ring seals give quick gas-tight seal tightening'
+p718
+aS'Totally encapsulated trim valves for precise gas control'
+p719
+aS'Suitable for all fuel gases, pressure restrictions for different gases'
+p720
+aS"Hose connection: BSP 3/8'', other thread sizes available"
+p721
+asg57
+S'GE-540 Saffire Murex Type Cutting torch'
+p722
+sg59
+g60
+ssS'MR-0201A'
+p723
+(dp724
+g63
+g723
+sg64
+S'02'
+p725
+sg66
+(dp726
+S'Inlet Connection'
+p727
+(lp728
+S"G5/8''"
+p729
+asS'Outlet Connection'
+p730
+(lp731
+S"BSP3/8''-LH"
+p732
+asS'Max Inlet Pressure(Psi)'
+p733
+(lp734
+S'300'
+p735
+asS'Gas'
+p736
+(lp737
+S'Acetylene'
+p738
+asS'Max Outlet Pressure(Psi)'
+p739
+(lp740
+S'25'
+p741
+assg83
+(lp742
+S'Single stage construction'
+p743
+aS'Solid forged brass body with all operational data permanentlyengraved'
+p744
+aS'Unique encapsulated vavle design for maximum control'
+p745
+aS'Oxyen regulator with safety relif valve is set for safe operation'
+p746
+aS'Sintered metal inlet filter to trap impurities'
+p747
+aS'No soldered joints, for easy maintenance'
+p748
+aS'Side entry'
+p749
+aS'Connection of other thread sizes avaliable'
+p750
+asg89
+S'British Style Murex Type 300 Series Regulator'
+p751
+sg91
+g92
+ssS'MR-0503'
+p752
+(dp753
+g63
+g752
+sg64
+S'05'
+p754
+sg66
+(dp755
+S'Inlet Connection'
+p756
+(lp757
+S'G3/4'
+p758
+asS'Outlet Connection'
+p759
+(lp760
+S'M16*1.5'
+p761
+asS'Max Inlet Pressure(Mpa)'
+p762
+(lp763
+S'25'
+p764
+asS'Gas'
+p765
+(lp766
+S'Oxygen'
+p767
+asS'Max Outlet Pressure(Mpa)'
+p768
+(lp769
+S'2.5'
+p770
+assg83
+(lp771
+S'Forged brass body for maximum strength'
+p772
+aS'Suitable for various welding and cutting applications'
+p773
+aS'Body and cap forged A brass ensure maximum strength'
+p774
+aS'Deisgn expecially for for Russian Market'
+p775
+aS'Coonnection of other thread sizes avaliable'
+p776
+asg89
+S'Russia Type Regulator'
+p777
+sg91
+g92
+ssS'MR-0701A'
+p778
+(dp779
+g63
+g778
+sg64
+S'07'
+p780
+sg66
+(dp781
+S'Inlet Connection'
+p782
+(lp783
+S'Clamp'
+p784
+asS'Outlet Connection'
+p785
+(lp786
+S"BSP3/8''-LH"
+p787
+asS'Max Inlet Pressure(Psi)'
+p788
+(lp789
+S'30'
+p790
+asS'Gas'
+p791
+(lp792
+S'Acetylene'
+p793
+asS'Max Outlet Pressure(Psi)'
+p794
+(lp795
+S'1.5'
+p796
+assg83
+(lp797
+S'Single stage construction'
+p798
+aS'Solid forged brass body with all operational data permanentlyengraved'
+p799
+aS'Unique encapsulated vavle design for maximum control'
+p800
+aS'Sintered metal inlet filter to trap impurities'
+p801
+aS'No soldered joints, for easy maintenance'
+p802
+aS'Connection of other thread sizes avaliable'
+p803
+asg89
+S'French Model SAF Type Regulator'
+p804
+sg91
+g92
+ssS'MR-0701B'
+p805
+(dp806
+g63
+g805
+sg64
+S'07'
+p807
+sg66
+(dp808
+S'Inlet Connection'
+p809
+(lp810
+S"G5/8''"
+p811
+asS'Outlet Connection'
+p812
+(lp813
+S"BSP3/8''-RH"
+p814
+asS'Max Inlet Pressure(Psi)'
+p815
+(lp816
+S'200'
+p817
+asS'Gas'
+p818
+(lp819
+S'CO2'
+p820
+asS'Max Outlet Pressure(Psi)'
+p821
+(lp822
+S'10'
+p823
+assg83
+(lp824
+S'Single stage construction'
+p825
+aS'Solid forged brass body with all operational data permanentlyengraved'
+p826
+aS'Unique encapsulated vavle design for maximum control'
+p827
+aS'Sintered metal inlet filter to trap impurities'
+p828
+aS'No soldered joints, for easy maintenance'
+p829
+aS'Connection of other thread sizes avaliable'
+p830
+asg89
+S'French Model SAF Type Regulator'
+p831
+sg91
+g92
+ssS'MR-0101'
+p832
+(dp833
+g63
+g832
+sg64
+S'01'
+p834
+sg66
+(dp835
+S'Inlet Connection'
+p836
+(lp837
+S'CGA540'
+p838
+asS'Outlet Connection'
+p839
+(lp840
+S"9/16''-18"
+p841
+asS'Max Inlet Pressure(Psi)'
+p842
+(lp843
+S'3000'
+p844
+asS'Gas'
+p845
+(lp846
+S'Oxygen'
+p847
+asS'Max Outlet Pressure(Psi)'
+p848
+(lp849
+S'250'
+p850
+assg83
+(lp851
+S'Single stage construction'
+p852
+aS'Forged brass body & bonnet for maximum strenth'
+p853
+aS'Stainless steel diaphragm'
+p854
+aS'Oxyen regulator with safety relif valve is set for safe operation'
+p855
+aS'Sintered metal inlet filter to trap impurities'
+p856
+aS'No soldered joints, for easy maintenance'
+p857
+aS'Side entry'
+p858
+aS'Connection of other thread sizes avaliable'
+p859
+asg89
+S'American Style Victor Type SR450 Heavy Duty Regulator'
+p860
+sg91
+g92
+ssS'MCN-0902'
+p861
+(dp862
+g123
+g861
+sg124
+S'09'
+p863
+sg126
+(dp864
+S'Model No'
+p865
+(lp866
+S'#2'
+p867
+aS'#3'
+p868
+aS'#4'
+p869
+aS'#6'
+p870
+aS'#8'
+p871
+aS'#10'
+p872
+aS'#12'
+p873
+asS'Orifice Size(mm)'
+p874
+(lp875
+S'0.8'
+p876
+aS'0.9'
+p877
+aS'1'
+p878
+aS'1.5'
+p879
+aS'2'
+p880
+aS'2.4'
+p881
+aS'3'
+p882
+asS'Cutting Thickness(mm)'
+p883
+(lp884
+S'3-6'
+p885
+aS'6-10'
+p886
+aS'10-15'
+p887
+aS'15-25'
+p888
+aS'25-125'
+p889
+aS'125-250'
+p890
+aS'250-300'
+p891
+assg155
+(lp892
+sg157
+S'1502 Acetylene Brazil Type Cutting Nozzle'
+p893
+sg159
+g160
+ssS'MC-0101A'
+p894
+(dp895
+g28
+g894
+sg29
+S'01'
+p896
+sg31
+(dp897
+S'Length(mm)'
+p898
+(lp899
+S'410'
+p900
+asS'Head'
+p901
+(lp902
+S'90\xc2\xb0'
+p903
+asS'Nozzle for Acetylene'
+p904
+(lp905
+S'3-101'
+p906
+asS'Nozzle for Propane'
+p907
+(lp908
+S'3-GPN'
+p909
+asS'Cutting Capacity(mm)'
+p910
+(lp911
+S'3-50'
+p912
+assg48
+(lp913
+S'CA-1350 cutting attachment'
+p914
+aS'100FC torch handle'
+p915
+aS'Die-forged brass head for added strength and durability'
+p916
+aS'Stainless steel tubes'
+p917
+aS'Smooth cutting oxygen valve(pull type)'
+p918
+aS'Brass coupling nut & "O" ring seals give quick gas-tight seal tightening'
+p919
+aS'Built-in reverse flow check valves for added safety'
+p920
+aS'Suitable for all fuel gases, pressure restrictions for different gases'
+p921
+aS"Hose connection: 9/16''-18, other thread sizes available"
+p922
+asg57
+S'100FC Victor Type Cutting torch'
+p923
+sg59
+g60
+ssS'MCN-0901'
+p924
+(dp925
+g123
+g924
+sg124
+S'09'
+p926
+sg126
+(dp927
+S'Model No'
+p928
+(lp929
+S'#2'
+p930
+aS'#3'
+p931
+aS'#4'
+p932
+aS'#6'
+p933
+aS'#8'
+p934
+aS'#10'
+p935
+aS'#12'
+p936
+aS'#14'
+p937
+aS'#16'
+p938
+asS'Orifice Size(mm)'
+p939
+(lp940
+S'0.6'
+p941
+aS'0.8'
+p942
+aS'1'
+p943
+aS'1.5'
+p944
+aS'2'
+p945
+aS'2.5'
+p946
+aS'3'
+p947
+aS'3.6'
+p948
+aS'4'
+p949
+asS'Cutting Thickness(mm)'
+p950
+(lp951
+S'3-6'
+p952
+aS'6-10'
+p953
+aS'10-25'
+p954
+aS'25-50'
+p955
+aS'50-100'
+p956
+aS'100-150'
+p957
+aS'150-200'
+p958
+aS'200-250'
+p959
+aS'250-350'
+p960
+assg155
+(lp961
+sg157
+S'1503 Propane Brazil Type Cutting Nozzle'
+p962
+sg159
+g160
+ssS'MR-0403B'
+p963
+(dp964
+g63
+g963
+sg64
+S'04'
+p965
+sg66
+(dp966
+S'Inlet Connection'
+p967
+(lp968
+S"G5/8''-LH"
+p969
+asS'Outlet Connection'
+p970
+(lp971
+S"BSP3/8''-LH"
+p972
+asS'Max Inlet Pressure(bar)'
+p973
+(lp974
+S'200'
+p975
+asS'Gas'
+p976
+(lp977
+S'Propane'
+p978
+asS'Max Outlet Pressure(bar)'
+p979
+(lp980
+S'15'
+p981
+assg83
+(lp982
+S'Forged brass body for maximum strength'
+p983
+aS'Aluminum bonnet spray color paint'
+p984
+aS'Sintered metal inlet filter to trap impurities'
+p985
+aS'No soldered joints for easy maintenance'
+p986
+asg89
+S'Japan Model Nakata Type Regulator'
+p987
+sg91
+g92
+ssS'MR-0403A'
+p988
+(dp989
+g63
+g988
+sg64
+S'04'
+p990
+sg66
+(dp991
+S'Inlet Connection'
+p992
+(lp993
+S"G5/8''-LH"
+p994
+asS'Outlet Connection'
+p995
+(lp996
+S"BSP3/8''-LH"
+p997
+asS'Max Inlet Pressure(bar)'
+p998
+(lp999
+S'15'
+p1000
+asS'Gas'
+p1001
+(lp1002
+S'Acetylene'
+p1003
+asS'Max Outlet Pressure(bar)'
+p1004
+(lp1005
+S'1.5'
+p1006
+assg83
+(lp1007
+S'Forged brass body for maximum strength'
+p1008
+aS'Aluminum bonnet spray color paint'
+p1009
+aS'Sintered metal inlet filter to trap impurities'
+p1010
+aS'No soldered joints for easy maintenance'
+p1011
+asg89
+S'Japan Model Nakata Type Regulator'
+p1012
+sg91
+g92
+ssS'MR-0109A'
+p1013
+(dp1014
+g63
+g1013
+sg64
+S'01'
+p1015
+sg66
+(dp1016
+S'Inlet Connection'
+p1017
+(lp1018
+S'CGA510'
+p1019
+asS'Outlet Connection'
+p1020
+(lp1021
+S"9/16''-18LH"
+p1022
+asS'Max Inlet Pressure(Psi)'
+p1023
+(lp1024
+S'400'
+p1025
+asS'Gas'
+p1026
+(lp1027
+S'Acetylene'
+p1028
+asS'Max Outlet Pressure(Psi)'
+p1029
+(lp1030
+S'15'
+p1031
+assg83
+(lp1032
+S'Single stage construction'
+p1033
+aS'Forged brass body & bonnet for maximum strenth'
+p1034
+aS'Stainless steel diaphragm'
+p1035
+aS'Sintered metal inlet filter to trap impurities'
+p1036
+aS'No soldered joints, for easy maintenance'
+p1037
+aS'Side entry'
+p1038
+aS'Connection of other thread sizes avaliable'
+p1039
+asg89
+S'American Style Victor Type Heavy Duty Regulator'
+p1040
+sg91
+g92
+ssS'MW-0201'
+p1041
+(dp1042
+g3
+g1041
+sg4
+S'02'
+p1043
+sg6
+(dp1044
+S'Torch Handle'
+p1045
+(lp1046
+S'Light Duty'
+p1047
+asS'Hose Connection'
+p1048
+(lp1049
+S"BSP3/8''"
+p1050
+asS'Welding Tip'
+p1051
+(lp1052
+S'2024W'
+p1053
+asS'Welding Capacity(mm)'
+p1054
+(lp1055
+S'0-12'
+p1056
+assg20
+(lp1057
+sg22
+S'British Type Light Duty Welding torch'
+p1058
+sg24
+g25
+ssS'MW-0202'
+p1059
+(dp1060
+g3
+g1059
+sg4
+S'02'
+p1061
+sg6
+(dp1062
+S'Torch Handle'
+p1063
+(lp1064
+S'Medium Duty'
+p1065
+asS'Hose Connection'
+p1066
+(lp1067
+S"BSP3/8''"
+p1068
+asS'Welding Tip'
+p1069
+(lp1070
+S'2024W'
+p1071
+asS'Welding Capacity(mm)'
+p1072
+(lp1073
+S'0-12'
+p1074
+assg20
+(lp1075
+sg22
+S'British Type Medium Duty Welding torch'
+p1076
+sg24
+g25
+ssS'MW-0102'
+p1077
+(dp1078
+g3
+g1077
+sg4
+S'01'
+p1079
+sg6
+(dp1080
+S'Torch Handle'
+p1081
+(lp1082
+S'Light Duty'
+p1083
+asS'Hose Connection'
+p1084
+(lp1085
+S"9/16''-18"
+p1086
+asS'Welding Tip'
+p1087
+(lp1088
+S'Minor'
+p1089
+asS'Welding Capacity(mm)'
+p1090
+(lp1091
+S'0-10'
+p1092
+assg20
+(lp1093
+sg22
+S'American Type Jewelry Welding torch'
+p1094
+sg24
+g25
+ssS'MC-0402'
+p1095
+(dp1096
+g28
+g1095
+sg29
+S'04'
+p1097
+sg31
+(dp1098
+S'Length(mm)'
+p1099
+(lp1100
+S'480'
+p1101
+aS'480'
+p1102
+asS'Head'
+p1103
+(lp1104
+S'90\xc2\xb0'
+p1105
+aS'90\xc2\xb0'
+p1106
+asS'Nozzle for Acetylene'
+p1107
+(lp1108
+S'ANM '
+p1109
+aS'ANME'
+p1110
+asS'Nozzle for Propane'
+p1111
+(lp1112
+S'PNM '
+p1113
+aS'PNME'
+p1114
+asS'Cutting Capacity(mm)'
+p1115
+(lp1116
+S'3-200'
+p1117
+aS'3-200'
+p1118
+assg48
+(lp1119
+S'Die-forged brass head for added strength and durability'
+p1120
+aS'Suitable for both acetylene and propane service'
+p1121
+aS'In-line tube design'
+p1122
+aS'Nozzle mix principle for maximum safety'
+p1123
+aS'Stainless steel lever with locking clip'
+p1124
+aS"Hose connection: BSP 3/8'', other thread sizes available"
+p1125
+asg57
+S'Koike MK-100 Type Cutting torch'
+p1126
+sg59
+g60
+ssS'MW-0702'
+p1127
+(dp1128
+g3
+g1127
+sg4
+S'07'
+p1129
+sg6
+(dp1130
+S'Torch Handle'
+p1131
+(lp1132
+S'Light Duty'
+p1133
+asS'Hose Connection'
+p1134
+(lp1135
+S'8MM'
+p1136
+asS'Welding Tip'
+p1137
+(lp1138
+S'WT-8'
+p1139
+asS'Welding Capacity(mm)'
+p1140
+(lp1141
+S'0-25'
+p1142
+assg20
+(lp1143
+sg22
+S'French Sofajo Type Light Duty Welding torch'
+p1144
+sg24
+g25
+ssS'MR-0111A'
+p1145
+(dp1146
+g63
+g1145
+sg64
+S'01'
+p1147
+sg66
+(dp1148
+S'Inlet Connection'
+p1149
+(lp1150
+S'CGA510'
+p1151
+asS'Outlet Connection'
+p1152
+(lp1153
+S"9/16''-18LH"
+p1154
+asS'Max Inlet Pressure(Psi)'
+p1155
+(lp1156
+S'400'
+p1157
+asS'Gas'
+p1158
+(lp1159
+S'Acetylene'
+p1160
+asS'Max Outlet Pressure(Psi)'
+p1161
+(lp1162
+S'15'
+p1163
+assg83
+(lp1164
+S'Single stage construction'
+p1165
+aS'Forged brass body & bonnet for maximum strenth'
+p1166
+aS'Stainless steel diaphragm'
+p1167
+aS'Sintered metal inlet filter to trap impurities'
+p1168
+aS'No soldered joints, for easy maintenance'
+p1169
+aS'Side entry'
+p1170
+aS'Connection of other thread sizes avaliable'
+p1171
+asg89
+S'American Type Heavy Duty Regulator'
+p1172
+sg91
+g92
+ssS'MR-0601B'
+p1173
+(dp1174
+g63
+g1173
+sg64
+S'06'
+p1175
+sg66
+(dp1176
+S'Inlet Connection'
+p1177
+(lp1178
+S'W21.8-14'
+p1179
+asS'Outlet Connection'
+p1180
+(lp1181
+S"BSP3/8''-RH"
+p1182
+asS'Max Inlet Pressure(Psi)'
+p1183
+(lp1184
+S'200'
+p1185
+asS'Gas'
+p1186
+(lp1187
+S'CO2'
+p1188
+asS'Max Outlet Pressure(Psi)'
+p1189
+(lp1190
+S'10'
+p1191
+assg83
+(lp1192
+S'Single stage construction'
+p1193
+aS'Solid forged brass body with all operational data permanentlyengraved'
+p1194
+aS'Unique encapsulated vavle design for maximum control'
+p1195
+aS'Sintered metal inlet filter to trap impurities'
+p1196
+aS'No soldered joints, for easy maintenance'
+p1197
+aS'Connection of other thread sizes avaliable'
+p1198
+asg89
+S'Germany Model Zinser Type Regulator'
+p1199
+sg91
+g92
+ssS'MR-0601A'
+p1200
+(dp1201
+g63
+g1200
+sg64
+S'06'
+p1202
+sg66
+(dp1203
+S'Inlet Connection'
+p1204
+(lp1205
+S'W21.8-14'
+p1206
+asS'Outlet Connection'
+p1207
+(lp1208
+S"BSP3/8''-LH"
+p1209
+asS'Max Inlet Pressure(Psi)'
+p1210
+(lp1211
+S'30'
+p1212
+asS'Gas'
+p1213
+(lp1214
+S'Acetylene'
+p1215
+asS'Max Outlet Pressure(Psi)'
+p1216
+(lp1217
+S'1.5'
+p1218
+assg83
+(lp1219
+S'Single stage construction'
+p1220
+aS'Solid forged brass body with all operational data permanentlyengraved'
+p1221
+aS'Unique encapsulated vavle design for maximum control'
+p1222
+aS'Sintered metal inlet filter to trap impurities'
+p1223
+aS'No soldered joints, for easy maintenance'
+p1224
+aS'Connection of other thread sizes avaliable'
+p1225
+asg89
+S'Germany Model Zinser Type Regulator'
+p1226
+sg91
+g92
+ssS'MR-0101A'
+p1227
+(dp1228
+g63
+g1227
+sg64
+S'01'
+p1229
+sg66
+(dp1230
+S'Inlet Connection'
+p1231
+(lp1232
+S'CGA510'
+p1233
+asS'Outlet Connection'
+p1234
+(lp1235
+S"9/16''-18LH"
+p1236
+asS'Max Inlet Pressure(Psi)'
+p1237
+(lp1238
+S'400'
+p1239
+asS'Gas'
+p1240
+(lp1241
+S'Acetylene'
+p1242
+asS'Max Outlet Pressure(Psi)'
+p1243
+(lp1244
+S'15'
+p1245
+assg83
+(lp1246
+S'Single stage construction'
+p1247
+aS'Forged brass body & bonnet for maximum strenth'
+p1248
+aS'Stainless steel diaphragm'
+p1249
+aS'Sintered metal inlet filter to trap impurities'
+p1250
+aS'No soldered joints, for easy maintenance'
+p1251
+aS'Side entry'
+p1252
+aS'Connection of other thread sizes avaliable'
+p1253
+asg89
+S'American Style Victor Type SR450 Heavy Duty Regulator'
+p1254
+sg91
+g92
+ssS'MR-H01'
+p1255
+(dp1256
+S'order_no'
+p1257
+g1255
+sS'country'
+p1258
+S'H0'
+p1259
+sS'specification'
+p1260
+(dp1261
+S'Inlet Connection'
+p1262
+(lp1263
+S"G5/8''"
+p1264
+asS'Outlet Connection'
+p1265
+(lp1266
+S"BSP3/8''-RH"
+p1267
+asS'Max Inlet Pressure(Bar)'
+p1268
+(lp1269
+S'150'
+p1270
+asS'Gas'
+p1271
+(lp1272
+S'CO2'
+p1273
+assS'feaList'
+p1274
+(lp1275
+S'Full brass body and chrome-plated bonnet'
+p1276
+aS'Voltage output can be requested'
+p1277
+aS'Gas service: Carbon Dioxide'
+p1278
+aS'Various use for automatic welding, general industries, casting and so on.'
+p1279
+asS'typeDetail'
+p1280
+S'CO2 with Heater Regulator'
+p1281
+sS'typeInShort'
+p1282
+S'CO2&Argon regulator'
+p1283
+ssS'MR-0401A'
+p1284
+(dp1285
+g63
+g1284
+sg64
+S'04'
+p1286
+sg66
+(dp1287
+S'Inlet Connection'
+p1288
+(lp1289
+S"G5/8''-LH"
+p1290
+asS'Outlet Connection'
+p1291
+(lp1292
+S"BSP3/8''-LH"
+p1293
+asS'Max Inlet Pressure(bar)'
+p1294
+(lp1295
+S'15'
+p1296
+asS'Gas'
+p1297
+(lp1298
+S'Acetylene'
+p1299
+asS'Max Outlet Pressure(bar)'
+p1300
+(lp1301
+S'1.5'
+p1302
+assg83
+(lp1303
+S'Forged brass body for maximum strength'
+p1304
+aS'Aluminum bonnet spray color paint'
+p1305
+aS'Sintered metal inlet filter to trap impurities'
+p1306
+aS'No soldered joints for easy maintenance'
+p1307
+asg89
+S'Japan Model Yamato Type Regulator'
+p1308
+sg91
+g92
+ssS'MW-0101'
+p1309
+(dp1310
+g3
+g1309
+sg4
+S'01'
+p1311
+sg6
+(dp1312
+S'Torch Handle'
+p1313
+(lp1314
+S'Medium Duty'
+p1315
+asS'Hose Connection'
+p1316
+(lp1317
+S"9/16''-18"
+p1318
+asS'Welding Tip'
+p1319
+(lp1320
+S'L/W'
+p1321
+asS'Welding Capacity(mm)'
+p1322
+(lp1323
+S'0-12'
+p1324
+assg20
+(lp1325
+sg22
+S'American Type Medium Duty Welding torch'
+p1326
+sg24
+g25
+ssS'MR-0401B'
+p1327
+(dp1328
+g63
+g1327
+sg64
+S'04'
+p1329
+sg66
+(dp1330
+S'Inlet Connection'
+p1331
+(lp1332
+S"G5/8''-LH"
+p1333
+asS'Outlet Connection'
+p1334
+(lp1335
+S"BSP3/8''-LH"
+p1336
+asS'Max Inlet Pressure(bar)'
+p1337
+(lp1338
+S'200'
+p1339
+asS'Gas'
+p1340
+(lp1341
+S'Propane'
+p1342
+asS'Max Outlet Pressure(bar)'
+p1343
+(lp1344
+S'15'
+p1345
+assg83
+(lp1346
+S'Forged brass body for maximum strength'
+p1347
+aS'Aluminum bonnet spray color paint'
+p1348
+aS'Sintered metal inlet filter to trap impurities'
+p1349
+aS'No soldered joints for easy maintenance'
+p1350
+asg89
+S'Japan Model Yamato Type Regulator'
+p1351
+sg91
+g92
+ssS'MCN-0407'
+p1352
+(dp1353
+g123
+g1352
+sg124
+S'04'
+p1354
+sg126
+(dp1355
+S'Orifice Size(mm)'
+p1356
+(lp1357
+S'1P'
+p1358
+aS'2P'
+p1359
+aS'3P'
+p1360
+aS'4P'
+p1361
+asS'Cutting Thickness(mm)'
+p1362
+(lp1363
+S'0.7'
+p1364
+aS'0.9'
+p1365
+aS'1.1'
+p1366
+aS'1.3'
+p1367
+assg155
+(lp1368
+sg157
+S'ST8-P Japan Type Cutting Nozzle'
+p1369
+sg159
+g160
+ssS'MCN-0406'
+p1370
+(dp1371
+g123
+g1370
+sg124
+S'04'
+p1372
+sg126
+(dp1373
+S'Model No'
+p1374
+(lp1375
+S'#1'
+p1376
+aS'#2'
+p1377
+aS'#3'
+p1378
+asS'Orifice Size(mm)'
+p1379
+(lp1380
+S'1'
+p1381
+aS'1.3'
+p1382
+aS'1.6'
+p1383
+asS'Cutting Thickness(mm)'
+p1384
+(lp1385
+S'1-15'
+p1386
+aS'15-50'
+p1387
+aS'50-100'
+p1388
+assg155
+(lp1389
+sg157
+S'"A"AC Japan Type Cutting Nozzle'
+p1390
+sg159
+g160
+ssS'MCN-0405'
+p1391
+(dp1392
+g123
+g1391
+sg124
+S'04'
+p1393
+sg126
+(dp1394
+S'Model No'
+p1395
+(lp1396
+S'#1'
+p1397
+aS'#2'
+p1398
+aS'#3'
+p1399
+asS'Orifice Size(mm)'
+p1400
+(lp1401
+S'1'
+p1402
+aS'1.3'
+p1403
+aS'1.6'
+p1404
+asS'Cutting Thickness(mm)'
+p1405
+(lp1406
+S'1-15'
+p1407
+aS'15-50'
+p1408
+aS'50-100'
+p1409
+assg155
+(lp1410
+sg157
+S'"A"LPG Japan Type Cutting Nozzle'
+p1411
+sg159
+g160
+ssS'MCN-0404'
+p1412
+(dp1413
+g123
+g1412
+sg124
+S'04'
+p1414
+sg126
+(dp1415
+S'Model No'
+p1416
+(lp1417
+S'#1'
+p1418
+aS'#2'
+p1419
+aS'#3'
+p1420
+asS'Orifice Size(mm)'
+p1421
+(lp1422
+S'0.7'
+p1423
+aS'0.9'
+p1424
+aS'1.1'
+p1425
+asS'Cutting Thickness(mm)'
+p1426
+(lp1427
+S'1-5'
+p1428
+aS'5-15'
+p1429
+aS'15-30'
+p1430
+assg155
+(lp1431
+sg157
+S'"M"AC Japan Type Cutting Nozzle'
+p1432
+sg159
+g160
+ssS'MCN-0403'
+p1433
+(dp1434
+g123
+g1433
+sg124
+S'04'
+p1435
+sg126
+(dp1436
+S'Model No'
+p1437
+(lp1438
+S'#1'
+p1439
+aS'#2'
+p1440
+aS'#3'
+p1441
+asS'Orifice Size(mm)'
+p1442
+(lp1443
+S'0.7'
+p1444
+aS'0.9'
+p1445
+aS'1.1'
+p1446
+asS'Cutting Thickness(mm)'
+p1447
+(lp1448
+S'1-5'
+p1449
+aS'5-15'
+p1450
+aS'15-30'
+p1451
+assg155
+(lp1452
+sg157
+S'"M"LPG Japan Type Cutting Nozzle'
+p1453
+sg159
+g160
+ssS'MCN-0402'
+p1454
+(dp1455
+g123
+g1454
+sg124
+S'04'
+p1456
+sg126
+(dp1457
+S'Model No'
+p1458
+(lp1459
+S'00'
+p1460
+ag402
+ag403
+ag404
+ag405
+ag406
+ag407
+ag408
+ag409
+ag410
+asS'Orifice Size(mm)'
+p1461
+(lp1462
+S'0.8'
+p1463
+aS'1'
+p1464
+aS'1.2'
+p1465
+aS'1.4'
+p1466
+aS'1.6'
+p1467
+aS'1.8'
+p1468
+aS'2'
+p1469
+aS'2.4'
+p1470
+aS'2.8'
+p1471
+aS'3.2'
+p1472
+asS'Cutting Thickness(mm)'
+p1473
+(lp1474
+S'0-5'
+p1475
+aS'5-10'
+p1476
+aS'10-15'
+p1477
+aS'15-30'
+p1478
+aS'30-40'
+p1479
+aS'40-50'
+p1480
+aS'50-100'
+p1481
+aS'100-150'
+p1482
+aS'150-250'
+p1483
+aS'250-300'
+p1484
+assg155
+(lp1485
+sg157
+S'102 Acetylene Japan Type Cutting Nozzle'
+p1486
+sg159
+g160
+ssS'MCN-0401'
+p1487
+(dp1488
+g123
+g1487
+sg124
+S'04'
+p1489
+sg126
+(dp1490
+S'Model No'
+p1491
+(lp1492
+S'00'
+p1493
+ag402
+ag403
+ag404
+ag405
+ag406
+ag407
+ag408
+ag409
+ag410
+asS'Orifice Size(mm)'
+p1494
+(lp1495
+S'0.8'
+p1496
+aS'1'
+p1497
+aS'1.2'
+p1498
+aS'1.4'
+p1499
+aS'1.6'
+p1500
+aS'1.8'
+p1501
+aS'2'
+p1502
+aS'2.4'
+p1503
+aS'2.8'
+p1504
+aS'3.2'
+p1505
+asS'Cutting Thickness(mm)'
+p1506
+(lp1507
+S'0-5'
+p1508
+aS'5-10'
+p1509
+aS'10-15'
+p1510
+aS'15-30'
+p1511
+aS'30-40'
+p1512
+aS'40-50'
+p1513
+aS'50-100'
+p1514
+aS'100-150'
+p1515
+aS'150-250'
+p1516
+aS'250-300'
+p1517
+assg155
+(lp1518
+sg157
+S'106 Propane Japan Type Cutting Nozzle'
+p1519
+sg159
+g160
+ssS'MC-1101'
+p1520
+(dp1521
+g28
+g1520
+sg29
+S'11'
+p1522
+sg31
+(dp1523
+S'Length(mm)'
+p1524
+(lp1525
+S'480'
+p1526
+asS'Head'
+p1527
+(lp1528
+S'90\xc2\xb0'
+p1529
+asS'Nozzle for Acetylene'
+p1530
+(lp1531
+S'41TYPE'
+p1532
+asS'Nozzle for Propane'
+p1533
+(lp1534
+S'44TYPE'
+p1535
+asS'Cutting Capacity(mm)'
+p1536
+(lp1537
+S'3-300'
+p1538
+assg48
+(lp1539
+S'Suitable for both acetylene and propane service'
+p1540
+aS'Two stage valve gives precise gas control from the smallest welding tip to the largest heating tip'
+p1541
+aS'A non-rotating valve spindle drastically minimises wear'
+p1542
+aS'When used with appropriate attachments, is suitable for fusion welding, soldering, heating and hand cutting'
+p1543
+aS'Color coded control knobs are fitted for maximum safety and ease of operation, even when wearing gloves'
+p1544
+aS"Hose connection: BSP 3/8'', other thread sizes available"
+p1545
+asg57
+S'Australia GW247 Type Cutting torch'
+p1546
+sg59
+g60
+ssS'MR-0502B'
+p1547
+(dp1548
+g63
+g1547
+sg64
+S'05'
+p1549
+sg66
+(dp1550
+S'Inlet Connection'
+p1551
+(lp1552
+S'G7/8'
+p1553
+asS'Outlet Connection'
+p1554
+(lp1555
+S'M16*1.5-LH'
+p1556
+asS'Max Inlet Pressure(Mpa)'
+p1557
+(lp1558
+S'3'
+p1559
+asS'Gas'
+p1560
+(lp1561
+S'Propane'
+p1562
+asS'Max Outlet Pressure(Mpa)'
+p1563
+(lp1564
+S'0.5'
+p1565
+assg83
+(lp1566
+S'Forged brass body for maximum strength'
+p1567
+aS'Suitable for various welding and cutting applications'
+p1568
+aS'Body and cap forged A brass ensure maximum strength'
+p1569
+aS'Deisgn expecially for for Russian Market'
+p1570
+aS'Coonnection of other thread sizes avaliable'
+p1571
+asg89
+S'Russia Type Regulator'
+p1572
+sg91
+g92
+ssS'MR-0502A'
+p1573
+(dp1574
+g63
+g1573
+sg64
+S'05'
+p1575
+sg66
+(dp1576
+S'Inlet Connection'
+p1577
+(lp1578
+S'G3/4'
+p1579
+asS'Outlet Connection'
+p1580
+(lp1581
+S'M16*1.5'
+p1582
+asS'Max Inlet Pressure(Mpa)'
+p1583
+(lp1584
+S'16'
+p1585
+asS'Gas'
+p1586
+(lp1587
+S'CO2'
+p1588
+asS'Max Outlet Pressure(Mpa)'
+p1589
+(lp1590
+S'1'
+p1591
+assg83
+(lp1592
+S'Forged brass body for maximum strength'
+p1593
+aS'Suitable for various welding and cutting applications'
+p1594
+aS'Body and cap forged A brass ensure maximum strength'
+p1595
+aS'Deisgn expecially for for Russian Market'
+p1596
+aS'Coonnection of other thread sizes avaliable'
+p1597
+asg89
+S'Russia Type Regulator'
+p1598
+sg91
+g92
+ssS'MCN-0408'
+p1599
+(dp1600
+g123
+g1599
+sg124
+S'04'
+p1601
+sg126
+(dp1602
+S'Model No'
+p1603
+(lp1604
+S'1A'
+p1605
+aS'2A'
+p1606
+aS'3A'
+p1607
+aS'4A'
+p1608
+asS'Orifice Size(mm)'
+p1609
+(lp1610
+S'0.7'
+p1611
+aS'0.9'
+p1612
+aS'1.1'
+p1613
+aS'1.3'
+p1614
+asS'Cutting Thickness(mm)'
+p1615
+(lp1616
+S'1-5'
+p1617
+aS'5-15'
+p1618
+aS'15-30'
+p1619
+aS'30-50'
+p1620
+assg155
+(lp1621
+sg157
+S'ST8-A Japan Type Cutting Nozzle'
+p1622
+sg159
+g160
+ssS'MR-0501B'
+p1623
+(dp1624
+g63
+g1623
+sg64
+S'05'
+p1625
+sg66
+(dp1626
+S'Inlet Connection'
+p1627
+(lp1628
+S'G7/8'
+p1629
+asS'Outlet Connection'
+p1630
+(lp1631
+S'M16*1.5-LH'
+p1632
+asS'Max Inlet Pressure(Mpa)'
+p1633
+(lp1634
+S'3'
+p1635
+asS'Gas'
+p1636
+(lp1637
+S'Propane'
+p1638
+asS'Max Outlet Pressure(Mpa)'
+p1639
+(lp1640
+S'0.5'
+p1641
+assg83
+(lp1642
+S'Forged brass body for maximum strength'
+p1643
+aS'Suitable for various welding and cutting applications'
+p1644
+aS'Body and cap forged A brass ensure maximum strength'
+p1645
+aS'Deisgn expecially for for Russian Market'
+p1646
+aS'Coonnection of other thread sizes avaliable'
+p1647
+asg89
+S'Russia Type Regulator'
+p1648
+sg91
+g92
+ssS'MR-0204'
+p1649
+(dp1650
+g63
+g1649
+sg64
+S'02'
+p1651
+sg66
+(dp1652
+S'Inlet Connection'
+p1653
+(lp1654
+S"G5/8''"
+p1655
+asS'Outlet Connection'
+p1656
+(lp1657
+S"BSP3/8''"
+p1658
+asS'Max Inlet Pressure(Psi)'
+p1659
+(lp1660
+S'4000'
+p1661
+asS'Gas'
+p1662
+(lp1663
+S'Oxygen'
+p1664
+asS'Max Outlet Pressure(Psi)'
+p1665
+(lp1666
+S'145'
+p1667
+assg83
+(lp1668
+S'Single stage construction'
+p1669
+aS'Solid forged brass body with all operational data permanentlyengraved'
+p1670
+aS'Unique encapsulated vavle design for maximum control'
+p1671
+aS'Oxyen regulator with safety relif valve is set for safe operation'
+p1672
+aS'Sintered metal inlet filter to trap impurities'
+p1673
+aS'No soldered joints, for easy maintenance'
+p1674
+aS'Side entry'
+p1675
+aS'Connection of other thread sizes avaliable'
+p1676
+asg89
+S'British Type Regulator'
+p1677
+sg91
+g92
+ssS'MR-0203'
+p1678
+(dp1679
+g63
+g1678
+sg64
+S'02'
+p1680
+sg66
+(dp1681
+S'Inlet Connection'
+p1682
+(lp1683
+S"G5/8''"
+p1684
+asS'Outlet Connection'
+p1685
+(lp1686
+S"BSP3/8''"
+p1687
+asS'Max Inlet Pressure(Psi)'
+p1688
+(lp1689
+S'4000'
+p1690
+asS'Gas'
+p1691
+(lp1692
+S'Oxygen'
+p1693
+asS'Max Outlet Pressure(Psi)'
+p1694
+(lp1695
+S'145'
+p1696
+assg83
+(lp1697
+S'Two stage construction'
+p1698
+aS'Solid forged brass body with all operational data permanentlyengraved'
+p1699
+aS'Unique encapsulated vavle design for maximum control'
+p1700
+aS'Oxyen regulator with safety relif valve is set for safe operation'
+p1701
+aS'Sintered metal inlet filter to trap impurities'
+p1702
+aS'No soldered joints, for easy maintenance'
+p1703
+aS'Side entry'
+p1704
+aS'Connection of other thread sizes avaliable'
+p1705
+asg89
+S'British Type Regulator'
+p1706
+sg91
+g92
+ssS'MR-0202'
+p1707
+(dp1708
+g63
+g1707
+sg64
+S'02'
+p1709
+sg66
+(dp1710
+S'Inlet Connection'
+p1711
+(lp1712
+S"G5/8''"
+p1713
+asS'Outlet Connection'
+p1714
+(lp1715
+S"BSP3/8''"
+p1716
+asS'Max Inlet Pressure(Psi)'
+p1717
+(lp1718
+S'4000'
+p1719
+asS'Gas'
+p1720
+(lp1721
+S'Oxygen'
+p1722
+asS'Max Outlet Pressure(Psi)'
+p1723
+(lp1724
+S'145'
+p1725
+assg83
+(lp1726
+S'Single stage construction'
+p1727
+aS'Solid forged brass body with all operational data permanentlyengraved'
+p1728
+aS'Unique encapsulated vavle design for maximum control'
+p1729
+aS'Oxyen regulator with safety relif valve is set for safe operation'
+p1730
+aS'Sintered metal inlet filter to trap impurities'
+p1731
+aS'No soldered joints, for easy maintenance'
+p1732
+aS'Side entry'
+p1733
+aS'Connection of other thread sizes avaliable'
+p1734
+asg89
+S'British Style Murex Type 300 Series Light Duty Regulator'
+p1735
+sg91
+g92
+ssS'MR-0201'
+p1736
+(dp1737
+g63
+g1736
+sg64
+S'02'
+p1738
+sg66
+(dp1739
+S'Inlet Connection'
+p1740
+(lp1741
+S"G5/8''"
+p1742
+asS'Outlet Connection'
+p1743
+(lp1744
+S"BSP3/8''"
+p1745
+asS'Max Inlet Pressure(Psi)'
+p1746
+(lp1747
+S'4000'
+p1748
+asS'Gas'
+p1749
+(lp1750
+S'Oxygen'
+p1751
+asS'Max Outlet Pressure(Psi)'
+p1752
+(lp1753
+S'145'
+p1754
+assg83
+(lp1755
+S'Single stage construction'
+p1756
+aS'Solid forged brass body with all operational data permanentlyengraved'
+p1757
+aS'Unique encapsulated vavle design for maximum control'
+p1758
+aS'Oxyen regulator with safety relif valve is set for safe operation'
+p1759
+aS'Sintered metal inlet filter to trap impurities'
+p1760
+aS'No soldered joints, for easy maintenance'
+p1761
+aS'Side entry'
+p1762
+aS'Connection of other thread sizes avaliable'
+p1763
+asg89
+S'British Style Murex Type 300 Series Regulator'
+p1764
+sg91
+g92
+ssS'MC-0107'
+p1765
+(dp1766
+g28
+g1765
+sg29
+S'01'
+p1767
+sg31
+(dp1768
+S'Length(mm)'
+p1769
+(lp1770
+S'480'
+p1771
+asS'Head'
+p1772
+(lp1773
+S'90\xc2\xb0'
+p1774
+asS'Nozzle for Acetylene'
+p1775
+(lp1776
+S'6290'
+p1777
+asS'Nozzle for Propane'
+p1778
+(lp1779
+S'6290NX'
+p1780
+asS'Cutting Capacity(mm)'
+p1781
+(lp1782
+S'3-150'
+p1783
+assg48
+(lp1784
+S'Die-forged brass head for added strength and durability'
+p1785
+aS'Stainless steel tubes'
+p1786
+aS'Smooth cutting oxygen valve(pull type)'
+p1787
+aS'Built-in reverse flow check valves for added safety'
+p1788
+aS'Suitable for all fuel gases, pressure restrictions for different gases'
+p1789
+aS"Hose connection: 9/16''-18, other thread sizes available"
+p1790
+asg57
+S'63-2 Harris Type Cutting torch'
+p1791
+sg59
+g60
+ssS'MC-0106'
+p1792
+(dp1793
+g28
+g1792
+sg29
+S'01'
+p1794
+sg31
+(dp1795
+S'Length(mm)'
+p1796
+(lp1797
+S'480'
+p1798
+asS'Head'
+p1799
+(lp1800
+S'90\xc2\xb0'
+p1801
+asS'Nozzle for Acetylene'
+p1802
+(lp1803
+S'6290'
+p1804
+asS'Nozzle for Propane'
+p1805
+(lp1806
+S'6290NX'
+p1807
+asS'Cutting Capacity(mm)'
+p1808
+(lp1809
+S'3-150'
+p1810
+assg48
+(lp1811
+S'Die-forged brass head for added strength and durability'
+p1812
+aS'Stainless steel tubes'
+p1813
+aS'Smooth cutting oxygen valve(pull type)'
+p1814
+aS'Built-in reverse flow check valves for added safety'
+p1815
+aS'Suitable for all fuel gases, pressure restrictions for different gases'
+p1816
+aS"Hose connection: 9/16''-18, other thread sizes available"
+p1817
+asg57
+S'62-3F Harris Type Cutting torch'
+p1818
+sg59
+g60
+ssS'MR-0105A'
+p1819
+(dp1820
+g63
+g1819
+sg64
+S'01'
+p1821
+sg66
+(dp1822
+S'Inlet Connection'
+p1823
+(lp1824
+S'CGA510'
+p1825
+asS'Outlet Connection'
+p1826
+(lp1827
+S"9/16''-18LH"
+p1828
+asS'Max Inlet Pressure(Psi)'
+p1829
+(lp1830
+S'400'
+p1831
+asS'Gas'
+p1832
+(lp1833
+S'Acetylene'
+p1834
+asS'Max Outlet Pressure(Psi)'
+p1835
+(lp1836
+S'15'
+p1837
+assg83
+(lp1838
+S'Single stage construction'
+p1839
+aS'Forged brass body & bonnet for maximum strenth'
+p1840
+aS'Stainless steel diaphragm'
+p1841
+aS'Sintered metal inlet filter to trap impurities'
+p1842
+aS'No soldered joints, for easy maintenance'
+p1843
+aS'Side entry'
+p1844
+aS'Connection of other thread sizes avaliable'
+p1845
+asg89
+S'American Style Victor Type Heavy Duty Regulator'
+p1846
+sg91
+g92
+ssS'MR-0503B'
+p1847
+(dp1848
+g63
+g1847
+sg64
+S'05'
+p1849
+sg66
+(dp1850
+S'Inlet Connection'
+p1851
+(lp1852
+S'G7/8'
+p1853
+asS'Outlet Connection'
+p1854
+(lp1855
+S'M16*1.5-LH'
+p1856
+asS'Max Inlet Pressure(Mpa)'
+p1857
+(lp1858
+S'3'
+p1859
+asS'Gas'
+p1860
+(lp1861
+S'Propane'
+p1862
+asS'Max Outlet Pressure(Mpa)'
+p1863
+(lp1864
+S'0.5'
+p1865
+assg83
+(lp1866
+S'Forged brass body for maximum strength'
+p1867
+aS'Suitable for various welding and cutting applications'
+p1868
+aS'Body and cap forged A brass ensure maximum strength'
+p1869
+aS'Deisgn expecially for for Russian Market'
+p1870
+aS'Coonnection of other thread sizes avaliable'
+p1871
+asg89
+S'Russia Type Regulator'
+p1872
+sg91
+g92
+ssS'MC-0103'
+p1873
+(dp1874
+g28
+g1873
+sg29
+S'01'
+p1875
+sg31
+(dp1876
+S'Length(mm)'
+p1877
+(lp1878
+S'480'
+p1879
+asS'Head'
+p1880
+(lp1881
+S'90\xc2\xb0'
+p1882
+asS'Nozzle for Acetylene'
+p1883
+(lp1884
+S'1-101'
+p1885
+asS'Nozzle for Propane'
+p1886
+(lp1887
+S'GPN'
+p1888
+asS'Cutting Capacity(mm)'
+p1889
+(lp1890
+S'3-100'
+p1891
+assg48
+(lp1892
+S'CA-2460 cutting attachment'
+p1893
+aS'H315FC torch handle'
+p1894
+aS'Die-forged brass head for added strength and durability'
+p1895
+aS'Stainless steel tubes'
+p1896
+aS'Smooth cutting oxygen valve(pull type)'
+p1897
+aS'Brass coupling nut & "O" ring seals give quick gas-tight seal tightening'
+p1898
+aS'Built-in reverse flow check valves for added safety'
+p1899
+aS'Suitable for all fuel gases, pressure restrictions for different gases'
+p1900
+aS"Hose connection: 9/16''-18, other thread sizes available"
+p1901
+asg57
+S'H315FC Victor Type Cutting torch'
+p1902
+sg59
+g60
+ssS'MC-0201A'
+p1903
+(dp1904
+g28
+g1903
+sg29
+S'02'
+p1905
+sg31
+(dp1906
+S'Length(mm)'
+p1907
+(lp1908
+S'750'
+p1909
+aS'750'
+p1910
+asS'Head'
+p1911
+(lp1912
+S'75\xc2\xb0/90\xc2\xb0/180\xc2\xb0'
+p1913
+aS'75\xc2\xb0/90\xc2\xb0/180\xc2\xb0'
+p1914
+asS'Nozzle for Acetylene'
+p1915
+(lp1916
+S'ANM '
+p1917
+aS'ANME'
+p1918
+asS'Nozzle for Propane'
+p1919
+(lp1920
+S'PNM '
+p1921
+aS'PNME'
+p1922
+asS'Cutting Capacity(mm)'
+p1923
+(lp1924
+S'3-300'
+p1925
+aS'3-300'
+p1926
+assg48
+(lp1927
+S'Die-forged brass head for added strength and durability'
+p1928
+aS'Suitable for both acetylene and propane service'
+p1929
+aS'Backfire resistant design'
+p1930
+aS'Nozzle mix principle for maximum safety'
+p1931
+aS'Stainless steel lever with hold-down button'
+p1932
+aS"Hose connection: BSP 3/8'', other thread sizes available"
+p1933
+asg57
+S'NM-250 Cutting torch'
+p1934
+sg59
+g60
+ssS'MC-0101'
+p1935
+(dp1936
+g28
+g1935
+sg29
+S'01'
+p1937
+sg31
+(dp1938
+S'Length(mm)'
+p1939
+(lp1940
+S'480'
+p1941
+asS'Head'
+p1942
+(lp1943
+S'90\xc2\xb0'
+p1944
+asS'Nozzle for Acetylene'
+p1945
+(lp1946
+S'1-101'
+p1947
+asS'Nozzle for Propane'
+p1948
+(lp1949
+S'GPN'
+p1950
+asS'Cutting Capacity(mm)'
+p1951
+(lp1952
+S'3-100'
+p1953
+assg48
+(lp1954
+S'CA-2460 cutting attachment'
+p1955
+aS'315FC torch handle'
+p1956
+aS'Die-forged brass head for added strength and durability'
+p1957
+aS'Stainless steel tubes'
+p1958
+aS'Smooth cutting oxygen valve(pull type)'
+p1959
+aS'Brass coupling nut & "O" ring seals give quick gas-tight seal tightening'
+p1960
+aS'Built-in reverse flow check valves for added safety'
+p1961
+aS'Suitable for all fuel gases, pressure restrictions for different gases'
+p1962
+aS"Hose connection: 9/16''-18, other thread sizes available"
+p1963
+asg57
+S'315FC Victor Type Cutting torch'
+p1964
+sg59
+g60
+ssS'MR-0108A'
+p1965
+(dp1966
+g63
+g1965
+sg64
+S'01'
+p1967
+sg66
+(dp1968
+S'Inlet Connection'
+p1969
+(lp1970
+S'CGA200'
+p1971
+asS'Outlet Connection'
+p1972
+(lp1973
+S"9/16''-18LH"
+p1974
+asS'Max Inlet Pressure(Psi)'
+p1975
+(lp1976
+S'400'
+p1977
+asS'Gas'
+p1978
+(lp1979
+S'Acetylene'
+p1980
+asS'Max Outlet Pressure(Psi)'
+p1981
+(lp1982
+S'15'
+p1983
+assg83
+(lp1984
+S'Single stage construction'
+p1985
+aS'Forged brass body & bonnet for maximum strenth'
+p1986
+aS'Stainless steel diaphragm'
+p1987
+aS'Sintered metal inlet filter to trap impurities'
+p1988
+aS'No soldered joints, for easy maintenance'
+p1989
+aS'Side entry'
+p1990
+aS'Connection of other thread sizes avaliable'
+p1991
+asg89
+S'American Style Victor Type SR160 Light Duty Regulator'
+p1992
+sg91
+g92
+ssS'MC-0102'
+p1993
+(dp1994
+g28
+g1993
+sg29
+S'01'
+p1995
+sg31
+(dp1996
+S'Length(mm)'
+p1997
+(lp1998
+S'480'
+p1999
+asS'Head'
+p2000
+(lp2001
+S'90\xc2\xb0'
+p2002
+asS'Nozzle for Acetylene'
+p2003
+(lp2004
+S'1-101'
+p2005
+asS'Nozzle for Propane'
+p2006
+(lp2007
+S'GPN'
+p2008
+asS'Cutting Capacity(mm)'
+p2009
+(lp2010
+S'3-100'
+p2011
+assg48
+(lp2012
+S'CA-2460 cutting attachment'
+p2013
+aS'HD-310C torch handle'
+p2014
+aS'Die-forged brass head for added strength and durability'
+p2015
+aS'Stainless steel tubes'
+p2016
+aS'Smooth cutting oxygen valve(pull type)'
+p2017
+aS'Brass coupling nut & "O" ring seals give quick gas-tight seal tightening'
+p2018
+aS'Suitable for all fuel gases, pressure restrictions for different gases'
+p2019
+aS"Hose connection: 9/16''-18, other thread sizes available"
+p2020
+asg57
+S'HD310C Victor Type Cutting torch'
+p2021
+sg59
+g60
+ssS'MR-F04'
+p2022
+(dp2023
+g1257
+g2022
+sg1258
+S'F0'
+p2024
+sg1260
+(dp2025
+S'Outlet Connection'
+p2026
+(lp2027
+S"9/16''"
+p2028
+asS'Flow'
+p2029
+(lp2030
+S'0-250'
+p2031
+asS'Gas'
+p2032
+(lp2033
+S'Co2/Argon'
+p2034
+asS'Inlet Connection'
+p2035
+(lp2036
+S'CGA580/320'
+p2037
+assg1274
+(lp2038
+S'Full brass body, Zinc housing cap can be requested'
+p2039
+aS'Flowmeter with easy to read tube and virtually unbreakable transparent polycarbonate outer'
+p2040
+aS'Full chromed plated '
+p2041
+aS'Connection can be requested'
+p2042
+asg1280
+S'CO2/Argon with Flowmeter Regulator'
+p2043
+sg1282
+g1283
+ssS'MR-F05'
+p2044
+(dp2045
+g1257
+g2044
+sg1258
+S'F0'
+p2046
+sg1260
+(dp2047
+S'Outlet Connection'
+p2048
+(lp2049
+S"9/16''"
+p2050
+asS'Flow'
+p2051
+(lp2052
+S'0-250'
+p2053
+asS'Gas'
+p2054
+(lp2055
+S'Co2/Argon'
+p2056
+asS'Inlet Connection'
+p2057
+(lp2058
+S'CGA580/320'
+p2059
+assg1274
+(lp2060
+S'Full brass body, Zinc housing cap can be requested'
+p2061
+aS'Flowmeter with easy to read tube and virtually unbreakable transparent polycarbonate outer'
+p2062
+aS'Full chromed plated '
+p2063
+aS'Connection can be requested'
+p2064
+asg1280
+S'CO2/Argon with Flowmeter Regulator'
+p2065
+sg1282
+g1283
+ssS'MR-F02'
+p2066
+(dp2067
+g1257
+g2066
+sg1258
+S'F0'
+p2068
+sg1260
+(dp2069
+S'Inlet Connection'
+p2070
+(lp2071
+S"G5/8''"
+p2072
+asS'Outlet Connection'
+p2073
+(lp2074
+S"BSP3/8''-RH"
+p2075
+asS'Max Inlet Pressure(Bar)'
+p2076
+(lp2077
+S'230'
+p2078
+asS'Gas'
+p2079
+(lp2080
+S'Co2/Argon'
+p2081
+asS'Max Outlet Pressure(Bar)'
+p2082
+(lp2083
+S'3.5'
+p2084
+assg1274
+(lp2085
+S'Full brass body, Zinc housing cap can be requested'
+p2086
+aS'Flowmeter with easy to read tube and virtually unbreakable transparent polycarbonate outer'
+p2087
+aS'Full chromed plated '
+p2088
+aS'Connection can be requested'
+p2089
+asg1280
+S'CO2/Argon with Flowmeter Regulator'
+p2090
+sg1282
+g1283
+ssS'MR-F03'
+p2091
+(dp2092
+g1257
+g2091
+sg1258
+S'F0'
+p2093
+sg1260
+(dp2094
+S'Inlet Connection'
+p2095
+(lp2096
+S"G5/8''"
+p2097
+asS'Outlet Connection'
+p2098
+(lp2099
+S"BSP3/8''-RH"
+p2100
+asS'Max Inlet Pressure(Bar)'
+p2101
+(lp2102
+S'230'
+p2103
+asS'Gas'
+p2104
+(lp2105
+S'Co2/Argon'
+p2106
+asS'Max Outlet Pressure(Bar)'
+p2107
+(lp2108
+S'3.5'
+p2109
+assg1274
+(lp2110
+S'Full brass body, Zinc housing cap can be requested'
+p2111
+aS'Flowmeter with easy to read tube and virtually unbreakable transparent polycarbonate outer'
+p2112
+aS'Full chromed plated '
+p2113
+aS'Connection can be requested'
+p2114
+asg1280
+S'CO2/Argon with Flowmeter Regulator'
+p2115
+sg1282
+g1283
+ssS'MR-0402B'
+p2116
+(dp2117
+g63
+g2116
+sg64
+S'04'
+p2118
+sg66
+(dp2119
+S'Inlet Connection'
+p2120
+(lp2121
+S"G5/8''-LH"
+p2122
+asS'Outlet Connection'
+p2123
+(lp2124
+S"BSP3/8''-LH"
+p2125
+asS'Max Inlet Pressure(bar)'
+p2126
+(lp2127
+S'200'
+p2128
+asS'Gas'
+p2129
+(lp2130
+S'Propane'
+p2131
+asS'Max Outlet Pressure(bar)'
+p2132
+(lp2133
+S'15'
+p2134
+assg83
+(lp2135
+S'Forged brass body for maximum strength'
+p2136
+aS'Aluminum bonnet spray color paint'
+p2137
+aS'Sintered metal inlet filter to trap impurities'
+p2138
+aS'No soldered joints for easy maintenance'
+p2139
+asg89
+S'Japan Model Tanaka Type Regulator'
+p2140
+sg91
+g92
+ssS'MR-F01'
+p2141
+(dp2142
+g1257
+g2141
+sg1258
+S'F0'
+p2143
+sg1260
+(dp2144
+S'Inlet Connection'
+p2145
+(lp2146
+S"G5/8''"
+p2147
+asS'Outlet Connection'
+p2148
+(lp2149
+S"BSP3/8''-RH"
+p2150
+asS'Max Inlet Pressure(Bar)'
+p2151
+(lp2152
+S'230'
+p2153
+asS'Gas'
+p2154
+(lp2155
+S'Co2/Argon'
+p2156
+asS'Max Outlet Pressure(Bar)'
+p2157
+(lp2158
+S'3.5'
+p2159
+assg1274
+(lp2160
+S'Full brass body, Zinc housing cap can be requested'
+p2161
+aS'Flowmeter with easy to read tube and virtually unbreakable transparent polycarbonate outer'
+p2162
+aS'Full chromed plated '
+p2163
+aS'Connection can be requested'
+p2164
+asg1280
+S'CO2/Argon with Flowmeter Regulator'
+p2165
+sg1282
+g1283
+ssS'MCN-0102A'
+p2166
+(dp2167
+g123
+g2166
+sg124
+S'01'
+p2168
+sg126
+(dp2169
+S'Model No'
+p2170
+(lp2171
+S'000'
+p2172
+aS'00'
+p2173
+ag402
+ag403
+ag404
+ag405
+ag406
+ag407
+asS'Orifice Size(mm)'
+p2174
+(lp2175
+S'0.7'
+p2176
+aS'0.8'
+p2177
+aS'1'
+p2178
+aS'1.2'
+p2179
+aS'1.5'
+p2180
+aS'1.8'
+p2181
+aS'2.1'
+p2182
+aS'2.5'
+p2183
+asS'Cutting Thickness(mm)'
+p2184
+(lp2185
+S'1-3'
+p2186
+aS'3-6'
+p2187
+aS'6-10'
+p2188
+aS'10-20'
+p2189
+aS'20-40'
+p2190
+aS'40-60'
+p2191
+aS'60-80'
+p2192
+aS'80-125'
+p2193
+assg155
+(lp2194
+sg157
+S'3-101 Acetylene American Type Cutting Nozzle'
+p2195
+sg159
+g160
+ssS'MR-0801B'
+p2196
+(dp2197
+g63
+g2196
+sg64
+S'08'
+p2198
+sg66
+(dp2199
+S'Inlet Connection'
+p2200
+(lp2201
+S"G5/8''"
+p2202
+asS'Outlet Connection'
+p2203
+(lp2204
+S"BSP3/8''-LH"
+p2205
+asS'Max Inlet Pressure(Psi)'
+p2206
+(lp2207
+S'30'
+p2208
+asS'Gas'
+p2209
+(lp2210
+S'Propane'
+p2211
+asS'Max Outlet Pressure(Psi)'
+p2212
+(lp2213
+S'1.5'
+p2214
+assg83
+(lp2215
+S'Single stage construction'
+p2216
+aS'Solid forged brass body with all operational data permanentlyengraved'
+p2217
+aS'Unique encapsulated vavle design for maximum control'
+p2218
+aS'Sintered metal inlet filter to trap impurities'
+p2219
+aS'No soldered joints, for easy maintenance'
+p2220
+aS'Connection of other thread sizes avaliable'
+p2221
+asg89
+S'South-East Asia Type Regulator'
+p2222
+sg91
+g92
+ssS'MR-0801'
+p2223
+(dp2224
+g63
+g2223
+sg64
+S'08'
+p2225
+sg66
+(dp2226
+S'Inlet Connection'
+p2227
+(lp2228
+S"G5/8''"
+p2229
+asS'Outlet Connection'
+p2230
+(lp2231
+S"BSP3/8''-RH"
+p2232
+asS'Max Inlet Pressure(Bar)'
+p2233
+(lp2234
+S'200'
+p2235
+asS'Gas'
+p2236
+(lp2237
+S'Oxygen'
+p2238
+asS'Max Outlet Pressure(Bar)'
+p2239
+(lp2240
+S'10'
+p2241
+assg83
+(lp2242
+S'Single stage construction'
+p2243
+aS'Solid forged brass body with all operational data permanentlyengraved'
+p2244
+aS'Unique encapsulated vavle design for maximum control'
+p2245
+aS'Oxyen regulator with safety relif valve is set for safe operation'
+p2246
+aS'Sintered metal inlet filter to trap impurities'
+p2247
+aS'No soldered joints, for easy maintenance'
+p2248
+aS'Connection of other thread sizes avaliable'
+p2249
+asg89
+S'South-East Asia Type Regulator'
+p2250
+sg91
+g92
+ssS'MC-0105'
+p2251
+(dp2252
+g28
+g2251
+sg29
+S'01'
+p2253
+sg31
+(dp2254
+S'Length(mm)'
+p2255
+(lp2256
+S'480'
+p2257
+asS'Head'
+p2258
+(lp2259
+S'90\xc2\xb0'
+p2260
+asS'Nozzle for Acetylene'
+p2261
+(lp2262
+S'1-101'
+p2263
+asS'Nozzle for Propane'
+p2264
+(lp2265
+S'GPN'
+p2266
+asS'Cutting Capacity(mm)'
+p2267
+(lp2268
+S'3-150'
+p2269
+assg48
+(lp2270
+S'Die-forged brass head for added strength and durability'
+p2271
+aS'Stainless steel tubes'
+p2272
+aS'Smooth cutting oxygen valve(pull type)'
+p2273
+aS'Built-in reverse flow check valves for added safety'
+p2274
+aS'Suitable for all fuel gases, pressure restrictions for different gases'
+p2275
+aS"Hose connection: 9/16''-18, other thread sizes available"
+p2276
+asg57
+S'ST-1000FC Victor Type Cutting torch'
+p2277
+sg59
+g60
+ssS'MR-0803'
+p2278
+(dp2279
+g63
+g2278
+sg64
+S'08'
+p2280
+sg66
+(dp2281
+S'Inlet Connection'
+p2282
+(lp2283
+S"G5/8''"
+p2284
+asS'Outlet Connection'
+p2285
+(lp2286
+S"BSP3/8''-RH"
+p2287
+asS'Max Inlet Pressure(Bar)'
+p2288
+(lp2289
+S'200'
+p2290
+asS'Gas'
+p2291
+(lp2292
+S'Oxygen'
+p2293
+asS'Max Outlet Pressure(Bar)'
+p2294
+(lp2295
+S'10'
+p2296
+assg83
+(lp2297
+S'Single stage construction'
+p2298
+aS'Solid forged brass body with all operational data permanentlyengraved'
+p2299
+aS'Unique encapsulated vavle design for maximum control'
+p2300
+aS'Oxyen regulator with safety relif valve is set for safe operation'
+p2301
+aS'Sintered metal inlet filter to trap impurities'
+p2302
+aS'No soldered joints, for easy maintenance'
+p2303
+aS'Connection of other thread sizes avaliable'
+p2304
+asg89
+S'South-East Asia Type Regulator'
+p2305
+sg91
+g92
+ssS'MR-0802'
+p2306
+(dp2307
+g63
+g2306
+sg64
+S'08'
+p2308
+sg66
+(dp2309
+S'Inlet Connection'
+p2310
+(lp2311
+S"G5/8''"
+p2312
+asS'Outlet Connection'
+p2313
+(lp2314
+S"BSP3/8''-RH"
+p2315
+asS'Max Inlet Pressure(Bar)'
+p2316
+(lp2317
+S'200'
+p2318
+asS'Gas'
+p2319
+(lp2320
+S'Oxygen'
+p2321
+asS'Max Outlet Pressure(Bar)'
+p2322
+(lp2323
+S'10'
+p2324
+assg83
+(lp2325
+S'Single stage construction'
+p2326
+aS'Solid forged brass body with all operational data permanentlyengraved'
+p2327
+aS'Unique encapsulated vavle design for maximum control'
+p2328
+aS'Oxyen regulator with safety relif valve is set for safe operation'
+p2329
+aS'Sintered metal inlet filter to trap impurities'
+p2330
+aS'No soldered joints, for easy maintenance'
+p2331
+aS'Connection of other thread sizes avaliable'
+p2332
+asg89
+S'South-East Asia Type Regulator'
+p2333
+sg91
+g92
+ssS'MR-0110A'
+p2334
+(dp2335
+g63
+g2334
+sg64
+S'01'
+p2336
+sg66
+(dp2337
+S'Inlet Connection'
+p2338
+(lp2339
+S'CGA510'
+p2340
+asS'Outlet Connection'
+p2341
+(lp2342
+S"9/16''-18LH"
+p2343
+asS'Max Inlet Pressure(Psi)'
+p2344
+(lp2345
+S'400'
+p2346
+asS'Gas'
+p2347
+(lp2348
+S'Acetylene'
+p2349
+asS'Max Outlet Pressure(Psi)'
+p2350
+(lp2351
+S'15'
+p2352
+assg83
+(lp2353
+S'Single stage construction'
+p2354
+aS'Forged brass body & bonnet for maximum strenth'
+p2355
+aS'Stainless steel diaphragm'
+p2356
+aS'Sintered metal inlet filter to trap impurities'
+p2357
+aS'No soldered joints, for easy maintenance'
+p2358
+aS'Side entry'
+p2359
+aS'Connection of other thread sizes avaliable'
+p2360
+asg89
+S'American Type Regulator'
+p2361
+sg91
+g92
+ssS'MR-0102A'
+p2362
+(dp2363
+g63
+g2362
+sg64
+S'01'
+p2364
+sg66
+(dp2365
+S'Inlet Connection'
+p2366
+(lp2367
+S'CGA510'
+p2368
+asS'Outlet Connection'
+p2369
+(lp2370
+S"9/16''-18LH"
+p2371
+asS'Max Inlet Pressure(Psi)'
+p2372
+(lp2373
+S'400'
+p2374
+asS'Gas'
+p2375
+(lp2376
+S'Acetylene'
+p2377
+asS'Max Outlet Pressure(Psi)'
+p2378
+(lp2379
+S'15'
+p2380
+assg83
+(lp2381
+S'Single stage construction'
+p2382
+aS'Forged brass body & bonnet for maximum strenth'
+p2383
+aS'Stainless steel diaphragm'
+p2384
+aS'Sintered metal inlet filter to trap impurities'
+p2385
+aS'No soldered joints, for easy maintenance'
+p2386
+aS'Side entry'
+p2387
+aS'Connection of other thread sizes avaliable'
+p2388
+asg89
+S'American Style Victor Type SR460 Heavy Duty Regulator'
+p2389
+sg91
+g92
+ssS'MC-0104'
+p2390
+(dp2391
+g28
+g2390
+sg29
+S'01'
+p2392
+sg31
+(dp2393
+S'Length(mm)'
+p2394
+(lp2395
+S'480'
+p2396
+asS'Head'
+p2397
+(lp2398
+S'90\xc2\xb0'
+p2399
+asS'Nozzle for Acetylene'
+p2400
+(lp2401
+S'1-101'
+p2402
+asS'Nozzle for Propane'
+p2403
+(lp2404
+S'GPN'
+p2405
+asS'Cutting Capacity(mm)'
+p2406
+(lp2407
+S'3-100'
+p2408
+assg48
+(lp2409
+S'Die-forged brass head for added strength and durability'
+p2410
+aS'Stainless steel tubes'
+p2411
+aS'Smooth cutting oxygen valve(pull type)'
+p2412
+aS'Built-in reverse flow check valves for added safety'
+p2413
+aS'Suitable for all fuel gases, pressure restrictions for different gases'
+p2414
+aS"Hose connection: 9/16''-18, other thread sizes available"
+p2415
+asg57
+S'ST-900FC Victor Type Cutting torch'
+p2416
+sg59
+g60
+ssS'MR-1101B'
+p2417
+(dp2418
+g63
+g2417
+sg64
+S'11'
+p2419
+sg66
+(dp2420
+S'Inlet Connection'
+p2421
+(lp2422
+S"G5/8''"
+p2423
+asS'Outlet Connection'
+p2424
+(lp2425
+S"BSP3/8''-LH"
+p2426
+asS'Max Inlet Pressure(Psi)'
+p2427
+(lp2428
+S'4000'
+p2429
+asS'Gas'
+p2430
+(lp2431
+S'Acetylene'
+p2432
+asS'Max Outlet Pressure(Psi)'
+p2433
+(lp2434
+S'150'
+p2435
+assg83
+(lp2436
+S'Single stage construction'
+p2437
+aS'Solid forged brass body with all operational data permanentlyengraved'
+p2438
+aS'Unique encapsulated vavle design for maximum control'
+p2439
+aS'Sintered metal inlet filter to trap impurities'
+p2440
+aS'No soldered joints, for easy maintenance'
+p2441
+aS'Connection of other thread sizes avaliable'
+p2442
+asg89
+S'South-East Asia Type Regulator'
+p2443
+sg91
+g92
+ssS'MR-1101A'
+p2444
+(dp2445
+g63
+g2444
+sg64
+S'11'
+p2446
+sg66
+(dp2447
+S'Inlet Connection'
+p2448
+(lp2449
+S"G5/8''"
+p2450
+asS'Outlet Connection'
+p2451
+(lp2452
+S"BSP3/8''-LH"
+p2453
+asS'Max Inlet Pressure(Psi)'
+p2454
+(lp2455
+S'4000'
+p2456
+asS'Gas'
+p2457
+(lp2458
+S'Acetylene'
+p2459
+asS'Max Outlet Pressure(Psi)'
+p2460
+(lp2461
+S'150'
+p2462
+assg83
+(lp2463
+S'Single stage construction'
+p2464
+aS'Solid forged brass body with all operational data permanentlyengraved'
+p2465
+aS'Unique encapsulated vavle design for maximum control'
+p2466
+aS'Sintered metal inlet filter to trap impurities'
+p2467
+aS'No soldered joints, for easy maintenance'
+p2468
+aS'Connection of other thread sizes avaliable'
+p2469
+asg89
+S'Australian Type Regulator'
+p2470
+sg91
+g92
+ssS'MR-0103A'
+p2471
+(dp2472
+g63
+g2471
+sg64
+S'01'
+p2473
+sg66
+(dp2474
+S'Inlet Connection'
+p2475
+(lp2476
+S'CGA510'
+p2477
+asS'Outlet Connection'
+p2478
+(lp2479
+S"9/16''-18LH"
+p2480
+asS'Max Inlet Pressure(Psi)'
+p2481
+(lp2482
+S'400'
+p2483
+asS'Gas'
+p2484
+(lp2485
+S'Acetylene'
+p2486
+asS'Max Outlet Pressure(Psi)'
+p2487
+(lp2488
+S'15'
+p2489
+assg83
+(lp2490
+S'Single stage construction'
+p2491
+aS'Forged brass body & bonnet for maximum strenth'
+p2492
+aS'Stainless steel diaphragm'
+p2493
+aS'Sintered metal inlet filter to trap impurities'
+p2494
+aS'No soldered joints, for easy maintenance'
+p2495
+aS'Side entry'
+p2496
+aS'Connection of other thread sizes avaliable'
+p2497
+asg89
+S'American Style Victor Type SR450 Heavy Duty Regulator'
+p2498
+sg91
+g92
+ssS'MCN-0202A'
+p2499
+(dp2500
+g123
+g2499
+sg124
+S'02'
+p2501
+sg126
+(dp2502
+S'Model No'
+p2503
+(lp2504
+S'1/32'
+p2505
+aS'3/64'
+p2506
+aS'1/16'
+p2507
+aS'5/64'
+p2508
+aS'3/32'
+p2509
+aS'7/64'
+p2510
+aS'1/8'
+p2511
+asS'Orifice Size(mm)'
+p2512
+(lp2513
+S'0.8'
+p2514
+aS'1.2'
+p2515
+aS'1.6'
+p2516
+aS'2'
+p2517
+aS'2.4'
+p2518
+aS'2.8'
+p2519
+aS'3.2'
+p2520
+asS'Cutting Thickness(mm)'
+p2521
+(lp2522
+S'3-10'
+p2523
+aS'10-25'
+p2524
+aS'25-40'
+p2525
+aS'40-60'
+p2526
+aS'60-100'
+p2527
+aS'100-200'
+p2528
+aS'200-300'
+p2529
+assg155
+(lp2530
+sg157
+S'ANM British Type Cutting Nozzle'
+p2531
+sg159
+g160
+ssS'MR-1301A'
+p2532
+(dp2533
+g63
+g2532
+sg64
+S'13'
+p2534
+sg66
+(dp2535
+S'Inlet Connection'
+p2536
+(lp2537
+S"G5/8''"
+p2538
+asS'Outlet Connection'
+p2539
+(lp2540
+S"BSP3/8''-LH"
+p2541
+asS'Max Inlet Pressure(Bar)'
+p2542
+(lp2543
+S'25'
+p2544
+asS'Gas'
+p2545
+(lp2546
+S'Acetylene'
+p2547
+asS'Max Outlet Pressure(Bar)'
+p2548
+(lp2549
+S'1.5'
+p2550
+assg83
+(lp2551
+S'Single stage construction'
+p2552
+aS'Solid forged brass body with all operational data permanentlyengraved'
+p2553
+aS'Unique encapsulated vavle design for maximum control'
+p2554
+aS'Sintered metal inlet filter to trap impurities'
+p2555
+aS'No soldered joints, for easy maintenance'
+p2556
+aS'Connection of other thread sizes avaliable'
+p2557
+asg89
+S'Switzerland Model Gloor Type Regulator'
+p2558
+sg91
+g92
+ssS'MR-0601'
+p2559
+(dp2560
+g63
+g2559
+sg64
+S'06'
+p2561
+sg66
+(dp2562
+S'Inlet Connection'
+p2563
+(lp2564
+S'W21.8-14'
+p2565
+asS'Outlet Connection'
+p2566
+(lp2567
+S"BSP3/8''-RH"
+p2568
+asS'Max Inlet Pressure(Bar)'
+p2569
+(lp2570
+S'200'
+p2571
+asS'Gas'
+p2572
+(lp2573
+S'Oxygen'
+p2574
+asS'Max Outlet Pressure(Bar)'
+p2575
+(lp2576
+S'10'
+p2577
+assg83
+(lp2578
+S'Single stage construction'
+p2579
+aS'Solid forged brass body with all operational data permanentlyengraved'
+p2580
+aS'Unique encapsulated vavle design for maximum control'
+p2581
+aS'Oxyen regulator with safety relif valve is set for safe operation'
+p2582
+aS'Sintered metal inlet filter to trap impurities'
+p2583
+aS'No soldered joints, for easy maintenance'
+p2584
+aS'Connection of other thread sizes avaliable'
+p2585
+asg89
+S'Germany Model Zinser Type Regulator'
+p2586
+sg91
+g92
+ssS'MR-1301B'
+p2587
+(dp2588
+g63
+g2587
+sg64
+S'13'
+p2589
+sg66
+(dp2590
+S'Inlet Connection'
+p2591
+(lp2592
+S"G5/8''"
+p2593
+asS'Outlet Connection'
+p2594
+(lp2595
+S"BSP3/8''-RH"
+p2596
+asS'Max Inlet Pressure(Bar)'
+p2597
+(lp2598
+S'200'
+p2599
+asS'Gas'
+p2600
+(lp2601
+S'CO2'
+p2602
+asS'Max Outlet Pressure(Bar)'
+p2603
+(lp2604
+S'10'
+p2605
+assg83
+(lp2606
+S'Single stage construction'
+p2607
+aS'Solid forged brass body with all operational data permanentlyengraved'
+p2608
+aS'Unique encapsulated vavle design for maximum control'
+p2609
+aS'Oxyen regulator with safety relif valve is set for safe operation'
+p2610
+aS'Sintered metal inlet filter to trap impurities'
+p2611
+aS'No soldered joints, for easy maintenance'
+p2612
+aS'Connection of other thread sizes avaliable'
+p2613
+asg89
+S'Switzerland Model Gloor Type Regulator'
+p2614
+sg91
+g92
+ssS'MC-0701'
+p2615
+(dp2616
+g28
+g2615
+sg29
+S'07'
+p2617
+sg31
+(dp2618
+S'Length(mm)'
+p2619
+(lp2620
+S'505'
+p2621
+asS'Head'
+p2622
+(lp2623
+S'90\xc2\xb0'
+p2624
+asS'Nozzle for Acetylene'
+p2625
+(lp2626
+S'G1-A'
+p2627
+asS'Nozzle for Propane'
+p2628
+(lp2629
+S'G1-P'
+p2630
+asS'Cutting Capacity(mm)'
+p2631
+(lp2632
+S'3-300'
+p2633
+assg48
+(lp2634
+S'Die-forged brass head for added strength and durability'
+p2635
+aS'Nozzle mix principle for maximum safety'
+p2636
+aS'Suitable for both acetylene and propane service'
+p2637
+aS'Unique cutting oxygen flow valve creates a progressive piercing and the smoothest cutting conditions'
+p2638
+aS"Hose connection: BSP 3/8'', other thread sizes available"
+p2639
+asg57
+S'French Le Lorrain Type Cutting torch'
+p2640
+sg59
+g60
+ssS'MR-0803B'
+p2641
+(dp2642
+g63
+g2641
+sg64
+S'08'
+p2643
+sg66
+(dp2644
+S'Inlet Connection'
+p2645
+(lp2646
+S"G5/8''"
+p2647
+asS'Outlet Connection'
+p2648
+(lp2649
+S"BSP3/8''-LH"
+p2650
+asS'Max Inlet Pressure(Psi)'
+p2651
+(lp2652
+S'30'
+p2653
+asS'Gas'
+p2654
+(lp2655
+S'Propane'
+p2656
+asS'Max Outlet Pressure(Psi)'
+p2657
+(lp2658
+S'1.5'
+p2659
+assg83
+(lp2660
+S'Single stage construction'
+p2661
+aS'Solid forged brass body with all operational data permanentlyengraved'
+p2662
+aS'Unique encapsulated vavle design for maximum control'
+p2663
+aS'Sintered metal inlet filter to trap impurities'
+p2664
+aS'No soldered joints, for easy maintenance'
+p2665
+aS'Connection of other thread sizes avaliable'
+p2666
+asg89
+S'South-East Asia Type Regulator'
+p2667
+sg91
+g92
+ssS'MC-0702'
+p2668
+(dp2669
+g28
+g2668
+sg29
+S'07'
+p2670
+sg31
+(dp2671
+S'Length(mm)'
+p2672
+(lp2673
+S'505'
+p2674
+asS'Head'
+p2675
+(lp2676
+S'90\xc2\xb0'
+p2677
+asS'Nozzle for Acetylene'
+p2678
+(lp2679
+S'G1-A'
+p2680
+asS'Nozzle for Propane'
+p2681
+(lp2682
+S'G1-P'
+p2683
+asS'Cutting Capacity(mm)'
+p2684
+(lp2685
+S'3-300'
+p2686
+assg48
+(lp2687
+S'Die-forged brass head for added strength and durability'
+p2688
+aS'Nozzle mix principle for maximum safety'
+p2689
+aS'Suitable for both acetylene and propane service'
+p2690
+aS'Unique cutting oxygen flow valve creates a progressive piercing and the smoothest cutting conditions'
+p2691
+aS"Hose connection: BSP 3/8'', other thread sizes available"
+p2692
+asg57
+S'French SAF Type Cutting torch'
+p2693
+sg59
+g60
+ssS'MC-0401'
+p2694
+(dp2695
+g28
+g2694
+sg29
+S'04'
+p2696
+sg31
+(dp2697
+S'Length(mm)'
+p2698
+(lp2699
+S'480'
+p2700
+aS'480'
+p2701
+asS'Head'
+p2702
+(lp2703
+S'90\xc2\xb0'
+p2704
+aS'90\xc2\xb0'
+p2705
+asS'Nozzle for Acetylene'
+p2706
+(lp2707
+S'ANM '
+p2708
+aS'ANME'
+p2709
+asS'Nozzle for Propane'
+p2710
+(lp2711
+S'PNM '
+p2712
+aS'PNME'
+p2713
+asS'Cutting Capacity(mm)'
+p2714
+(lp2715
+S'3-200'
+p2716
+aS'3-200'
+p2717
+assg48
+(lp2718
+S'Die-forged brass head for added strength and durability'
+p2719
+aS'Suitable for both acetylene and propane service'
+p2720
+aS'In-line tube design'
+p2721
+aS'Nozzle mix principle for maximum safety'
+p2722
+aS'Stainless steel lever without locking clip'
+p2723
+aS"Hose connection: BSP 3/8'', other thread sizes available"
+p2724
+asg57
+S'G02-200 Japan Type Cutting torch'
+p2725
+sg59
+g60
+ssS'MR-0501'
+p2726
+(dp2727
+g63
+g2726
+sg64
+S'05'
+p2728
+sg66
+(dp2729
+S'Inlet Connection'
+p2730
+(lp2731
+S'G3/4'
+p2732
+asS'Outlet Connection'
+p2733
+(lp2734
+S'M16*1.5'
+p2735
+asS'Max Inlet Pressure(Mpa)'
+p2736
+(lp2737
+S'25'
+p2738
+asS'Gas'
+p2739
+(lp2740
+S'Oxygen'
+p2741
+asS'Max Outlet Pressure(Mpa)'
+p2742
+(lp2743
+S'2.5'
+p2744
+assg83
+(lp2745
+S'Forged brass body for maximum strength'
+p2746
+aS'Suitable for various welding and cutting applications'
+p2747
+aS'Body and cap forged A brass ensure maximum strength'
+p2748
+aS'Deisgn expecially for for Russian Market'
+p2749
+aS'Coonnection of other thread sizes avaliable'
+p2750
+asg89
+S'Russia Type Regulator'
+p2751
+sg91
+g92
+ssS'MR-0502'
+p2752
+(dp2753
+g63
+g2752
+sg64
+S'05'
+p2754
+sg66
+(dp2755
+S'Inlet Connection'
+p2756
+(lp2757
+S'G3/4'
+p2758
+asS'Outlet Connection'
+p2759
+(lp2760
+S'M16*1.5'
+p2761
+asS'Max Inlet Pressure(Mpa)'
+p2762
+(lp2763
+S'25'
+p2764
+asS'Gas'
+p2765
+(lp2766
+S'Oxygen'
+p2767
+asS'Max Outlet Pressure(Mpa)'
+p2768
+(lp2769
+S'2.5'
+p2770
+assg83
+(lp2771
+S'Forged brass body for maximum strength'
+p2772
+aS'Suitable for various welding and cutting applications'
+p2773
+aS'Body and cap forged A brass ensure maximum strength'
+p2774
+aS'Deisgn expecially for for Russian Market'
+p2775
+aS'Coonnection of other thread sizes avaliable'
+p2776
+asg89
+S'Russia Type Regulator'
+p2777
+sg91
+g92
+ssS'MR-0202A'
+p2778
+(dp2779
+g63
+g2778
+sg64
+S'02'
+p2780
+sg66
+(dp2781
+S'Inlet Connection'
+p2782
+(lp2783
+S"G5/8''"
+p2784
+asS'Outlet Connection'
+p2785
+(lp2786
+S"BSP3/8''-LH"
+p2787
+asS'Max Inlet Pressure(Psi)'
+p2788
+(lp2789
+S'300'
+p2790
+asS'Gas'
+p2791
+(lp2792
+S'Acetylene'
+p2793
+asS'Max Outlet Pressure(Psi)'
+p2794
+(lp2795
+S'25'
+p2796
+assg83
+(lp2797
+S'Single stage construction'
+p2798
+aS'Solid forged brass body with all operational data permanentlyengraved'
+p2799
+aS'Unique encapsulated vavle design for maximum control'
+p2800
+aS'Oxyen regulator with safety relif valve is set for safe operation'
+p2801
+aS'Sintered metal inlet filter to trap impurities'
+p2802
+aS'No soldered joints, for easy maintenance'
+p2803
+aS'Side entry'
+p2804
+aS'Connection of other thread sizes avaliable'
+p2805
+asg89
+S'British Style Murex Type 300 Series Regulator'
+p2806
+sg91
+g92
+ssS'MR-0112'
+p2807
+(dp2808
+g63
+g2807
+sg64
+S'01'
+p2809
+sg66
+(dp2810
+S'Inlet Connection'
+p2811
+(lp2812
+S'CGA540'
+p2813
+asS'Outlet Connection'
+p2814
+(lp2815
+S"9/16''-18"
+p2816
+asS'Max Inlet Pressure(Psi)'
+p2817
+(lp2818
+S'3000'
+p2819
+asS'Gas'
+p2820
+(lp2821
+S'Oxygen'
+p2822
+asS'Max Outlet Pressure(Psi)'
+p2823
+(lp2824
+S'250'
+p2825
+assg83
+(lp2826
+S'Single stage construction'
+p2827
+aS'Forged brass body & bonnet for maximum strenth'
+p2828
+aS'Stainless steel diaphragm'
+p2829
+aS'Oxyen regulator with safety relif valve is set for safe operation'
+p2830
+aS'Sintered metal inlet filter to trap impurities'
+p2831
+aS'No soldered joints, for easy maintenance'
+p2832
+aS'Side entry'
+p2833
+aS'Connection of other thread sizes avaliable'
+p2834
+asg89
+S'American Style Harris Type Regulator'
+p2835
+sg91
+g92
+ssS'MR-0106A'
+p2836
+(dp2837
+g63
+g2836
+sg64
+S'01'
+p2838
+sg66
+(dp2839
+S'Inlet Connection'
+p2840
+(lp2841
+S'CGA510'
+p2842
+asS'Outlet Connection'
+p2843
+(lp2844
+S"9/16''-18LH"
+p2845
+asS'Max Inlet Pressure(Psi)'
+p2846
+(lp2847
+S'400'
+p2848
+asS'Gas'
+p2849
+(lp2850
+S'Acetylene'
+p2851
+asS'Max Outlet Pressure(Psi)'
+p2852
+(lp2853
+S'15'
+p2854
+assg83
+(lp2855
+S'Single stage construction'
+p2856
+aS'Forged brass body & bonnet for maximum strenth'
+p2857
+aS'Stainless steel diaphragm'
+p2858
+aS'Sintered metal inlet filter to trap impurities'
+p2859
+aS'No soldered joints, for easy maintenance'
+p2860
+aS'Side entry'
+p2861
+aS'Connection of other thread sizes avaliable'
+p2862
+asg89
+S'American Style Victor Type SR260 Medium Duty Regulator'
+p2863
+sg91
+g92
+ssS'MR-0110'
+p2864
+(dp2865
+g63
+g2864
+sg64
+S'01'
+p2866
+sg66
+(dp2867
+S'Inlet Connection'
+p2868
+(lp2869
+S'CGA540'
+p2870
+asS'Outlet Connection'
+p2871
+(lp2872
+S"9/16''-18"
+p2873
+asS'Max Inlet Pressure(Psi)'
+p2874
+(lp2875
+S'3000'
+p2876
+asS'Gas'
+p2877
+(lp2878
+S'Oxygen'
+p2879
+asS'Max Outlet Pressure(Psi)'
+p2880
+(lp2881
+S'250'
+p2882
+assg83
+(lp2883
+S'Single stage construction'
+p2884
+aS'Forged brass body, steel cover & bonnet for maximum strenth'
+p2885
+aS'Stainless steel diaphragm'
+p2886
+aS'Oxyen regulator with safety relif valve is set for safe operation'
+p2887
+aS'Sintered metal inlet filter to trap impurities'
+p2888
+aS'No soldered joints, for easy maintenance'
+p2889
+aS'Side entry'
+p2890
+aS'Connection of other thread sizes avaliable'
+p2891
+asg89
+S'American Type Regulator'
+p2892
+sg91
+g92
+ssS'MCN-0201'
+p2893
+(dp2894
+g123
+g2893
+sg124
+S'02'
+p2895
+sg126
+(dp2896
+S'Model No'
+p2897
+(lp2898
+S'1/32'
+p2899
+aS'3/64'
+p2900
+aS'1/16'
+p2901
+aS'5/64'
+p2902
+aS'3/32'
+p2903
+aS'7/64'
+p2904
+aS'1/8'
+p2905
+asS'Orifice Size(mm)'
+p2906
+(lp2907
+S'0.8'
+p2908
+aS'1.2'
+p2909
+aS'1.6'
+p2910
+aS'2'
+p2911
+aS'2.4'
+p2912
+aS'2.8'
+p2913
+aS'3.2'
+p2914
+asS'Cutting Thickness(mm)'
+p2915
+(lp2916
+S'3-10'
+p2917
+aS'10-25'
+p2918
+aS'25-40'
+p2919
+aS'40-60'
+p2920
+aS'60-100'
+p2921
+aS'100-200'
+p2922
+aS'200-300'
+p2923
+assg155
+(lp2924
+sg157
+S'PNME British Type Cutting Nozzle'
+p2925
+sg159
+g160
+ssS'MCN-0202'
+p2926
+(dp2927
+g123
+g2926
+sg124
+S'02'
+p2928
+sg126
+(dp2929
+S'Model No'
+p2930
+(lp2931
+S'1/32'
+p2932
+aS'3/64'
+p2933
+aS'1/16'
+p2934
+aS'5/64'
+p2935
+aS'3/32'
+p2936
+aS'7/64'
+p2937
+aS'1/8'
+p2938
+asS'Orifice Size(mm)'
+p2939
+(lp2940
+S'0.8'
+p2941
+aS'1.2'
+p2942
+aS'1.6'
+p2943
+aS'2'
+p2944
+aS'2.4'
+p2945
+aS'2.8'
+p2946
+aS'3.2'
+p2947
+asS'Cutting Thickness(mm)'
+p2948
+(lp2949
+S'3-10'
+p2950
+aS'10-25'
+p2951
+aS'25-40'
+p2952
+aS'40-60'
+p2953
+aS'60-100'
+p2954
+aS'100-200'
+p2955
+aS'200-300'
+p2956
+assg155
+(lp2957
+sg157
+S'ANME British Type Cutting Nozzle'
+p2958
+sg159
+g160
+ssS'MC-0901'
+p2959
+(dp2960
+g28
+g2959
+sg29
+S'09'
+p2961
+sg31
+(dp2962
+S'Length(mm)'
+p2963
+(lp2964
+S'545'
+p2965
+asS'Head'
+p2966
+(lp2967
+S'90\xc2\xb0'
+p2968
+asS'Nozzle for Acetylene'
+p2969
+(lp2970
+S'1502'
+p2971
+asS'Nozzle for Propane'
+p2972
+(lp2973
+S'1503'
+p2974
+asS'Cutting Capacity(mm)'
+p2975
+(lp2976
+S'3-200'
+p2977
+assg48
+(lp2978
+S'Die-forged brass head for added strength and durability'
+p2979
+aS'Nozzle mix principle for maximum safety'
+p2980
+aS'Suitable for both acetylene and propane service'
+p2981
+aS'Unique cutting oxygen flow valve creates a progressive piercing and the smoothest cutting conditions'
+p2982
+aS"Hose connection: 9/16''-18, other thread sizes available"
+p2983
+asg57
+S'Brazil Type Cutting torch'
+p2984
+sg59
+g60
+ssS'MR-0204A'
+p2985
+(dp2986
+g63
+g2985
+sg64
+S'02'
+p2987
+sg66
+(dp2988
+S'Inlet Connection'
+p2989
+(lp2990
+S"G5/8''"
+p2991
+asS'Outlet Connection'
+p2992
+(lp2993
+S"BSP3/8''-LH"
+p2994
+asS'Max Inlet Pressure(Psi)'
+p2995
+(lp2996
+S'300'
+p2997
+asS'Gas'
+p2998
+(lp2999
+S'Acetylene'
+p3000
+asS'Max Outlet Pressure(Psi)'
+p3001
+(lp3002
+S'25'
+p3003
+assg83
+(lp3004
+S'Single stage construction'
+p3005
+aS'Solid forged brass body with all operational data permanentlyengraved'
+p3006
+aS'Unique encapsulated vavle design for maximum control'
+p3007
+aS'Oxyen regulator with safety relif valve is set for safe operation'
+p3008
+aS'Sintered metal inlet filter to trap impurities'
+p3009
+aS'No soldered joints, for easy maintenance'
+p3010
+aS'Side entry'
+p3011
+aS'Connection of other thread sizes avaliable'
+p3012
+asg89
+S'British Type Regulator'
+p3013
+sg91
+g92
+ssS'MC-0501'
+p3014
+(dp3015
+g28
+g3014
+sg29
+S'05'
+p3016
+sg31
+(dp3017
+S'Length(mm)'
+p3018
+(lp3019
+S'480'
+p3020
+asS'Head'
+p3021
+(lp3022
+S'90\xc2\xb0'
+p3023
+asS'Nozzle for Acetylene'
+p3024
+(lp3025
+S'2023AC'
+p3026
+asS'Nozzle for Propane'
+p3027
+(lp3028
+S'2023LPG'
+p3029
+asS'Cutting Capacity(mm)'
+p3030
+(lp3031
+S'3-100'
+p3032
+assg48
+(lp3033
+S'Die-forged brass head for added strength and durability'
+p3034
+aS'Suitable for both acetylene and propane service'
+p3035
+aS'Unique cutting oxygen flow valve creates a progressive piercing and the smoothest cutting conditions'
+p3036
+aS'Hose connection: M16*1.5, other thread sizes available'
+p3037
+asg57
+S'Russia Type Heavy Duty Cutting torch'
+p3038
+sg59
+g60
+ssS'MC-0201B'
+p3039
+(dp3040
+g28
+g3039
+sg29
+S'02'
+p3041
+sg31
+(dp3042
+S'Length(mm)'
+p3043
+(lp3044
+S'900'
+p3045
+aS'900'
+p3046
+asS'Head'
+p3047
+(lp3048
+S'75\xc2\xb0/90\xc2\xb0/180\xc2\xb0'
+p3049
+aS'75\xc2\xb0/90\xc2\xb0/180\xc2\xb0'
+p3050
+asS'Nozzle for Acetylene'
+p3051
+(lp3052
+S'ANM '
+p3053
+aS'ANME'
+p3054
+asS'Nozzle for Propane'
+p3055
+(lp3056
+S'PNM '
+p3057
+aS'PNME'
+p3058
+asS'Cutting Capacity(mm)'
+p3059
+(lp3060
+S'3-300'
+p3061
+aS'3-300'
+p3062
+assg48
+(lp3063
+S'Die-forged brass head for added strength and durability'
+p3064
+aS'Suitable for both acetylene and propane service'
+p3065
+aS'Backfire resistant design'
+p3066
+aS'Nozzle mix principle for maximum safety'
+p3067
+aS'Stainless steel lever with hold-down button'
+p3068
+aS"Hose connection: BSP 3/8'', other thread sizes available"
+p3069
+asg57
+S'NM-250 Cutting torch'
+p3070
+sg59
+g60
+ssS'MR-0503A'
+p3071
+(dp3072
+g63
+g3071
+sg64
+S'05'
+p3073
+sg66
+(dp3074
+S'Inlet Connection'
+p3075
+(lp3076
+S'G3/4'
+p3077
+asS'Outlet Connection'
+p3078
+(lp3079
+S'M16*1.5'
+p3080
+asS'Max Inlet Pressure(Mpa)'
+p3081
+(lp3082
+S'16'
+p3083
+asS'Gas'
+p3084
+(lp3085
+S'CO2'
+p3086
+asS'Max Outlet Pressure(Mpa)'
+p3087
+(lp3088
+S'1'
+p3089
+assg83
+(lp3090
+S'Forged brass body for maximum strength'
+p3091
+aS'Suitable for various welding and cutting applications'
+p3092
+aS'Body and cap forged A brass ensure maximum strength'
+p3093
+aS'Deisgn expecially for for Russian Market'
+p3094
+aS'Coonnection of other thread sizes avaliable'
+p3095
+asg89
+S'Russia Type Regulator'
+p3096
+sg91
+g92
+ssS'MCN-0201A'
+p3097
+(dp3098
+g123
+g3097
+sg124
+S'02'
+p3099
+sg126
+(dp3100
+S'Model No'
+p3101
+(lp3102
+S'1/32'
+p3103
+aS'3/64'
+p3104
+aS'1/16'
+p3105
+aS'5/64'
+p3106
+aS'3/32'
+p3107
+aS'7/64'
+p3108
+aS'1/8'
+p3109
+asS'Orifice Size(mm)'
+p3110
+(lp3111
+S'0.8'
+p3112
+aS'1.2'
+p3113
+aS'1.6'
+p3114
+aS'2'
+p3115
+aS'2.4'
+p3116
+aS'2.8'
+p3117
+aS'3.2'
+p3118
+asS'Cutting Thickness(mm)'
+p3119
+(lp3120
+S'3-10'
+p3121
+aS'10-25'
+p3122
+aS'25-40'
+p3123
+aS'40-60'
+p3124
+aS'60-100'
+p3125
+aS'100-200'
+p3126
+aS'200-300'
+p3127
+assg155
+(lp3128
+sg157
+S'PNM British Type Cutting Nozzle'
+p3129
+sg159
+g160
+ssS'MCN-0101A'
+p3130
+(dp3131
+g123
+g3130
+sg124
+S'01'
+p3132
+sg126
+(dp3133
+S'Model No'
+p3134
+(lp3135
+S'00'
+p3136
+ag402
+ag403
+ag404
+ag405
+asS'Orifice Size(mm)'
+p3137
+(lp3138
+S'0.8'
+p3139
+aS'1'
+p3140
+aS'1.2'
+p3141
+aS'1.5'
+p3142
+aS'1.8'
+p3143
+asS'Cutting Thickness(mm)'
+p3144
+(lp3145
+S'3-6'
+p3146
+aS'6-10'
+p3147
+aS'10-20'
+p3148
+aS'20-40'
+p3149
+aS'40-60'
+p3150
+assg155
+(lp3151
+sg157
+S'3-GPN Propane American Type Cutting Nozzle'
+p3152
+sg159
+g160
+ssS'MR-0111'
+p3153
+(dp3154
+g63
+g3153
+sg64
+S'01'
+p3155
+sg66
+(dp3156
+S'Inlet Connection'
+p3157
+(lp3158
+S'CGA540'
+p3159
+asS'Outlet Connection'
+p3160
+(lp3161
+S"9/16''-18"
+p3162
+asS'Max Inlet Pressure(Psi)'
+p3163
+(lp3164
+S'3000'
+p3165
+asS'Gas'
+p3166
+(lp3167
+S'Oxygen'
+p3168
+asS'Max Outlet Pressure(Psi)'
+p3169
+(lp3170
+S'250'
+p3171
+assg83
+(lp3172
+S'Single stage construction'
+p3173
+aS'Forged brass body, zinc cover & bonnet for maximum strenth'
+p3174
+aS'Stainless steel diaphragm'
+p3175
+aS'Oxyen regulator with safety relif valve is set for safe operation'
+p3176
+aS'Sintered metal inlet filter to trap impurities'
+p3177
+aS'No soldered joints, for easy maintenance'
+p3178
+aS'Side entry'
+p3179
+aS'Connection of other thread sizes avaliable'
+p3180
+asg89
+S'American Type Regulator'
+p3181
+sg91
+g92
+ssS'MR-0102'
+p3182
+(dp3183
+g63
+g3182
+sg64
+S'01'
+p3184
+sg66
+(dp3185
+S'Inlet Connection'
+p3186
+(lp3187
+S'CGA540'
+p3188
+asS'Outlet Connection'
+p3189
+(lp3190
+S"9/16''-18"
+p3191
+asS'Max Inlet Pressure(Psi)'
+p3192
+(lp3193
+S'3000'
+p3194
+asS'Gas'
+p3195
+(lp3196
+S'Oxygen'
+p3197
+asS'Max Outlet Pressure(Psi)'
+p3198
+(lp3199
+S'250'
+p3200
+assg83
+(lp3201
+S'Single stage construction'
+p3202
+aS'Forged brass body & bonnet for maximum strenth'
+p3203
+aS'Stainless steel diaphragm'
+p3204
+aS'Oxyen regulator with safety relif valve is set for safe operation'
+p3205
+aS'Sintered metal inlet filter to trap impurities'
+p3206
+aS'No soldered joints, for easy maintenance'
+p3207
+aS'Side entry'
+p3208
+aS'Connection of other thread sizes avaliable'
+p3209
+asg89
+S'American Style Victor Type SR460 Heavy Duty Regulator'
+p3210
+sg91
+g92
+ssS'MR-0303B'
+p3211
+(dp3212
+g63
+g3211
+sg64
+S'03'
+p3213
+sg66
+(dp3214
+S'Inlet Connection'
+p3215
+(lp3216
+S'W21.8-14'
+p3217
+asS'Outlet Connection'
+p3218
+(lp3219
+S"G1/4''-19"
+p3220
+asS'Max Inlet Pressure(bar)'
+p3221
+(lp3222
+S'25'
+p3223
+asS'Gas'
+p3224
+(lp3225
+S'CO2'
+p3226
+asS'Max Outlet Pressure(bar)'
+p3227
+(lp3228
+S'1.5'
+p3229
+assg83
+(lp3230
+S'Ideal to fit welding machine MIG/MAG, which require robustness and high flow rates stability'
+p3231
+aS'The additional valve for fine control and convenience and ensures a high flow stability'
+p3232
+aS'Adjusting knob made of high grade PC provides smooth pressure adjustment'
+p3233
+aS'A very sturdy structure for a pressure reducer with bottom adjusting knob and side entry'
+p3234
+aS'Integrated safety valve and shut-off valve'
+p3235
+aS'No soldered joints for easy maintenance'
+p3236
+asg89
+S'Italy Type Regulator'
+p3237
+sg91
+g92
+ssS'MWCO-0105'
+p3238
+(dp3239
+S'order_no'
+p3240
+g3238
+sS'country'
+p3241
+S'01'
+p3242
+sS'specification'
+p3243
+(dp3244
+S'Cutting Tip'
+p3245
+S'6290NX #1 #2 #3'
+p3246
+sS'Capacity'
+p3247
+S'Cutting up to 100mm'
+p3248
+sS'Accessories Included'
+p3249
+S'Circle cutting attachment'
+p3250
+sS'Applicable Gas'
+p3251
+S'Oxygen and Acetylene'
+p3252
+sS'Nut Fitting'
+p3253
+S"9/16''-18"
+p3254
+sS'Application'
+p3255
+S'High-volume cutting'
+p3256
+sS'Torch Handle'
+p3257
+S'62-3F type stainless steel needle valves with accuracy'
+p3258
+ssS'feaList'
+p3259
+(lp3260
+sS'typeDetail'
+p3261
+S'American Type Medium Duty Cutting Outfit'
+p3262
+sS'typeInShort'
+p3263
+S'welding&cutting outfit'
+p3264
+ssS'MWCO-0104'
+p3265
+(dp3266
+g3240
+g3265
+sg3241
+S'01'
+p3267
+sg3243
+(dp3268
+S'Cutting Tip'
+p3269
+S'6290NX'
+p3270
+sS'Capacity'
+p3271
+S'Cutting up to 150mm / Welding up to 9mm'
+p3272
+sS'Oxygen Inlet&Outlet'
+p3273
+S"CGA540&9/16''-18"
+p3274
+sS'Accessories Included'
+p3275
+S'Goggles: #5 Green\nTwin Hose: 4.5m\nLighter: single flint\nTip Cleaner: 80mm\nWrench: multi functional'
+p3276
+sS'Acetylene Inlet&Outlet'
+p3277
+S"CGA200&9/16''-18"
+p3278
+sS'Applicable Gas'
+p3279
+S'Oxygen and Acetylene'
+p3280
+sS'Application'
+p3281
+S'High-volume cutting and welding'
+p3282
+sS'Heating Tip'
+p3283
+S'MFA-1 #8'
+p3284
+sS'Torch Handle'
+p3285
+S'315FC type stainless steel needle valves with accuracy'
+p3286
+sS'Heavy Duty regulator'
+p3287
+S'forged full brass body, steel cap with durability'
+p3288
+sS'Welding Tip'
+p3289
+S'200V #1 #2 #3'
+p3290
+ssg3259
+(lp3291
+sg3261
+S'American Type Heavy Duty Welding&Cutting Outfit'
+p3292
+sg3263
+g3264
+ssS'MWCO-0103'
+p3293
+(dp3294
+g3240
+g3293
+sg3241
+S'01'
+p3295
+sg3243
+(dp3296
+S'Cutting Tip'
+p3297
+S'6290NX'
+p3298
+sS'Capacity'
+p3299
+S'Cutting up to 150mm / Welding up to 9mm'
+p3300
+sS'Oxygen Inlet&Outlet'
+p3301
+S"CGA540&9/16''-18"
+p3302
+sS'Accessories Included'
+p3303
+S'Goggles: #5 Green\nTwin Hose: 4.5m\nLighter: single flint\nTip Cleaner: 80mm\nWrench: multi functional'
+p3304
+sS'Acetylene Inlet&Outlet'
+p3305
+S"CGA200&9/16''-18"
+p3306
+sS'Applicable Gas'
+p3307
+S'Oxygen and Acetylene'
+p3308
+sS'Application'
+p3309
+S'High-volume cutting and welding'
+p3310
+sS'Torch Handle'
+p3311
+S'63-2 type stainless steel needle valves with accuracy'
+p3312
+sS'Heavy Duty regulator'
+p3313
+S'forged full brass body, steel cap with durability'
+p3314
+sS'Welding Tip'
+p3315
+S'200V #1 #2 #3'
+p3316
+ssg3259
+(lp3317
+sg3261
+S'American Type Heavy Duty Welding&Cutting Outfit'
+p3318
+sg3263
+g3264
+ssS'MWCO-0102'
+p3319
+(dp3320
+g3240
+g3319
+sg3241
+S'01'
+p3321
+sg3243
+(dp3322
+S'Cutting Tip'
+p3323
+S'1-101'
+p3324
+sS'Capacity'
+p3325
+S'Cutting up to 19mm / Welding up to 3.2mm'
+p3326
+sS'Oxygen Inlet&Outlet'
+p3327
+S"CGA540&9/16''-18"
+p3328
+sS'Accessories Included'
+p3329
+S'Goggles: #5 Green\nTwin Hose: 6m\nLighter: single flint\nTip Cleaner: 80mm\nWrench: multi functional'
+p3330
+sS'Acetylene Inlet&Outlet'
+p3331
+S"CGA200&9/16''-18"
+p3332
+sS'Applicable Gas'
+p3333
+S'Oxygen and Acetylene'
+p3334
+sS'Application'
+p3335
+S'High-volume cutting and welding'
+p3336
+sS'Heating Tip'
+p3337
+S'MFA-1 #8'
+p3338
+sS'Torch Handle'
+p3339
+S'315FC type stainless steel needle valves with accuracy'
+p3340
+sS'Heavy Duty regulator'
+p3341
+S'forged full brass body with durability'
+p3342
+sS'Welding Tip'
+p3343
+S'200V #1 #2 #3'
+p3344
+ssg3259
+(lp3345
+sg3261
+S'American Type Heavy Duty Welding&Cutting Outfit'
+p3346
+sg3263
+g3264
+ssS'MWCO-0101'
+p3347
+(dp3348
+g3240
+g3347
+sg3241
+S'01'
+p3349
+sg3243
+(dp3350
+S'Cutting Tip'
+p3351
+S'3-GPN'
+p3352
+sS'Capacity'
+p3353
+S'Cutting up to 19mm / Welding up to 3.2mm'
+p3354
+sS'Applicable Gas'
+p3355
+S'Oxygen and Acetylene'
+p3356
+sS'Oxygen Inlet&Outlet'
+p3357
+S"CGA540&9/16''-18"
+p3358
+sS'Acetylene Inlet&Outlet'
+p3359
+S"CGA200&9/16''-18"
+p3360
+sS'Accessories Included'
+p3361
+S'Goggles: #5 Green\nTwin Hose: 4.5m\nLighter: single flint\nTip Cleaner: 80mm\nWrench: multi functional'
+p3362
+sS'Acetylene Cylinder'
+p3363
+S'2L'
+p3364
+sS'Light Duty regulator'
+p3365
+S'forged full brass body with durability'
+p3366
+sS'Application'
+p3367
+S'Medium-volume soldering'
+p3368
+sS'Torch Handle'
+p3369
+S'50DC type stainless steel needle valves with accuracy'
+p3370
+sS'Welding Tip'
+p3371
+S'80V #1'
+p3372
+sS'Oxygen Cylinder'
+p3373
+S'4L'
+p3374
+ssg3259
+(lp3375
+S'Contains all the quality equipment needed for cutting, welding and brazing in a rugged surrounding plastic carrying case'
+p3376
+aS'The outfit is designed to carry one 2L acetylene cylinder and one 4L oxygen cylinder.'
+p3377
+aS"As supplied, the outfit can cut 3/4''(19mm) and weld to 1/8''(3.2mm) with larger tips"
+p3378
+aS'According to different requirements, optional tip sizes are available.'
+p3379
+asg3261
+S'American Type Light Duty Welding&Cutting Outfit'
+p3380
+sg3263
+g3264
+ssS'MR-0402A'
+p3381
+(dp3382
+g63
+g3381
+sg64
+S'04'
+p3383
+sg66
+(dp3384
+S'Inlet Connection'
+p3385
+(lp3386
+S"G5/8''-LH"
+p3387
+asS'Outlet Connection'
+p3388
+(lp3389
+S"BSP3/8''-LH"
+p3390
+asS'Max Inlet Pressure(bar)'
+p3391
+(lp3392
+S'15'
+p3393
+asS'Gas'
+p3394
+(lp3395
+S'Acetylene'
+p3396
+asS'Max Outlet Pressure(bar)'
+p3397
+(lp3398
+S'1.5'
+p3399
+assg83
+(lp3400
+S'Forged brass body for maximum strength'
+p3401
+aS'Aluminum bonnet spray color paint'
+p3402
+aS'Sintered metal inlet filter to trap impurities'
+p3403
+aS'No soldered joints for easy maintenance'
+p3404
+asg89
+S'Japan Model Tanaka Type Regulator'
+p3405
+sg91
+g92
+ssS'MR-0203A'
+p3406
+(dp3407
+g63
+g3406
+sg64
+S'02'
+p3408
+sg66
+(dp3409
+S'Inlet Connection'
+p3410
+(lp3411
+S"G5/8''"
+p3412
+asS'Outlet Connection'
+p3413
+(lp3414
+S"BSP3/8''-LH"
+p3415
+asS'Max Inlet Pressure(Psi)'
+p3416
+(lp3417
+S'300'
+p3418
+asS'Gas'
+p3419
+(lp3420
+S'Acetylene'
+p3421
+asS'Max Outlet Pressure(Psi)'
+p3422
+(lp3423
+S'25'
+p3424
+assg83
+(lp3425
+S'Two stage construction'
+p3426
+aS'Solid forged brass body with all operational data permanentlyengraved'
+p3427
+aS'Unique encapsulated vavle design for maximum control'
+p3428
+aS'Oxyen regulator with safety relif valve is set for safe operation'
+p3429
+aS'Sintered metal inlet filter to trap impurities'
+p3430
+aS'No soldered joints, for easy maintenance'
+p3431
+aS'Side entry'
+p3432
+aS'Connection of other thread sizes avaliable'
+p3433
+asg89
+S'British Type Regulator'
+p3434
+sg91
+g92
+ssS'MR-0103B'
+p3435
+(dp3436
+g63
+g3435
+sg64
+S'01'
+p3437
+sg66
+(dp3438
+S'Inlet Connection'
+p3439
+(lp3440
+S'CGA510'
+p3441
+asS'Outlet Connection'
+p3442
+(lp3443
+S"9/16''-18LH"
+p3444
+asS'Max Inlet Pressure(Psi)'
+p3445
+(lp3446
+S'400'
+p3447
+asS'Gas'
+p3448
+(lp3449
+S'Propane'
+p3450
+asS'Max Outlet Pressure(Psi)'
+p3451
+(lp3452
+S'125'
+p3453
+assg83
+(lp3454
+S'Single stage construction'
+p3455
+aS'Forged brass body & bonnet for maximum strenth'
+p3456
+aS'Stainless steel diaphragm'
+p3457
+aS'Sintered metal inlet filter to trap impurities'
+p3458
+aS'No soldered joints, for easy maintenance'
+p3459
+aS'Side entry'
+p3460
+aS'Connection of other thread sizes avaliable'
+p3461
+asg89
+S'American Style Victor Type SR450 Heavy Duty Regulator'
+p3462
+sg91
+g92
+ssS'MR-0302B'
+p3463
+(dp3464
+g63
+g3463
+sg64
+S'03'
+p3465
+sg66
+(dp3466
+S'Inlet Connection'
+p3467
+(lp3468
+S'W21.8-14'
+p3469
+asS'Outlet Connection'
+p3470
+(lp3471
+S"G1/4''-19"
+p3472
+asS'Max Inlet Pressure(bar)'
+p3473
+(lp3474
+S'25'
+p3475
+asS'Gas'
+p3476
+(lp3477
+S'CO2'
+p3478
+asS'Max Outlet Pressure(bar)'
+p3479
+(lp3480
+S'1.5'
+p3481
+assg83
+(lp3482
+S'Ideal to fit welding machine MIG/MAG, which require robustness and high flow rates stability'
+p3483
+aS'The additional valve for fine control and convenience and ensures a high flow stability'
+p3484
+aS'Adjusting knob made of high grade PC provides smooth pressure adjustment'
+p3485
+aS'A very sturdy structure for a pressure reducer with bottom adjusting knob and side entry'
+p3486
+aS'Integrated safety valve and shut-off valve'
+p3487
+aS'No soldered joints for easy maintenance'
+p3488
+asg89
+S'Italy Model Mujelli Type Regulator'
+p3489
+sg91
+g92
+ssS'MR-0302A'
+p3490
+(dp3491
+g63
+g3490
+sg64
+S'03'
+p3492
+sg66
+(dp3493
+S'Inlet Connection'
+p3494
+(lp3495
+S'Clamp'
+p3496
+asS'Outlet Connection'
+p3497
+(lp3498
+S"G1/4''-19-LH"
+p3499
+asS'Max Inlet Pressure(bar)'
+p3500
+(lp3501
+S'25'
+p3502
+asS'Gas'
+p3503
+(lp3504
+S'Acetylene'
+p3505
+asS'Max Outlet Pressure(bar)'
+p3506
+(lp3507
+S'1.5'
+p3508
+assg83
+(lp3509
+S'Ideal to fit welding machine MIG/MAG, which require robustness and high flow rates stability'
+p3510
+aS'The additional valve for fine control and convenience and ensures a high flow stability'
+p3511
+aS'Adjusting knob made of high grade PC provides smooth pressure adjustment'
+p3512
+aS'A very sturdy structure for a pressure reducer with bottom adjusting knob and side entry'
+p3513
+aS'Integrated safety valve and shut-off valve'
+p3514
+aS'No soldered joints for easy maintenance'
+p3515
+asg89
+S'Italy Model Mujelli Type Regulator'
+p3516
+sg91
+g92
+ssS'MR-0701'
+p3517
+(dp3518
+g63
+g3517
+sg64
+S'07'
+p3519
+sg66
+(dp3520
+S'Inlet Connection'
+p3521
+(lp3522
+S"G5/8''"
+p3523
+asS'Outlet Connection'
+p3524
+(lp3525
+S"BSP3/8''-RH"
+p3526
+asS'Max Inlet Pressure(Bar)'
+p3527
+(lp3528
+S'200'
+p3529
+asS'Gas'
+p3530
+(lp3531
+S'Oxygen'
+p3532
+asS'Max Outlet Pressure(Bar)'
+p3533
+(lp3534
+S'10'
+p3535
+assg83
+(lp3536
+S'Single stage construction'
+p3537
+aS'Solid forged brass body with all operational data permanentlyengraved'
+p3538
+aS'Unique encapsulated vavle design for maximum control'
+p3539
+aS'Oxyen regulator with safety relif valve is set for safe operation'
+p3540
+aS'Sintered metal inlet filter to trap impurities'
+p3541
+aS'No soldered joints, for easy maintenance'
+p3542
+aS'Connection of other thread sizes avaliable'
+p3543
+asg89
+S'French Model SAF Type Regulator'
+p3544
+sg91
+g92
+ssS'MC-0501A'
+p3545
+(dp3546
+g28
+g3545
+sg29
+S'05'
+p3547
+sg31
+(dp3548
+S'Length(mm)'
+p3549
+(lp3550
+S'465'
+p3551
+asS'Head'
+p3552
+(lp3553
+S'90\xc2\xb0'
+p3554
+asS'Nozzle for Acetylene'
+p3555
+(lp3556
+S'2023AC'
+p3557
+asS'Nozzle for Propane'
+p3558
+(lp3559
+S'2023LPG'
+p3560
+asS'Cutting Capacity(mm)'
+p3561
+(lp3562
+S'3-100'
+p3563
+assg48
+(lp3564
+S'Die-forged brass head for added strength and durability'
+p3565
+aS'Suitable for both acetylene and propane service'
+p3566
+aS'Unique cutting oxygen flow valve creates a progressive piercing and the smoothest cutting conditions'
+p3567
+aS'Hose connection: M16*1.5, other thread sizes available'
+p3568
+asg57
+S'Russia Type Medium Duty Cutting torch'
+p3569
+sg59
+g60
+ssS'MW-1301'
+p3570
+(dp3571
+g3
+g3570
+sg4
+S'13'
+p3572
+sg6
+(dp3573
+S'Torch Handle'
+p3574
+(lp3575
+S'Heavy Duty'
+p3576
+asS'Hose Connection'
+p3577
+(lp3578
+S'8MM'
+p3579
+asS'Welding Tip'
+p3580
+(lp3581
+S'WT-8'
+p3582
+asS'Welding Capacity(mm)'
+p3583
+(lp3584
+S'0-25'
+p3585
+assg20
+(lp3586
+sg22
+S'Switzerland Model Gloor Type Heavy Duty Welding torch'
+p3587
+sg24
+g25
+ssS'MR-0801A'
+p3588
+(dp3589
+g63
+g3588
+sg64
+S'08'
+p3590
+sg66
+(dp3591
+S'Inlet Connection'
+p3592
+(lp3593
+S"G5/8''"
+p3594
+asS'Outlet Connection'
+p3595
+(lp3596
+S"BSP3/8''-LH"
+p3597
+asS'Max Inlet Pressure(Psi)'
+p3598
+(lp3599
+S'30'
+p3600
+asS'Gas'
+p3601
+(lp3602
+S'Acetylene'
+p3603
+asS'Max Outlet Pressure(Psi)'
+p3604
+(lp3605
+S'1.5'
+p3606
+assg83
+(lp3607
+S'Single stage construction'
+p3608
+aS'Solid forged brass body with all operational data permanentlyengraved'
+p3609
+aS'Unique encapsulated vavle design for maximum control'
+p3610
+aS'Sintered metal inlet filter to trap impurities'
+p3611
+aS'No soldered joints, for easy maintenance'
+p3612
+aS'Connection of other thread sizes avaliable'
+p3613
+asg89
+S'South-East Asia Type Regulator'
+p3614
+sg91
+g92
+ssS'MR-M01'
+p3615
+(dp3616
+g1257
+g3615
+sg1258
+S'M0'
+p3617
+sg1260
+(dp3618
+S'Max Inlet Pressure(Psi)'
+p3619
+(lp3620
+S'3000'
+p3621
+asS'Outlet Connection'
+p3622
+(lp3623
+S"9/16''"
+p3624
+asS'Gas'
+p3625
+(lp3626
+S'Oxygen'
+p3627
+asS'Max Outlet Pressure(LPM)'
+p3628
+(lp3629
+S'15'
+p3630
+asS'Inlet Connection'
+p3631
+(lp3632
+S'CGA540'
+p3633
+asS'typeDetail'
+p3634
+(lp3635
+S'Medical Regulator'
+p3636
+asS'typeInShort'
+p3637
+(lp3638
+S'Regulator'
+p3639
+assg1274
+(lp3640
+S'This medical oxygen regulator is preset to 50PSI for ideal use with a veterinary anesthesia machine and may be used on large oxygen tanks such as H or K tanks.'
+p3641
+aS'A male DISS-F connector allows easy connection to any O2 hose equipped with a DISS-F connector. It can be used humidifier bottle and adjustflow rate from 0-15LPM.'
+p3642
+aS'Connections can be requested.'
+p3643
+asg1280
+S'Medical Regulator'
+p3644
+sg1282
+g1283
+ssS'MR-0109'
+p3645
+(dp3646
+g63
+g3645
+sg64
+S'01'
+p3647
+sg66
+(dp3648
+S'Inlet Connection'
+p3649
+(lp3650
+S'CGA540'
+p3651
+asS'Outlet Connection'
+p3652
+(lp3653
+S"9/16''-18"
+p3654
+asS'Max Inlet Pressure(Psi)'
+p3655
+(lp3656
+S'3000'
+p3657
+asS'Gas'
+p3658
+(lp3659
+S'Oxygen'
+p3660
+asS'Max Outlet Pressure(Psi)'
+p3661
+(lp3662
+S'200'
+p3663
+assg83
+(lp3664
+S'Single stage construction'
+p3665
+aS'Forged brass body & bonnet for maximum strenth'
+p3666
+aS'Stainless steel diaphragm'
+p3667
+aS'Oxyen regulator with safety relif valve is set for safe operation'
+p3668
+aS'Sintered metal inlet filter to trap impurities'
+p3669
+aS'No soldered joints, for easy maintenance'
+p3670
+aS'Side entry'
+p3671
+aS'Connection of other thread sizes avaliable'
+p3672
+asg89
+S'American Style Victor Type Heavy Duty Regulator'
+p3673
+sg91
+g92
+ssS'MR-M03'
+p3674
+(dp3675
+g1257
+g3674
+sg1258
+S'M0'
+p3676
+sg1260
+(dp3677
+S'Outlet Connection'
+p3678
+(lp3679
+S"9/16''"
+p3680
+asS'Gas'
+p3681
+(lp3682
+S'Oxygen'
+p3683
+asS'Max Inlet Pressure(Psi)'
+p3684
+(lp3685
+S'3000'
+p3686
+asS'Max Outlet Pressure(LPM)'
+p3687
+(lp3688
+S'15'
+p3689
+asS'Inlet Connection'
+p3690
+(lp3691
+S'CGA540'
+p3692
+assg1274
+(lp3693
+S'This medical oxygen regulator is preset to 50PSI for ideal use with a veterinary anesthesia machine and may be used on large oxygen tanks such as H or K tanks.'
+p3694
+aS'A male DISS-F connector allows easy connection to any O2 hose equipped with a DISS-F connector. It can be used humidifier bottle and adjustflow rate from 0-15LPM.'
+p3695
+aS'Connections can be requested.'
+p3696
+asg1280
+S'Medical Regulator'
+p3697
+sg1282
+g1283
+ssS'MR-M02'
+p3698
+(dp3699
+g1257
+g3698
+sg1258
+S'M0'
+p3700
+sg1260
+(dp3701
+S'Outlet Connection'
+p3702
+(lp3703
+S"9/16''"
+p3704
+asS'Gas'
+p3705
+(lp3706
+S'Oxygen'
+p3707
+asS'Max Inlet Pressure(Psi)'
+p3708
+(lp3709
+S'3000'
+p3710
+asS'Max Outlet Pressure(LPM)'
+p3711
+(lp3712
+S'15'
+p3713
+asS'Inlet Connection'
+p3714
+(lp3715
+S'CGA540'
+p3716
+assg1274
+(lp3717
+S'This medical oxygen regulator is preset to 50PSI for ideal use with a veterinary anesthesia machine and may be used on large oxygen tanks such as H or K tanks.'
+p3718
+aS'A male DISS-F connector allows easy connection to any O2 hose equipped with a DISS-F connector. It can be used humidifier bottle and adjustflow rate from 0-15LPM.'
+p3719
+aS'Connections can be requested.'
+p3720
+asg1280
+S'Medical Regulator'
+p3721
+sg1282
+g1283
+ssS'MR-0104'
+p3722
+(dp3723
+g63
+g3722
+sg64
+S'01'
+p3724
+sg66
+(dp3725
+S'Inlet Connection'
+p3726
+(lp3727
+S'CGA540'
+p3728
+asS'Outlet Connection'
+p3729
+(lp3730
+S"9/16''-18"
+p3731
+asS'Max Inlet Pressure(Psi)'
+p3732
+(lp3733
+S'3000'
+p3734
+asS'Gas'
+p3735
+(lp3736
+S'Oxygen'
+p3737
+asS'Max Outlet Pressure(Psi)'
+p3738
+(lp3739
+S'250'
+p3740
+assg83
+(lp3741
+S'Single stage construction'
+p3742
+aS'Forged brass body & bonnet for maximum strenth'
+p3743
+aS'Stainless steel diaphragm'
+p3744
+aS'Oxyen regulator with safety relif valve is set for safe operation'
+p3745
+aS'Sintered metal inlet filter to trap impurities'
+p3746
+aS'No soldered joints, for easy maintenance'
+p3747
+aS'Side entry'
+p3748
+aS'Connection of other thread sizes avaliable'
+p3749
+asg89
+S'American Style Victor Type SR350 Heavy Duty Regulator'
+p3750
+sg91
+g92
+ssS'MR-0105'
+p3751
+(dp3752
+g63
+g3751
+sg64
+S'01'
+p3753
+sg66
+(dp3754
+S'Inlet Connection'
+p3755
+(lp3756
+S'CGA540'
+p3757
+asS'Outlet Connection'
+p3758
+(lp3759
+S"9/16''-18"
+p3760
+asS'Max Inlet Pressure(Psi)'
+p3761
+(lp3762
+S'3000'
+p3763
+asS'Gas'
+p3764
+(lp3765
+S'Oxygen'
+p3766
+asS'Max Outlet Pressure(Psi)'
+p3767
+(lp3768
+S'250'
+p3769
+assg83
+(lp3770
+S'Single stage construction'
+p3771
+aS'Forged brass body & bonnet for maximum strenth'
+p3772
+aS'Stainless steel diaphragm'
+p3773
+aS'Oxyen regulator with safety relif valve is set for safe operation'
+p3774
+aS'Sintered metal inlet filter to trap impurities'
+p3775
+aS'No soldered joints, for easy maintenance'
+p3776
+aS'Side entry'
+p3777
+aS'Connection of other thread sizes avaliable'
+p3778
+asg89
+S'American Style Heavy Duty Regulator'
+p3779
+sg91
+g92
+ssS'MR-0106'
+p3780
+(dp3781
+g63
+g3780
+sg64
+S'01'
+p3782
+sg66
+(dp3783
+S'Inlet Connection'
+p3784
+(lp3785
+S'CGA540'
+p3786
+asS'Outlet Connection'
+p3787
+(lp3788
+S"9/16''-18"
+p3789
+asS'Max Inlet Pressure(Psi)'
+p3790
+(lp3791
+S'3000'
+p3792
+asS'Gas'
+p3793
+(lp3794
+S'Oxygen'
+p3795
+asS'Max Outlet Pressure(Psi)'
+p3796
+(lp3797
+S'250'
+p3798
+assg83
+(lp3799
+S'Single stage construction'
+p3800
+aS'Forged brass body & bonnet for maximum strenth'
+p3801
+aS'Stainless steel diaphragm'
+p3802
+aS'Oxyen regulator with safety relif valve is set for safe operation'
+p3803
+aS'Sintered metal inlet filter to trap impurities'
+p3804
+aS'No soldered joints, for easy maintenance'
+p3805
+aS'Side entry'
+p3806
+aS'Connection of other thread sizes avaliable'
+p3807
+asg89
+S'American Style Victor Type SR250 Medium Duty Regulator'
+p3808
+sg91
+g92
+ssS'MR-0107'
+p3809
+(dp3810
+g63
+g3809
+sg64
+S'01'
+p3811
+sg66
+(dp3812
+S'Inlet Connection'
+p3813
+(lp3814
+S'CGA540'
+p3815
+asS'Outlet Connection'
+p3816
+(lp3817
+S"9/16''-18"
+p3818
+asS'Max Inlet Pressure(Psi)'
+p3819
+(lp3820
+S'3000'
+p3821
+asS'Gas'
+p3822
+(lp3823
+S'Oxygen'
+p3824
+asS'Max Outlet Pressure(Psi)'
+p3825
+(lp3826
+S'250'
+p3827
+assg83
+(lp3828
+S'Single stage construction'
+p3829
+aS'Forged brass body & bonnet for maximum strenth'
+p3830
+aS'Stainless steel diaphragm'
+p3831
+aS'Oxyen regulator with safety relif valve is set for safe operation'
+p3832
+aS'Sintered metal inlet filter to trap impurities'
+p3833
+aS'No soldered joints, for easy maintenance'
+p3834
+aS'Side entry'
+p3835
+aS'Connection of other thread sizes avaliable'
+p3836
+asg89
+S'American Style Victor Type SR250 Medium Duty Regulator'
+p3837
+sg91
+g92
+ssS'MR-0107A'
+p3838
+(dp3839
+g63
+g3838
+sg64
+S'01'
+p3840
+sg66
+(dp3841
+S'Inlet Connection'
+p3842
+(lp3843
+S'CGA510'
+p3844
+asS'Outlet Connection'
+p3845
+(lp3846
+S"9/16''-18LH"
+p3847
+asS'Max Inlet Pressure(Psi)'
+p3848
+(lp3849
+S'400'
+p3850
+asS'Gas'
+p3851
+(lp3852
+S'Acetylene'
+p3853
+asS'Max Outlet Pressure(Psi)'
+p3854
+(lp3855
+S'15'
+p3856
+assg83
+(lp3857
+S'Single stage construction'
+p3858
+aS'Forged brass body & bonnet for maximum strenth'
+p3859
+aS'Stainless steel diaphragm'
+p3860
+aS'Sintered metal inlet filter to trap impurities'
+p3861
+aS'No soldered joints, for easy maintenance'
+p3862
+aS'Side entry'
+p3863
+aS'Connection of other thread sizes avaliable'
+p3864
+asg89
+S'American Style Victor Type SR260 Medium Duty Regulator'
+p3865
+sg91
+g92
+ssS'MR-0107B'
+p3866
+(dp3867
+g63
+g3866
+sg64
+S'01'
+p3868
+sg66
+(dp3869
+S'Inlet Connection'
+p3870
+(lp3871
+S'CGA510'
+p3872
+asS'Outlet Connection'
+p3873
+(lp3874
+S"9/16''-18LH"
+p3875
+asS'Max Inlet Pressure(Psi)'
+p3876
+(lp3877
+S'400'
+p3878
+asS'Gas'
+p3879
+(lp3880
+S'Propane'
+p3881
+asS'Max Outlet Pressure(Psi)'
+p3882
+(lp3883
+S'125'
+p3884
+assg83
+(lp3885
+S'Single stage construction'
+p3886
+aS'Forged brass body & bonnet for maximum strenth'
+p3887
+aS'Stainless steel diaphragm'
+p3888
+aS'Sintered metal inlet filter to trap impurities'
+p3889
+aS'No soldered joints, for easy maintenance'
+p3890
+aS'Side entry'
+p3891
+aS'Connection of other thread sizes avaliable'
+p3892
+asg89
+S'American Style Victor Type SR260 Medium Duty Regulator'
+p3893
+sg91
+g92
+ssS'MR-0103'
+p3894
+(dp3895
+g63
+g3894
+sg64
+S'01'
+p3896
+sg66
+(dp3897
+S'Inlet Connection'
+p3898
+(lp3899
+S'CGA540'
+p3900
+asS'Outlet Connection'
+p3901
+(lp3902
+S"9/16''-18"
+p3903
+asS'Max Inlet Pressure(Psi)'
+p3904
+(lp3905
+S'3000'
+p3906
+asS'Gas'
+p3907
+(lp3908
+S'Oxygen'
+p3909
+asS'Max Outlet Pressure(Psi)'
+p3910
+(lp3911
+S'250'
+p3912
+assg83
+(lp3913
+S'Single stage construction'
+p3914
+aS'Forged brass body & bonnet for maximum strenth'
+p3915
+aS'Stainless steel diaphragm'
+p3916
+aS'Oxyen regulator with safety relif valve is set for safe operation'
+p3917
+aS'Sintered metal inlet filter to trap impurities'
+p3918
+aS'No soldered joints, for easy maintenance'
+p3919
+aS'Side entry'
+p3920
+aS'Connection of other thread sizes avaliable'
+p3921
+asg89
+S'American Style Victor Type SR350 Heavy Duty Regulator'
+p3922
+sg91
+g92
+ssS'MR-1301'
+p3923
+(dp3924
+g63
+g3923
+sg64
+S'13'
+p3925
+sg66
+(dp3926
+S'Inlet Connection'
+p3927
+(lp3928
+S"G5/8''"
+p3929
+asS'Outlet Connection'
+p3930
+(lp3931
+S"BSP3/8''-RH"
+p3932
+asS'Max Inlet Pressure(Bar)'
+p3933
+(lp3934
+S'200'
+p3935
+asS'Gas'
+p3936
+(lp3937
+S'Oxygen'
+p3938
+asS'Max Outlet Pressure(Bar)'
+p3939
+(lp3940
+S'10'
+p3941
+assg83
+(lp3942
+S'Single stage construction'
+p3943
+aS'Solid forged brass body with all operational data permanentlyengraved'
+p3944
+aS'Unique encapsulated vavle design for maximum control'
+p3945
+aS'Oxyen regulator with safety relif valve is set for safe operation'
+p3946
+aS'Sintered metal inlet filter to trap impurities'
+p3947
+aS'No soldered joints, for easy maintenance'
+p3948
+aS'Connection of other thread sizes avaliable'
+p3949
+asg89
+S'Switzerland Model Gloor Type Regulator'
+p3950
+sg91
+g92
+ssS'MR-0803A'
+p3951
+(dp3952
+g63
+g3951
+sg64
+S'08'
+p3953
+sg66
+(dp3954
+S'Inlet Connection'
+p3955
+(lp3956
+S"G5/8''"
+p3957
+asS'Outlet Connection'
+p3958
+(lp3959
+S"BSP3/8''-LH"
+p3960
+asS'Max Inlet Pressure(Psi)'
+p3961
+(lp3962
+S'30'
+p3963
+asS'Gas'
+p3964
+(lp3965
+S'Acetylene'
+p3966
+asS'Max Outlet Pressure(Psi)'
+p3967
+(lp3968
+S'1.5'
+p3969
+assg83
+(lp3970
+S'Single stage construction'
+p3971
+aS'Solid forged brass body with all operational data permanentlyengraved'
+p3972
+aS'Unique encapsulated vavle design for maximum control'
+p3973
+aS'Sintered metal inlet filter to trap impurities'
+p3974
+aS'No soldered joints, for easy maintenance'
+p3975
+aS'Connection of other thread sizes avaliable'
+p3976
+asg89
+S'South-East Asia Type Regulator'
+p3977
+sg91
+g92
+ssS'MR-0304'
+p3978
+(dp3979
+g63
+g3978
+sg64
+S'03'
+p3980
+sg66
+(dp3981
+S'Inlet Connection'
+p3982
+(lp3983
+S'W21.8-14'
+p3984
+asS'Outlet Connection'
+p3985
+(lp3986
+S"G1/4''-19"
+p3987
+asS'Max Inlet Pressure(bar)'
+p3988
+(lp3989
+S'25'
+p3990
+asS'Gas'
+p3991
+(lp3992
+S'CO2'
+p3993
+asS'Max Outlet Pressure(bar)'
+p3994
+(lp3995
+S'1.5'
+p3996
+assg83
+(lp3997
+S'Ideal to fit welding machine MIG/MAG, which require robustness and high flow rates stability'
+p3998
+aS'The additional valve for fine control and convenience and ensures a high flow stability'
+p3999
+aS'Adjusting knob made of high grade PC provides smooth pressure adjustment'
+p4000
+aS'A very sturdy structure for a pressure reducer with bottom adjusting knob and side entry'
+p4001
+aS'Integrated safety valve and shut-off valve'
+p4002
+aS'No soldered joints for easy maintenance'
+p4003
+asg89
+S'Italy Type Mini Regulator'
+p4004
+sg91
+g92
+ssS'MR-0305'
+p4005
+(dp4006
+g63
+g4005
+sg64
+S'03'
+p4007
+sg66
+(dp4008
+S'Inlet Connection'
+p4009
+(lp4010
+S'W21.8-14'
+p4011
+asS'Outlet Connection'
+p4012
+(lp4013
+S"G1/4''-19"
+p4014
+asS'Max Inlet Pressure(bar)'
+p4015
+(lp4016
+S'25'
+p4017
+asS'Gas'
+p4018
+(lp4019
+S'CO2'
+p4020
+asS'Max Outlet Pressure(bar)'
+p4021
+(lp4022
+S'1.5'
+p4023
+assg83
+(lp4024
+S'Ideal to fit welding machine MIG/MAG, which require robustness and high flow rates stability'
+p4025
+aS'The additional valve for fine control and convenience and ensures a high flow stability'
+p4026
+aS'Adjusting knob made of high grade PC provides smooth pressure adjustment'
+p4027
+aS'A very sturdy structure for a pressure reducer with bottom adjusting knob and side entry'
+p4028
+aS'Integrated safety valve and shut-off valve'
+p4029
+aS'No soldered joints for easy maintenance'
+p4030
+asg89
+S'Italy Type Mini Regulator'
+p4031
+sg91
+g92
+ssS'MR-0302'
+p4032
+(dp4033
+g63
+g4032
+sg64
+S'03'
+p4034
+sg66
+(dp4035
+S'Inlet Connection'
+p4036
+(lp4037
+S"G5/8''-14"
+p4038
+asS'Outlet Connection'
+p4039
+(lp4040
+S"G1/4''-19"
+p4041
+asS'Max Inlet Pressure(bar)'
+p4042
+(lp4043
+S'200'
+p4044
+asS'Gas'
+p4045
+(lp4046
+S'Oxygen'
+p4047
+asS'Max Outlet Pressure(bar)'
+p4048
+(lp4049
+S'10'
+p4050
+assg83
+(lp4051
+S'Ideal to fit welding machine MIG/MAG, which require robustness and high flow rates stability'
+p4052
+aS'The additional valve for fine control and convenience and ensures a high flow stability'
+p4053
+aS'Adjusting knob made of high grade PC provides smooth pressure adjustment'
+p4054
+aS'A very sturdy structure for a pressure reducer with bottom adjusting knob and side entry'
+p4055
+aS'Integrated safety valve and shut-off valve'
+p4056
+aS'No soldered joints for easy maintenance'
+p4057
+asg89
+S'Italy Model Mujelli Type Regulator'
+p4058
+sg91
+g92
+ssS'MR-0303'
+p4059
+(dp4060
+g63
+g4059
+sg64
+S'03'
+p4061
+sg66
+(dp4062
+S'Inlet Connection'
+p4063
+(lp4064
+S"G5/8''-14"
+p4065
+asS'Outlet Connection'
+p4066
+(lp4067
+S"G1/4''-19"
+p4068
+asS'Max Inlet Pressure(bar)'
+p4069
+(lp4070
+S'200'
+p4071
+asS'Gas'
+p4072
+(lp4073
+S'Oxygen'
+p4074
+asS'Max Outlet Pressure(bar)'
+p4075
+(lp4076
+S'10'
+p4077
+assg83
+(lp4078
+S'Ideal to fit welding machine MIG/MAG, which require robustness and high flow rates stability'
+p4079
+aS'The additional valve for fine control and convenience and ensures a high flow stability'
+p4080
+aS'Adjusting knob made of high grade PC provides smooth pressure adjustment'
+p4081
+aS'A very sturdy structure for a pressure reducer with bottom adjusting knob and side entry'
+p4082
+aS'Integrated safety valve and shut-off valve'
+p4083
+aS'No soldered joints for easy maintenance'
+p4084
+asg89
+S'Italy Type Regulator'
+p4085
+sg91
+g92
+ssS'MC-0902'
+p4086
+(dp4087
+g28
+g4086
+sg29
+S'09'
+p4088
+sg31
+(dp4089
+S'Length(mm)'
+p4090
+(lp4091
+S'545'
+p4092
+asS'Head'
+p4093
+(lp4094
+S'90\xc2\xb0'
+p4095
+asS'Nozzle for Acetylene'
+p4096
+(lp4097
+S'1502'
+p4098
+asS'Nozzle for Propane'
+p4099
+(lp4100
+S'1503'
+p4101
+asS'Cutting Capacity(mm)'
+p4102
+(lp4103
+S'3-200'
+p4104
+assg48
+(lp4105
+S'Die-forged brass head for added strength and durability'
+p4106
+aS'Nozzle mix principle for maximum safety'
+p4107
+aS'Suitable for both acetylene and propane service'
+p4108
+aS'Unique cutting oxygen flow valve creates a progressive piercing and the smoothest cutting conditions'
+p4109
+aS"Hose connection: 9/16''-18, other thread sizes available"
+p4110
+asg57
+S'Brazil Type Cutting torch'
+p4111
+sg59
+g60
+ssS'MR-0301'
+p4112
+(dp4113
+g63
+g4112
+sg64
+S'03'
+p4114
+sg66
+(dp4115
+S'Inlet Connection'
+p4116
+(lp4117
+S"G5/8''-14"
+p4118
+asS'Outlet Connection'
+p4119
+(lp4120
+S"G1/4''-19"
+p4121
+asS'Max Inlet Pressure(bar)'
+p4122
+(lp4123
+S'200'
+p4124
+asS'Gas'
+p4125
+(lp4126
+S'Oxygen'
+p4127
+asS'Max Outlet Pressure(bar)'
+p4128
+(lp4129
+S'10'
+p4130
+assg83
+(lp4131
+S'Ideal to fit welding machine MIG/MAG, which require robustness and high flow rates stability'
+p4132
+aS'The additional valve for fine control and convenience and ensures a high flow stability'
+p4133
+aS'Adjusting knob made of high grade PC provides smooth pressure adjustment'
+p4134
+aS'A very sturdy structure for a pressure reducer with bottom adjusting knob and side entry'
+p4135
+aS'Integrated safety valve and shut-off valve'
+p4136
+aS'No soldered joints for easy maintenance'
+p4137
+asg89
+S'Italy Type Regulator'
+p4138
+sg91
+g92
+ssS'MR-0301A'
+p4139
+(dp4140
+g63
+g4139
+sg64
+S'03'
+p4141
+sg66
+(dp4142
+S'Inlet Connection'
+p4143
+(lp4144
+S'Clamp'
+p4145
+asS'Outlet Connection'
+p4146
+(lp4147
+S"G1/4''-19-LH"
+p4148
+asS'Max Inlet Pressure(bar)'
+p4149
+(lp4150
+S'25'
+p4151
+asS'Gas'
+p4152
+(lp4153
+S'Acetylene'
+p4154
+asS'Max Outlet Pressure(bar)'
+p4155
+(lp4156
+S'1.5'
+p4157
+assg83
+(lp4158
+S'Ideal to fit welding machine MIG/MAG, which require robustness and high flow rates stability'
+p4159
+aS'The additional valve for fine control and convenience and ensures a high flow stability'
+p4160
+aS'Adjusting knob made of high grade PC provides smooth pressure adjustment'
+p4161
+aS'A very sturdy structure for a pressure reducer with bottom adjusting knob and side entry'
+p4162
+aS'Integrated safety valve and shut-off valve'
+p4163
+aS'No soldered joints for easy maintenance'
+p4164
+asg89
+S'Italy Type Regulator'
+p4165
+sg91
+g92
+ssS'MR-0301B'
+p4166
+(dp4167
+g63
+g4166
+sg64
+S'03'
+p4168
+sg66
+(dp4169
+S'Inlet Connection'
+p4170
+(lp4171
+S'W21.8-14'
+p4172
+asS'Outlet Connection'
+p4173
+(lp4174
+S"G1/4''-19"
+p4175
+asS'Max Inlet Pressure(bar)'
+p4176
+(lp4177
+S'200'
+p4178
+asS'Gas'
+p4179
+(lp4180
+S'Argon/CO2'
+p4181
+asS'Max Outlet Pressure(bar)'
+p4182
+(lp4183
+S'10'
+p4184
+assg83
+(lp4185
+S'Ideal to fit welding machine MIG/MAG, which require robustness and high flow rates stability'
+p4186
+aS'The additional valve for fine control and convenience and ensures a high flow stability'
+p4187
+aS'Adjusting knob made of high grade PC provides smooth pressure adjustment'
+p4188
+aS'A very sturdy structure for a pressure reducer with bottom adjusting knob and side entry'
+p4189
+aS'Integrated safety valve and shut-off valve'
+p4190
+aS'No soldered joints for easy maintenance'
+p4191
+asg89
+S'Italy Type Regulator'
+p4192
+sg91
+g92
+ssS'MR-0301C'
+p4193
+(dp4194
+g63
+g4193
+sg64
+S'03'
+p4195
+sg66
+(dp4196
+S'Inlet Connection'
+p4197
+(lp4198
+S'W21.8-14'
+p4199
+asS'Outlet Connection'
+p4200
+(lp4201
+S"G1/4''-19-LH"
+p4202
+asS'Max Inlet Pressure(bar)'
+p4203
+(lp4204
+S'25'
+p4205
+asS'Gas'
+p4206
+(lp4207
+S'Propane'
+p4208
+asS'Max Outlet Pressure(bar)'
+p4209
+(lp4210
+S'1.5'
+p4211
+assg83
+(lp4212
+S'Ideal to fit welding machine MIG/MAG, which require robustness and high flow rates stability'
+p4213
+aS'The additional valve for fine control and convenience and ensures a high flow stability'
+p4214
+aS'Adjusting knob made of high grade PC provides smooth pressure adjustment'
+p4215
+aS'A very sturdy structure for a pressure reducer with bottom adjusting knob and side entry'
+p4216
+aS'Integrated safety valve and shut-off valve'
+p4217
+aS'No soldered joints for easy maintenance'
+p4218
+asg89
+S'Italy Type Regulator'
+p4219
+sg91
+g92
+ssS'MW-0701'
+p4220
+(dp4221
+g3
+g4220
+sg4
+S'07'
+p4222
+sg6
+(dp4223
+S'Torch Handle'
+p4224
+(lp4225
+S'Light Duty'
+p4226
+asS'Hose Connection'
+p4227
+(lp4228
+S'8MM'
+p4229
+asS'Welding Tip'
+p4230
+(lp4231
+S'WT-8'
+p4232
+asS'Welding Capacity(mm)'
+p4233
+(lp4234
+S'0-25'
+p4235
+assg20
+(lp4236
+sg22
+S'French SAF Type Light Duty Welding torch'
+p4237
+sg24
+g25
+ssS'MW-0703'
+p4238
+(dp4239
+g3
+g4238
+sg4
+S'07'
+p4240
+sg6
+(dp4241
+S'Torch Handle'
+p4242
+(lp4243
+S'Light Duty'
+p4244
+asS'Hose Connection'
+p4245
+(lp4246
+S'8MM'
+p4247
+asS'Welding Tip'
+p4248
+(lp4249
+S'WT-8'
+p4250
+asS'Welding Capacity(mm)'
+p4251
+(lp4252
+S'0-25'
+p4253
+assg20
+(lp4254
+sg22
+S'French Sofajo Type Light Duty Welding torch'
+p4255
+sg24
+g25
+ssS'MC-0102A'
+p4256
+(dp4257
+g28
+g4256
+sg29
+S'01'
+p4258
+sg31
+(dp4259
+S'Length(mm)'
+p4260
+(lp4261
+S'410'
+p4262
+asS'Head'
+p4263
+(lp4264
+S'90\xc2\xb0'
+p4265
+asS'Nozzle for Acetylene'
+p4266
+(lp4267
+S'3-101'
+p4268
+asS'Nozzle for Propane'
+p4269
+(lp4270
+S'3-GPN'
+p4271
+asS'Cutting Capacity(mm)'
+p4272
+(lp4273
+S'3-50'
+p4274
+assg48
+(lp4275
+S'CA-2460 cutting attachment'
+p4276
+aS'50DC torch handle'
+p4277
+aS'Die-forged brass head for added strength and durability'
+p4278
+aS'Stainless steel tubes'
+p4279
+aS'Smooth cutting oxygen valve(pull type)'
+p4280
+aS'Brass coupling nut & "O" ring seals give quick gas-tight seal tightening'
+p4281
+aS'Suitable for all fuel gases, pressure restrictions for different gases'
+p4282
+aS"Hose connection: 9/16''-18, other thread sizes available"
+p4283
+asg57
+S'50DC Victor Type Cutting torch'
+p4284
+sg59
+g60
+ssS'MR-1101'
+p4285
+(dp4286
+g63
+g4285
+sg64
+S'11'
+p4287
+sg66
+(dp4288
+S'Inlet Connection'
+p4289
+(lp4290
+S"G5/8''"
+p4291
+asS'Outlet Connection'
+p4292
+(lp4293
+S"BSP3/8''-RH"
+p4294
+asS'Max Inlet Pressure(Psi)'
+p4295
+(lp4296
+S'30000'
+p4297
+asS'Gas'
+p4298
+(lp4299
+S'Oxygen'
+p4300
+asS'Max Outlet Pressure(Psi)'
+p4301
+(lp4302
+S'800'
+p4303
+assg83
+(lp4304
+S'Offers different quality and performance for application'
+p4305
+aS'Solid forged brass body with all operational data permanentlyengraved'
+p4306
+aS'Unique encapsulated vavle design for maximum control'
+p4307
+aS'Oxyen regulator with safety relif valve is set for safe operation'
+p4308
+aS'Sintered metal inlet filter to trap impurities'
+p4309
+aS'No soldered joints, for easy maintenance'
+p4310
+aS'Connection of other thread sizes avaliable'
+p4311
+asg89
+S'Australian Type Regulator'
+p4312
+sg91
+g92
+ssS'MR-0108'
+p4313
+(dp4314
+g63
+g4313
+sg64
+S'01'
+p4315
+sg66
+(dp4316
+S'Inlet Connection'
+p4317
+(lp4318
+S'CGA540'
+p4319
+asS'Outlet Connection'
+p4320
+(lp4321
+S"9/16''-18"
+p4322
+asS'Max Inlet Pressure(Psi)'
+p4323
+(lp4324
+S'3000'
+p4325
+asS'Gas'
+p4326
+(lp4327
+S'Oxygen'
+p4328
+asS'Max Outlet Pressure(Psi)'
+p4329
+(lp4330
+S'250'
+p4331
+assg83
+(lp4332
+S'Single stage construction'
+p4333
+aS'Forged brass body & bonnet for maximum strenth'
+p4334
+aS'Stainless steel diaphragm'
+p4335
+aS'Oxyen regulator with safety relif valve is set for safe operation'
+p4336
+aS'Sintered metal inlet filter to trap impurities'
+p4337
+aS'No soldered joints, for easy maintenance'
+p4338
+aS'Side entry'
+p4339
+aS'Connection of other thread sizes avaliable'
+p4340
+asg89
+S'American Style Victor Type SR150 Light Duty Regulator'
+p4341
+sg91
+g92
+ss.

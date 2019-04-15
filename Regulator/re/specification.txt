@@ -1,0 +1,40 @@
+25@Capacity
+36@Oxygen Cylinder
+30@Acetylene Inlet&Outlet
+28@Nut Fitting
+29@Application
+31@Heating Tip
+3@Nozzle for Acetylene
+18@Cutting Thickness(mm)
+21@Max Outlet Pressure(Psi)
+40@Flow
+33@Heavy Duty regulator
+12@Max Inlet Pressure(Mpa)
+2@Head
+32@Oxygen Inlet&Outlet
+10@Inlet Connection
+38@typeDetail
+13@Gas
+8@Torch Handle
+23@Max Outlet Pressure(Bar)
+39@typeInShort
+17@Orifice Size(mm)
+7@Hose Connection
+4@Nozzle for Propane
+27@Applicable Gas
+11@Outlet Connection
+37@Max Outlet Pressure(LPM)
+19@Model No
+16@Max Outlet Pressure(bar)
+22@Max Inlet Pressure(Bar)
+5@Cutting Capacity(mm)
+14@Max Outlet Pressure(Mpa)
+24@Cutting Tip
+20@Max Inlet Pressure(Psi)
+26@Accessories Included
+9@Welding Capacity(mm)
+34@Light Duty regulator
+35@Acetylene Cylinder
+1@Length(mm)
+15@Max Inlet Pressure(bar)
+6@Welding Tip

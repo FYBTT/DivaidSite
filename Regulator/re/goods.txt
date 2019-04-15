@@ -1,0 +1,158 @@
+1@MC-0601@Cutting torch@06@1
+2@MC-0501A@Cutting torch@05@2
+3@MW-0401@Welding torch@04@3
+4@MR-0501B@Regulator@05@4
+5@MR-0403@Regulator@04@5
+6@MR-0501A@Regulator@05@4
+7@MCN-0102@cutting nozzle@01@6
+8@MCN-0103@cutting nozzle@01@7
+9@MCN-0101@cutting nozzle@01@8
+10@MCN-0104@cutting nozzle@01@9
+11@MC-0201@Cutting torch@02@10
+12@MC-0202@Cutting torch@02@11
+13@MR-0201A@Regulator@02@12
+14@MC-0102A@Cutting torch@01@13
+15@MCN-0902@cutting nozzle@09@14
+16@MCN-0901@cutting nozzle@09@15
+17@MC-0902@Cutting torch@09@16
+18@MC-0901@Cutting torch@09@16
+19@MR-0101A@Regulator@01@17
+20@MR-0401A@Regulator@04@18
+21@MR-0401B@Regulator@04@18
+22@MR-1301@Regulator@13@19
+23@MR-0502B@Regulator@05@4
+24@MR-0502A@Regulator@05@4
+25@MR-0204A@Regulator@02@20
+26@MR-0401@Regulator@04@18
+27@MC-0107@Cutting torch@01@21
+28@MC-0106@Cutting torch@01@22
+29@MC-0105@Cutting torch@01@23
+30@MC-0104@Cutting torch@01@24
+31@MC-0103@Cutting torch@01@25
+32@MC-0102@Cutting torch@01@26
+33@MC-0101@Cutting torch@01@27
+34@MR-0108A@Regulator@01@28
+35@MR-0402@Regulator@04@29
+36@MCN-0102A@cutting nozzle@01@30
+37@MR-0301@Regulator@03@31
+38@MR-0801B@Regulator@08@32
+39@MR-0801@Regulator@08@32
+40@MR-0803@Regulator@08@32
+41@MR-0802@Regulator@08@32
+42@MR-0110A@Regulator@01@33
+43@MW-0501@Welding torch@05@34
+44@MCN-0202A@cutting nozzle@02@35
+45@MR-1301A@Regulator@13@19
+46@MR-1301B@Regulator@13@19
+47@MC-0701@Cutting torch@07@36
+48@MC-0702@Cutting torch@07@37
+49@MR-0303B@Regulator@03@31
+50@MR-0106A@Regulator@01@38
+51@MCN-0201@cutting nozzle@02@39
+52@MCN-0202@cutting nozzle@02@40
+53@MC-0201B@Cutting torch@02@10
+54@MC-0201A@Cutting torch@02@10
+55@MCN-0101A@cutting nozzle@01@41
+56@MC-1101@Cutting torch@11@42
+57@MWCO-0105@welding&cutting outfit@01@43
+58@MWCO-0104@welding&cutting outfit@01@44
+59@MWCO-0103@welding&cutting outfit@01@44
+60@MWCO-0102@welding&cutting outfit@01@44
+61@MWCO-0101@welding&cutting outfit@01@45
+62@MR-0402A@Regulator@04@29
+63@MR-0701@Regulator@07@46
+64@MR-0303A@Regulator@03@31
+65@MR-0203A@Regulator@02@20
+66@MR-0801A@Regulator@08@32
+67@MR-M01@CO2&Argon regulator@M0@47
+68@MR-M03@CO2&Argon regulator@M0@47
+69@MR-M02@CO2&Argon regulator@M0@47
+70@MR-0107A@Regulator@01@38
+71@MR-0107B@Regulator@01@38
+72@MW-0102@Welding torch@01@48
+73@MW-0101@Welding torch@01@49
+74@MR-0304@Regulator@03@50
+75@MR-0305@Regulator@03@50
+76@MR-0302@Regulator@03@51
+77@MR-0303@Regulator@03@31
+78@MR-0202A@Regulator@02@12
+79@MR-0301A@Regulator@03@31
+80@MR-0301B@Regulator@03@31
+81@MR-0301C@Regulator@03@31
+82@MR-0112A@Regulator@01@52
+83@MCN-0701@cutting nozzle@07@53
+84@MCN-0702@cutting nozzle@07@54
+85@MC-0402@Cutting torch@04@55
+86@MC-0403@Cutting torch@04@56
+87@MC-0401@Cutting torch@04@57
+88@MR-0104A@Regulator@01@17
+89@MC-0404@Cutting torch@04@58
+90@MR-0104B@Regulator@01@17
+91@MR-0802A@Regulator@08@32
+92@MR-0802B@Regulator@08@32
+93@MR-0701A@Regulator@07@46
+94@MR-0701B@Regulator@07@46
+95@MC-0101A@Cutting torch@01@59
+96@MR-0403B@Regulator@04@5
+97@MR-0403A@Regulator@04@5
+98@MW-0201@Welding torch@02@60
+99@MW-0202@Welding torch@02@61
+100@MR-0111A@Regulator@01@62
+101@MR-0601B@Regulator@06@63
+102@MR-0601A@Regulator@06@63
+103@MR-0803B@Regulator@08@32
+104@MR-H01@CO2&Argon regulator@H0@64
+105@MCN-0407@cutting nozzle@04@65
+106@MCN-0406@cutting nozzle@04@66
+107@MCN-0405@cutting nozzle@04@67
+108@MCN-0404@cutting nozzle@04@68
+109@MCN-0403@cutting nozzle@04@69
+110@MCN-0402@cutting nozzle@04@70
+111@MCN-0401@cutting nozzle@04@71
+112@MCN-0408@cutting nozzle@04@72
+113@MR-0204@Regulator@02@20
+114@MR-0203@Regulator@02@20
+115@MR-0202@Regulator@02@73
+116@MR-0201@Regulator@02@12
+117@MR-F04@CO2&Argon regulator@F0@74
+118@MR-F05@CO2&Argon regulator@F0@74
+119@MR-F02@CO2&Argon regulator@F0@74
+120@MR-F03@CO2&Argon regulator@F0@74
+121@MR-0402B@Regulator@04@29
+122@MR-F01@CO2&Argon regulator@F0@74
+123@MR-1101@Regulator@11@75
+124@MR-0102A@Regulator@01@76
+125@MR-1101B@Regulator@11@32
+126@MR-1101A@Regulator@11@75
+127@MR-0601@Regulator@06@63
+128@MR-0501@Regulator@05@4
+129@MR-0502@Regulator@05@4
+130@MR-0503@Regulator@05@4
+131@MR-0112@Regulator@01@52
+132@MR-0503B@Regulator@05@4
+133@MR-0110@Regulator@01@33
+134@MC-0501@Cutting torch@05@77
+135@MR-0503A@Regulator@05@4
+136@MCN-0201A@cutting nozzle@02@78
+137@MR-0111@Regulator@01@33
+138@MR-0109A@Regulator@01@79
+139@MR-0103A@Regulator@01@17
+140@MR-0103B@Regulator@01@17
+141@MR-0302A@Regulator@03@51
+142@MR-0302B@Regulator@03@51
+143@MW-1301@Welding torch@13@80
+144@MR-0108@Regulator@01@81
+145@MR-0109@Regulator@01@79
+146@MR-0104@Regulator@01@82
+147@MR-0105@Regulator@01@83
+148@MR-0106@Regulator@01@84
+149@MR-0107@Regulator@01@84
+150@MR-0101@Regulator@01@17
+151@MR-0102@Regulator@01@76
+152@MR-0103@Regulator@01@82
+153@MR-0105B@Regulator@01@79
+154@MR-0803A@Regulator@08@32
+155@MR-0105A@Regulator@01@79
+156@MW-0701@Welding torch@07@85
+157@MW-0703@Welding torch@07@86
+158@MW-0702@Welding torch@07@86

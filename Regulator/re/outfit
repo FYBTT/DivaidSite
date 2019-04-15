@@ -1,0 +1,306 @@
+(dp0
+S'MWCO-0105'
+p1
+(dp2
+S'order_no'
+p3
+g1
+sS'country'
+p4
+S'01'
+p5
+sS'specification'
+p6
+(dp7
+S'Cutting Tip'
+p8
+S'6290NX #1 #2 #3'
+p9
+sS'Capacity'
+p10
+S'Cutting up to 100mm'
+p11
+sS'Accessories Included'
+p12
+S'Circle cutting attachment'
+p13
+sS'Applicable Gas'
+p14
+S'Oxygen and Acetylene'
+p15
+sS'Nut Fitting'
+p16
+S"9/16''-18"
+p17
+sS'Application'
+p18
+S'High-volume cutting'
+p19
+sS'Torch Handle'
+p20
+S'62-3F type stainless steel needle valves with accuracy'
+p21
+ssS'feaList'
+p22
+(lp23
+sS'typeDetail'
+p24
+S'American Type Medium Duty Cutting Outfit'
+p25
+sS'typeInShort'
+p26
+S'welding&cutting outfit'
+p27
+ssS'MWCO-0104'
+p28
+(dp29
+g3
+g28
+sg4
+S'01'
+p30
+sg6
+(dp31
+S'Cutting Tip'
+p32
+S'6290NX'
+p33
+sS'Capacity'
+p34
+S'Cutting up to 150mm / Welding up to 9mm'
+p35
+sS'Applicable Gas'
+p36
+S'Oxygen and Acetylene'
+p37
+sS'Oxygen Inlet&Outlet'
+p38
+S"CGA540&9/16''-18"
+p39
+sS'Acetylene Inlet&Outlet'
+p40
+S"CGA200&9/16''-18"
+p41
+sS'Accessories Included'
+p42
+S'Goggles: #5 Green\nTwin Hose: 4.5m\nLighter: single flint\nTip Cleaner: 80mm\nWrench: multi functional'
+p43
+sS'Application'
+p44
+S'High-volume cutting and welding'
+p45
+sS'Heating Tip'
+p46
+S'MFA-1 #8'
+p47
+sS'Torch Handle'
+p48
+S'315FC type stainless steel needle valves with accuracy'
+p49
+sS'Heavy Duty regulator'
+p50
+S'forged full brass body, steel cap with durability'
+p51
+sS'Welding Tip'
+p52
+S'200V #1 #2 #3'
+p53
+ssg22
+(lp54
+sg24
+S'American Type Heavy Duty Welding&Cutting Outfit'
+p55
+sg26
+g27
+ssS'MWCO-0103'
+p56
+(dp57
+g3
+g56
+sg4
+S'01'
+p58
+sg6
+(dp59
+S'Cutting Tip'
+p60
+S'6290NX'
+p61
+sS'Capacity'
+p62
+S'Cutting up to 150mm / Welding up to 9mm'
+p63
+sS'Applicable Gas'
+p64
+S'Oxygen and Acetylene'
+p65
+sS'Oxygen Inlet&Outlet'
+p66
+S"CGA540&9/16''-18"
+p67
+sS'Acetylene Inlet&Outlet'
+p68
+S"CGA200&9/16''-18"
+p69
+sS'Accessories Included'
+p70
+S'Goggles: #5 Green\nTwin Hose: 4.5m\nLighter: single flint\nTip Cleaner: 80mm\nWrench: multi functional'
+p71
+sS'Application'
+p72
+S'High-volume cutting and welding'
+p73
+sS'Torch Handle'
+p74
+S'63-2 type stainless steel needle valves with accuracy'
+p75
+sS'Heavy Duty regulator'
+p76
+S'forged full brass body, steel cap with durability'
+p77
+sS'Welding Tip'
+p78
+S'200V #1 #2 #3'
+p79
+ssg22
+(lp80
+sg24
+S'American Type Heavy Duty Welding&Cutting Outfit'
+p81
+sg26
+g27
+ssS'MWCO-0102'
+p82
+(dp83
+g3
+g82
+sg4
+S'01'
+p84
+sg6
+(dp85
+S'Cutting Tip'
+p86
+S'1-101'
+p87
+sS'Capacity'
+p88
+S'Cutting up to 19mm / Welding up to 3.2mm'
+p89
+sS'Applicable Gas'
+p90
+S'Oxygen and Acetylene'
+p91
+sS'Oxygen Inlet&Outlet'
+p92
+S"CGA540&9/16''-18"
+p93
+sS'Acetylene Inlet&Outlet'
+p94
+S"CGA200&9/16''-18"
+p95
+sS'Accessories Included'
+p96
+S'Goggles: #5 Green\nTwin Hose: 6m\nLighter: single flint\nTip Cleaner: 80mm\nWrench: multi functional'
+p97
+sS'Application'
+p98
+S'High-volume cutting and welding'
+p99
+sS'Heating Tip'
+p100
+S'MFA-1 #8'
+p101
+sS'Torch Handle'
+p102
+S'315FC type stainless steel needle valves with accuracy'
+p103
+sS'Heavy Duty regulator'
+p104
+S'forged full brass body with durability'
+p105
+sS'Welding Tip'
+p106
+S'200V #1 #2 #3'
+p107
+ssg22
+(lp108
+sg24
+S'American Type Heavy Duty Welding&Cutting Outfit'
+p109
+sg26
+g27
+ssS'MWCO-0101'
+p110
+(dp111
+g3
+g110
+sg4
+S'01'
+p112
+sg6
+(dp113
+S'Cutting Tip'
+p114
+S'3-GPN'
+p115
+sS'Accessories Included'
+p116
+S'Goggles: #5 Green\nTwin Hose: 4.5m\nLighter: single flint\nTip Cleaner: 80mm\nWrench: multi functional'
+p117
+sS'Capacity'
+p118
+S'Cutting up to 19mm / Welding up to 3.2mm'
+p119
+sS'Applicable Gas'
+p120
+S'Oxygen and Acetylene'
+p121
+sS'Oxygen Inlet&Outlet'
+p122
+S"CGA540&9/16''-18"
+p123
+sS'Acetylene Inlet&Outlet'
+p124
+S"CGA200&9/16''-18"
+p125
+sS'Light Duty regulator'
+p126
+S'forged full brass body with durability'
+p127
+sS'Acetylene Cylinder'
+p128
+S'2L'
+p129
+sS'Application'
+p130
+S'Medium-volume soldering'
+p131
+sS'Torch Handle'
+p132
+S'50DC type stainless steel needle valves with accuracy'
+p133
+sS'Welding Tip'
+p134
+S'80V #1'
+p135
+sS'Oxygen Cylinder'
+p136
+S'4L'
+p137
+ssg22
+(lp138
+S'Contains all the quality equipment needed for cutting, welding and brazing in a rugged surrounding plastic carrying case'
+p139
+aS'The outfit is designed to carry one 2L acetylene cylinder and one 4L oxygen cylinder.'
+p140
+aS"As supplied, the outfit can cut 3/4''(19mm) and weld to 1/8''(3.2mm) with larger tips"
+p141
+aS'According to different requirements, optional tip sizes are available.'
+p142
+asg24
+S'American Type Light Duty Welding&Cutting Outfit'
+p143
+sg26
+g27
+ss.

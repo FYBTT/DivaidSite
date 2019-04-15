@@ -15,9 +15,11 @@ Including another URLconf
 """
 from django.conf.urls import url, include
 from django.contrib import admin
+import myweb
 
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
     url(r'^webSite/', include('myweb.urls')),
-    url(r'', include('myweb.urls')),
+    url(r'^$', myweb.views.home, name = 'home')
 ]
+handler404=myweb.views.page_not_found

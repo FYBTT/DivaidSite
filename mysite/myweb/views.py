@@ -7,7 +7,7 @@ from django.shortcuts import render
 
 from django.http import HttpResponse, JsonResponse
 
-from .models import Goods, GoodType, Feature, Country
+from .models import Goods, GoodType, Feature, Country, SpecificationGroupValue, Specification
 from django.db.models import Q
 from django.conf import settings
 import json
@@ -50,10 +50,37 @@ def good(request, good_id):
         features.append(fea.fea_text)
     pic = reGood.order_no.split('-')[-1]
     pic = pic + ".jpg"
+    specificationItems = SpecificationGroupValue.objects.filter(goodId = reGood.id)
+    header = []
+    lines = []
+    re = specificationItems.filter(valueIndex = 0)
+    if len(re) > 0:
+        line = []
+        for spe in re:
+            des = spe.specificationId.specification_text
+            header.append(des)
+            line.append(spe.value)
+        lines.append(line)
+        for i in xrange(1, len(specificationItems)):
+            re = specificationItems.filter(valueIndex = i)
+            if len(re) == 0:
+                break
+            line = []
+            for spe in re:
+                line.append(spe.value)
+            lines.append(line)
     context = {
-        'typeName': reGood.type_no.type_text,
-        'feature': features,
-        'good': reGood,
         'pic': pic,
+        'order_no': reGood.order_no,
+        'typeName': reGood.type_no.type_text,
+        'typeInShort': reGood.typeInShort,
+        'feature': features,
+        'header':header,
+        'specificationItem': lines,
     }
+    print lines
     return render(request, 'myweb/detail.html', context)
+
+def page_not_found(request):
+    context = {}
+    return render(request, 'myweb/404.html', context)

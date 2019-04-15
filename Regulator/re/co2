@@ -1,0 +1,448 @@
+(dp0
+S'MR-H01'
+p1
+(dp2
+S'order_no'
+p3
+g1
+sS'country'
+p4
+S'H0'
+p5
+sS'specification'
+p6
+(dp7
+S'Inlet Connection'
+p8
+(lp9
+S"G5/8''"
+p10
+asS'Outlet Connection'
+p11
+(lp12
+S"BSP3/8''-RH"
+p13
+asS'Max Inlet Pressure(Bar)'
+p14
+(lp15
+S'150'
+p16
+asS'Gas'
+p17
+(lp18
+S'CO2'
+p19
+assS'feaList'
+p20
+(lp21
+S'Full brass body and chrome-plated bonnet'
+p22
+aS'Voltage output can be requested'
+p23
+aS'Gas service: Carbon Dioxide'
+p24
+aS'Various use for automatic welding, general industries, casting and so on.'
+p25
+asS'typeDetail'
+p26
+S'CO2 with Heater Regulator'
+p27
+sS'typeInShort'
+p28
+S'CO2&Argon regulator'
+p29
+ssS'MR-F01'
+p30
+(dp31
+g3
+g30
+sg4
+S'F0'
+p32
+sg6
+(dp33
+S'Inlet Connection'
+p34
+(lp35
+S"G5/8''"
+p36
+asS'Outlet Connection'
+p37
+(lp38
+S"BSP3/8''-RH"
+p39
+asS'Max Inlet Pressure(Bar)'
+p40
+(lp41
+S'230'
+p42
+asS'Gas'
+p43
+(lp44
+S'Co2/Argon'
+p45
+asS'Max Outlet Pressure(Bar)'
+p46
+(lp47
+S'3.5'
+p48
+assg20
+(lp49
+S'Full brass body, Zinc housing cap can be requested'
+p50
+aS'Flowmeter with easy to read tube and virtually unbreakable transparent polycarbonate outer'
+p51
+aS'Full chromed plated '
+p52
+aS'Connection can be requested'
+p53
+asg26
+S'CO2/Argon with Flowmeter Regulator'
+p54
+sg28
+g29
+ssS'MR-F04'
+p55
+(dp56
+g3
+g55
+sg4
+S'F0'
+p57
+sg6
+(dp58
+S'Outlet Connection'
+p59
+(lp60
+S"9/16''"
+p61
+asS'Gas'
+p62
+(lp63
+S'Co2/Argon'
+p64
+asS'Flow'
+p65
+(lp66
+S'0-250'
+p67
+asS'Inlet Connection'
+p68
+(lp69
+S'CGA580/320'
+p70
+assg20
+(lp71
+S'Full brass body, Zinc housing cap can be requested'
+p72
+aS'Flowmeter with easy to read tube and virtually unbreakable transparent polycarbonate outer'
+p73
+aS'Full chromed plated '
+p74
+aS'Connection can be requested'
+p75
+asg26
+S'CO2/Argon with Flowmeter Regulator'
+p76
+sg28
+g29
+ssS'MR-F05'
+p77
+(dp78
+g3
+g77
+sg4
+S'F0'
+p79
+sg6
+(dp80
+S'Outlet Connection'
+p81
+(lp82
+S"9/16''"
+p83
+asS'Gas'
+p84
+(lp85
+S'Co2/Argon'
+p86
+asS'Flow'
+p87
+(lp88
+S'0-250'
+p89
+asS'Inlet Connection'
+p90
+(lp91
+S'CGA580/320'
+p92
+assg20
+(lp93
+S'Full brass body, Zinc housing cap can be requested'
+p94
+aS'Flowmeter with easy to read tube and virtually unbreakable transparent polycarbonate outer'
+p95
+aS'Full chromed plated '
+p96
+aS'Connection can be requested'
+p97
+asg26
+S'CO2/Argon with Flowmeter Regulator'
+p98
+sg28
+g29
+ssS'MR-F02'
+p99
+(dp100
+g3
+g99
+sg4
+S'F0'
+p101
+sg6
+(dp102
+S'Inlet Connection'
+p103
+(lp104
+S"G5/8''"
+p105
+asS'Outlet Connection'
+p106
+(lp107
+S"BSP3/8''-RH"
+p108
+asS'Max Inlet Pressure(Bar)'
+p109
+(lp110
+S'230'
+p111
+asS'Gas'
+p112
+(lp113
+S'Co2/Argon'
+p114
+asS'Max Outlet Pressure(Bar)'
+p115
+(lp116
+S'3.5'
+p117
+assg20
+(lp118
+S'Full brass body, Zinc housing cap can be requested'
+p119
+aS'Flowmeter with easy to read tube and virtually unbreakable transparent polycarbonate outer'
+p120
+aS'Full chromed plated '
+p121
+aS'Connection can be requested'
+p122
+asg26
+S'CO2/Argon with Flowmeter Regulator'
+p123
+sg28
+g29
+ssS'MR-F03'
+p124
+(dp125
+g3
+g124
+sg4
+S'F0'
+p126
+sg6
+(dp127
+S'Inlet Connection'
+p128
+(lp129
+S"G5/8''"
+p130
+asS'Outlet Connection'
+p131
+(lp132
+S"BSP3/8''-RH"
+p133
+asS'Max Inlet Pressure(Bar)'
+p134
+(lp135
+S'230'
+p136
+asS'Gas'
+p137
+(lp138
+S'Co2/Argon'
+p139
+asS'Max Outlet Pressure(Bar)'
+p140
+(lp141
+S'3.5'
+p142
+assg20
+(lp143
+S'Full brass body, Zinc housing cap can be requested'
+p144
+aS'Flowmeter with easy to read tube and virtually unbreakable transparent polycarbonate outer'
+p145
+aS'Full chromed plated '
+p146
+aS'Connection can be requested'
+p147
+asg26
+S'CO2/Argon with Flowmeter Regulator'
+p148
+sg28
+g29
+ssS'MR-M03'
+p149
+(dp150
+g3
+g149
+sg4
+S'M0'
+p151
+sg6
+(dp152
+S'Outlet Connection'
+p153
+(lp154
+S"9/16''"
+p155
+asS'Max Outlet Pressure(LPM)'
+p156
+(lp157
+S'15'
+p158
+asS'Max Inlet Pressure(Psi)'
+p159
+(lp160
+S'3000'
+p161
+asS'Gas'
+p162
+(lp163
+S'Oxygen'
+p164
+asS'Inlet Connection'
+p165
+(lp166
+S'CGA540'
+p167
+assg20
+(lp168
+S'This medical oxygen regulator is preset to 50PSI for ideal use with a veterinary anesthesia machine and may be used on large oxygen tanks such as H or K tanks.'
+p169
+aS'A male DISS-F connector allows easy connection to any O2 hose equipped with a DISS-F connector. It can be used humidifier bottle and adjustflow rate from 0-15LPM.'
+p170
+aS'Connections can be requested.'
+p171
+asg26
+S'Medical Regulator'
+p172
+sg28
+g29
+ssS'MR-M02'
+p173
+(dp174
+g3
+g173
+sg4
+S'M0'
+p175
+sg6
+(dp176
+S'Outlet Connection'
+p177
+(lp178
+S"9/16''"
+p179
+asS'Max Outlet Pressure(LPM)'
+p180
+(lp181
+S'15'
+p182
+asS'Max Inlet Pressure(Psi)'
+p183
+(lp184
+S'3000'
+p185
+asS'Gas'
+p186
+(lp187
+S'Oxygen'
+p188
+asS'Inlet Connection'
+p189
+(lp190
+S'CGA540'
+p191
+assg20
+(lp192
+S'This medical oxygen regulator is preset to 50PSI for ideal use with a veterinary anesthesia machine and may be used on large oxygen tanks such as H or K tanks.'
+p193
+aS'A male DISS-F connector allows easy connection to any O2 hose equipped with a DISS-F connector. It can be used humidifier bottle and adjustflow rate from 0-15LPM.'
+p194
+aS'Connections can be requested.'
+p195
+asg26
+S'Medical Regulator'
+p196
+sg28
+g29
+ssS'MR-M01'
+p197
+(dp198
+g3
+g197
+sg4
+S'M0'
+p199
+sg6
+(dp200
+S'Max Inlet Pressure(Psi)'
+p201
+(lp202
+S'3000'
+p203
+asS'Outlet Connection'
+p204
+(lp205
+S"9/16''"
+p206
+asS'Gas'
+p207
+(lp208
+S'Oxygen'
+p209
+asS'Max Outlet Pressure(LPM)'
+p210
+(lp211
+S'15'
+p212
+asS'Inlet Connection'
+p213
+(lp214
+S'CGA540'
+p215
+asS'typeDetail'
+p216
+(lp217
+S'Medical Regulator'
+p218
+asS'typeInShort'
+p219
+(lp220
+S'Regulator'
+p221
+assg20
+(lp222
+S'This medical oxygen regulator is preset to 50PSI for ideal use with a veterinary anesthesia machine and may be used on large oxygen tanks such as H or K tanks.'
+p223
+aS'A male DISS-F connector allows easy connection to any O2 hose equipped with a DISS-F connector. It can be used humidifier bottle and adjustflow rate from 0-15LPM.'
+p224
+aS'Connections can be requested.'
+p225
+asg26
+S'Medical Regulator'
+p226
+sg28
+g29
+ss.

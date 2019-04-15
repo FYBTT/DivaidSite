@@ -1,0 +1,4781 @@
+(dp0
+S'MR-0401'
+p1
+(dp2
+S'order_no'
+p3
+g1
+sS'country'
+p4
+S'04'
+p5
+sS'specification'
+p6
+(dp7
+S'Inlet Connection'
+p8
+(lp9
+S"G5/8''"
+p10
+asS'Outlet Connection'
+p11
+(lp12
+S"BSP3/8''"
+p13
+asS'Max Inlet Pressure(bar)'
+p14
+(lp15
+S'200'
+p16
+asS'Gas'
+p17
+(lp18
+S'Oxygen'
+p19
+asS'Max Outlet Pressure(bar)'
+p20
+(lp21
+S'15'
+p22
+assS'feaList'
+p23
+(lp24
+S'Forged brass body for maximum strength'
+p25
+aS'Aluminum bonnet spray color paint'
+p26
+aS'Sintered metal inlet filter to trap impurities'
+p27
+aS'No soldered joints for easy maintenance'
+p28
+asS'typeDetail'
+p29
+S'Japan Model Yamato Type Regulator'
+p30
+sS'typeInShort'
+p31
+S'Regulator'
+p32
+ssS'MR-0403'
+p33
+(dp34
+g3
+g33
+sg4
+S'04'
+p35
+sg6
+(dp36
+S'Inlet Connection'
+p37
+(lp38
+S"G5/8''"
+p39
+asS'Outlet Connection'
+p40
+(lp41
+S"BSP3/8''"
+p42
+asS'Max Inlet Pressure(bar)'
+p43
+(lp44
+S'200'
+p45
+asS'Gas'
+p46
+(lp47
+S'Oxygen'
+p48
+asS'Max Outlet Pressure(bar)'
+p49
+(lp50
+S'15'
+p51
+assg23
+(lp52
+S'Forged brass body for maximum strength'
+p53
+aS'Aluminum bonnet spray color paint'
+p54
+aS'Sintered metal inlet filter to trap impurities'
+p55
+aS'No soldered joints for easy maintenance'
+p56
+asg29
+S'Japan Model Nakata Type Regulator'
+p57
+sg31
+g32
+ssS'MR-0402'
+p58
+(dp59
+g3
+g58
+sg4
+S'04'
+p60
+sg6
+(dp61
+S'Inlet Connection'
+p62
+(lp63
+S"G5/8''"
+p64
+asS'Outlet Connection'
+p65
+(lp66
+S"BSP3/8''"
+p67
+asS'Max Inlet Pressure(bar)'
+p68
+(lp69
+S'200'
+p70
+asS'Gas'
+p71
+(lp72
+S'Oxygen'
+p73
+asS'Max Outlet Pressure(bar)'
+p74
+(lp75
+S'15'
+p76
+assg23
+(lp77
+S'Forged brass body for maximum strength'
+p78
+aS'Aluminum bonnet spray color paint'
+p79
+aS'Sintered metal inlet filter to trap impurities'
+p80
+aS'No soldered joints for easy maintenance'
+p81
+asg29
+S'Japan Model Tanaka Type Regulator'
+p82
+sg31
+g32
+ssS'MR-0201A'
+p83
+(dp84
+g3
+g83
+sg4
+S'02'
+p85
+sg6
+(dp86
+S'Inlet Connection'
+p87
+(lp88
+S"G5/8''"
+p89
+asS'Outlet Connection'
+p90
+(lp91
+S"BSP3/8''-LH"
+p92
+asS'Max Inlet Pressure(Psi)'
+p93
+(lp94
+S'300'
+p95
+asS'Gas'
+p96
+(lp97
+S'Acetylene'
+p98
+asS'Max Outlet Pressure(Psi)'
+p99
+(lp100
+S'25'
+p101
+assg23
+(lp102
+S'Single stage construction'
+p103
+aS'Solid forged brass body with all operational data permanentlyengraved'
+p104
+aS'Unique encapsulated vavle design for maximum control'
+p105
+aS'Oxyen regulator with safety relif valve is set for safe operation'
+p106
+aS'Sintered metal inlet filter to trap impurities'
+p107
+aS'No soldered joints, for easy maintenance'
+p108
+aS'Side entry'
+p109
+aS'Connection of other thread sizes avaliable'
+p110
+asg29
+S'British Style Murex Type 300 Series Regulator'
+p111
+sg31
+g32
+ssS'MR-0101A'
+p112
+(dp113
+g3
+g112
+sg4
+S'01'
+p114
+sg6
+(dp115
+S'Inlet Connection'
+p116
+(lp117
+S'CGA510'
+p118
+asS'Outlet Connection'
+p119
+(lp120
+S"9/16''-18LH"
+p121
+asS'Max Inlet Pressure(Psi)'
+p122
+(lp123
+S'400'
+p124
+asS'Gas'
+p125
+(lp126
+S'Acetylene'
+p127
+asS'Max Outlet Pressure(Psi)'
+p128
+(lp129
+S'15'
+p130
+assg23
+(lp131
+S'Single stage construction'
+p132
+aS'Forged brass body & bonnet for maximum strenth'
+p133
+aS'Stainless steel diaphragm'
+p134
+aS'Sintered metal inlet filter to trap impurities'
+p135
+aS'No soldered joints, for easy maintenance'
+p136
+aS'Side entry'
+p137
+aS'Connection of other thread sizes avaliable'
+p138
+asg29
+S'American Style Victor Type SR450 Heavy Duty Regulator'
+p139
+sg31
+g32
+ssS'MR-0401A'
+p140
+(dp141
+g3
+g140
+sg4
+S'04'
+p142
+sg6
+(dp143
+S'Inlet Connection'
+p144
+(lp145
+S"G5/8''-LH"
+p146
+asS'Outlet Connection'
+p147
+(lp148
+S"BSP3/8''-LH"
+p149
+asS'Max Inlet Pressure(bar)'
+p150
+(lp151
+S'15'
+p152
+asS'Gas'
+p153
+(lp154
+S'Acetylene'
+p155
+asS'Max Outlet Pressure(bar)'
+p156
+(lp157
+S'1.5'
+p158
+assg23
+(lp159
+S'Forged brass body for maximum strength'
+p160
+aS'Aluminum bonnet spray color paint'
+p161
+aS'Sintered metal inlet filter to trap impurities'
+p162
+aS'No soldered joints for easy maintenance'
+p163
+asg29
+S'Japan Model Yamato Type Regulator'
+p164
+sg31
+g32
+ssS'MR-0401B'
+p165
+(dp166
+g3
+g165
+sg4
+S'04'
+p167
+sg6
+(dp168
+S'Inlet Connection'
+p169
+(lp170
+S"G5/8''-LH"
+p171
+asS'Outlet Connection'
+p172
+(lp173
+S"BSP3/8''-LH"
+p174
+asS'Max Inlet Pressure(bar)'
+p175
+(lp176
+S'200'
+p177
+asS'Gas'
+p178
+(lp179
+S'Propane'
+p180
+asS'Max Outlet Pressure(bar)'
+p181
+(lp182
+S'15'
+p183
+assg23
+(lp184
+S'Forged brass body for maximum strength'
+p185
+aS'Aluminum bonnet spray color paint'
+p186
+aS'Sintered metal inlet filter to trap impurities'
+p187
+aS'No soldered joints for easy maintenance'
+p188
+asg29
+S'Japan Model Yamato Type Regulator'
+p189
+sg31
+g32
+ssS'MR-1301'
+p190
+(dp191
+g3
+g190
+sg4
+S'13'
+p192
+sg6
+(dp193
+S'Inlet Connection'
+p194
+(lp195
+S"G5/8''"
+p196
+asS'Outlet Connection'
+p197
+(lp198
+S"BSP3/8''-RH"
+p199
+asS'Max Inlet Pressure(Bar)'
+p200
+(lp201
+S'200'
+p202
+asS'Gas'
+p203
+(lp204
+S'Oxygen'
+p205
+asS'Max Outlet Pressure(Bar)'
+p206
+(lp207
+S'10'
+p208
+assg23
+(lp209
+S'Single stage construction'
+p210
+aS'Solid forged brass body with all operational data permanentlyengraved'
+p211
+aS'Unique encapsulated vavle design for maximum control'
+p212
+aS'Oxyen regulator with safety relif valve is set for safe operation'
+p213
+aS'Sintered metal inlet filter to trap impurities'
+p214
+aS'No soldered joints, for easy maintenance'
+p215
+aS'Connection of other thread sizes avaliable'
+p216
+asg29
+S'Switzerland Model Gloor Type Regulator'
+p217
+sg31
+g32
+ssS'MR-0502B'
+p218
+(dp219
+g3
+g218
+sg4
+S'05'
+p220
+sg6
+(dp221
+S'Inlet Connection'
+p222
+(lp223
+S'G7/8'
+p224
+asS'Outlet Connection'
+p225
+(lp226
+S'M16*1.5-LH'
+p227
+asS'Max Inlet Pressure(Mpa)'
+p228
+(lp229
+S'3'
+p230
+asS'Gas'
+p231
+(lp232
+S'Propane'
+p233
+asS'Max Outlet Pressure(Mpa)'
+p234
+(lp235
+S'0.5'
+p236
+assg23
+(lp237
+S'Forged brass body for maximum strength'
+p238
+aS'Suitable for various welding and cutting applications'
+p239
+aS'Body and cap forged A brass ensure maximum strength'
+p240
+aS'Deisgn expecially for for Russian Market'
+p241
+aS'Coonnection of other thread sizes avaliable'
+p242
+asg29
+S'Russia Type Regulator'
+p243
+sg31
+g32
+ssS'MR-0502A'
+p244
+(dp245
+g3
+g244
+sg4
+S'05'
+p246
+sg6
+(dp247
+S'Inlet Connection'
+p248
+(lp249
+S'G3/4'
+p250
+asS'Outlet Connection'
+p251
+(lp252
+S'M16*1.5'
+p253
+asS'Max Inlet Pressure(Mpa)'
+p254
+(lp255
+S'16'
+p256
+asS'Gas'
+p257
+(lp258
+S'CO2'
+p259
+asS'Max Outlet Pressure(Mpa)'
+p260
+(lp261
+S'1'
+p262
+assg23
+(lp263
+S'Forged brass body for maximum strength'
+p264
+aS'Suitable for various welding and cutting applications'
+p265
+aS'Body and cap forged A brass ensure maximum strength'
+p266
+aS'Deisgn expecially for for Russian Market'
+p267
+aS'Coonnection of other thread sizes avaliable'
+p268
+asg29
+S'Russia Type Regulator'
+p269
+sg31
+g32
+ssS'MR-0202'
+p270
+(dp271
+g3
+g270
+sg4
+S'02'
+p272
+sg6
+(dp273
+S'Inlet Connection'
+p274
+(lp275
+S"G5/8''"
+p276
+asS'Outlet Connection'
+p277
+(lp278
+S"BSP3/8''"
+p279
+asS'Max Inlet Pressure(Psi)'
+p280
+(lp281
+S'4000'
+p282
+asS'Gas'
+p283
+(lp284
+S'Oxygen'
+p285
+asS'Max Outlet Pressure(Psi)'
+p286
+(lp287
+S'145'
+p288
+assg23
+(lp289
+S'Single stage construction'
+p290
+aS'Solid forged brass body with all operational data permanentlyengraved'
+p291
+aS'Unique encapsulated vavle design for maximum control'
+p292
+aS'Oxyen regulator with safety relif valve is set for safe operation'
+p293
+aS'Sintered metal inlet filter to trap impurities'
+p294
+aS'No soldered joints, for easy maintenance'
+p295
+aS'Side entry'
+p296
+aS'Connection of other thread sizes avaliable'
+p297
+asg29
+S'British Style Murex Type 300 Series Light Duty Regulator'
+p298
+sg31
+g32
+ssS'MR-0501B'
+p299
+(dp300
+g3
+g299
+sg4
+S'05'
+p301
+sg6
+(dp302
+S'Inlet Connection'
+p303
+(lp304
+S'G7/8'
+p305
+asS'Outlet Connection'
+p306
+(lp307
+S'M16*1.5-LH'
+p308
+asS'Max Inlet Pressure(Mpa)'
+p309
+(lp310
+S'3'
+p311
+asS'Gas'
+p312
+(lp313
+S'Propane'
+p314
+asS'Max Outlet Pressure(Mpa)'
+p315
+(lp316
+S'0.5'
+p317
+assg23
+(lp318
+S'Forged brass body for maximum strength'
+p319
+aS'Suitable for various welding and cutting applications'
+p320
+aS'Body and cap forged A brass ensure maximum strength'
+p321
+aS'Deisgn expecially for for Russian Market'
+p322
+aS'Coonnection of other thread sizes avaliable'
+p323
+asg29
+S'Russia Type Regulator'
+p324
+sg31
+g32
+ssS'MR-0108A'
+p325
+(dp326
+g3
+g325
+sg4
+S'01'
+p327
+sg6
+(dp328
+S'Inlet Connection'
+p329
+(lp330
+S'CGA200'
+p331
+asS'Outlet Connection'
+p332
+(lp333
+S"9/16''-18LH"
+p334
+asS'Max Inlet Pressure(Psi)'
+p335
+(lp336
+S'400'
+p337
+asS'Gas'
+p338
+(lp339
+S'Acetylene'
+p340
+asS'Max Outlet Pressure(Psi)'
+p341
+(lp342
+S'15'
+p343
+assg23
+(lp344
+S'Single stage construction'
+p345
+aS'Forged brass body & bonnet for maximum strenth'
+p346
+aS'Stainless steel diaphragm'
+p347
+aS'Sintered metal inlet filter to trap impurities'
+p348
+aS'No soldered joints, for easy maintenance'
+p349
+aS'Side entry'
+p350
+aS'Connection of other thread sizes avaliable'
+p351
+asg29
+S'American Style Victor Type SR160 Light Duty Regulator'
+p352
+sg31
+g32
+ssS'MR-0501A'
+p353
+(dp354
+g3
+g353
+sg4
+S'05'
+p355
+sg6
+(dp356
+S'Inlet Connection'
+p357
+(lp358
+S'G3/4'
+p359
+asS'Outlet Connection'
+p360
+(lp361
+S'M16*1.5'
+p362
+asS'Max Inlet Pressure(Mpa)'
+p363
+(lp364
+S'16'
+p365
+asS'Gas'
+p366
+(lp367
+S'CO2'
+p368
+asS'Max Outlet Pressure(Mpa)'
+p369
+(lp370
+S'1'
+p371
+assg23
+(lp372
+S'Forged brass body for maximum strength'
+p373
+aS'Suitable for various welding and cutting applications'
+p374
+aS'Body and cap forged A brass ensure maximum strength'
+p375
+aS'Deisgn expecially for for Russian Market'
+p376
+aS'Coonnection of other thread sizes avaliable'
+p377
+asg29
+S'Russia Type Regulator'
+p378
+sg31
+g32
+ssS'MR-0801A'
+p379
+(dp380
+g3
+g379
+sg4
+S'08'
+p381
+sg6
+(dp382
+S'Inlet Connection'
+p383
+(lp384
+S"G5/8''"
+p385
+asS'Outlet Connection'
+p386
+(lp387
+S"BSP3/8''-LH"
+p388
+asS'Max Inlet Pressure(Psi)'
+p389
+(lp390
+S'30'
+p391
+asS'Gas'
+p392
+(lp393
+S'Acetylene'
+p394
+asS'Max Outlet Pressure(Psi)'
+p395
+(lp396
+S'1.5'
+p397
+assg23
+(lp398
+S'Single stage construction'
+p399
+aS'Solid forged brass body with all operational data permanentlyengraved'
+p400
+aS'Unique encapsulated vavle design for maximum control'
+p401
+aS'Sintered metal inlet filter to trap impurities'
+p402
+aS'No soldered joints, for easy maintenance'
+p403
+aS'Connection of other thread sizes avaliable'
+p404
+asg29
+S'South-East Asia Type Regulator'
+p405
+sg31
+g32
+ssS'MR-0801B'
+p406
+(dp407
+g3
+g406
+sg4
+S'08'
+p408
+sg6
+(dp409
+S'Inlet Connection'
+p410
+(lp411
+S"G5/8''"
+p412
+asS'Outlet Connection'
+p413
+(lp414
+S"BSP3/8''-LH"
+p415
+asS'Max Inlet Pressure(Psi)'
+p416
+(lp417
+S'30'
+p418
+asS'Gas'
+p419
+(lp420
+S'Propane'
+p421
+asS'Max Outlet Pressure(Psi)'
+p422
+(lp423
+S'1.5'
+p424
+assg23
+(lp425
+S'Single stage construction'
+p426
+aS'Solid forged brass body with all operational data permanentlyengraved'
+p427
+aS'Unique encapsulated vavle design for maximum control'
+p428
+aS'Sintered metal inlet filter to trap impurities'
+p429
+aS'No soldered joints, for easy maintenance'
+p430
+aS'Connection of other thread sizes avaliable'
+p431
+asg29
+S'South-East Asia Type Regulator'
+p432
+sg31
+g32
+ssS'MR-0801'
+p433
+(dp434
+g3
+g433
+sg4
+S'08'
+p435
+sg6
+(dp436
+S'Inlet Connection'
+p437
+(lp438
+S"G5/8''"
+p439
+asS'Outlet Connection'
+p440
+(lp441
+S"BSP3/8''-RH"
+p442
+asS'Max Inlet Pressure(Bar)'
+p443
+(lp444
+S'200'
+p445
+asS'Gas'
+p446
+(lp447
+S'Oxygen'
+p448
+asS'Max Outlet Pressure(Bar)'
+p449
+(lp450
+S'10'
+p451
+assg23
+(lp452
+S'Single stage construction'
+p453
+aS'Solid forged brass body with all operational data permanentlyengraved'
+p454
+aS'Unique encapsulated vavle design for maximum control'
+p455
+aS'Oxyen regulator with safety relif valve is set for safe operation'
+p456
+aS'Sintered metal inlet filter to trap impurities'
+p457
+aS'No soldered joints, for easy maintenance'
+p458
+aS'Connection of other thread sizes avaliable'
+p459
+asg29
+S'South-East Asia Type Regulator'
+p460
+sg31
+g32
+ssS'MR-0803'
+p461
+(dp462
+g3
+g461
+sg4
+S'08'
+p463
+sg6
+(dp464
+S'Inlet Connection'
+p465
+(lp466
+S"G5/8''"
+p467
+asS'Outlet Connection'
+p468
+(lp469
+S"BSP3/8''-RH"
+p470
+asS'Max Inlet Pressure(Bar)'
+p471
+(lp472
+S'200'
+p473
+asS'Gas'
+p474
+(lp475
+S'Oxygen'
+p476
+asS'Max Outlet Pressure(Bar)'
+p477
+(lp478
+S'10'
+p479
+assg23
+(lp480
+S'Single stage construction'
+p481
+aS'Solid forged brass body with all operational data permanentlyengraved'
+p482
+aS'Unique encapsulated vavle design for maximum control'
+p483
+aS'Oxyen regulator with safety relif valve is set for safe operation'
+p484
+aS'Sintered metal inlet filter to trap impurities'
+p485
+aS'No soldered joints, for easy maintenance'
+p486
+aS'Connection of other thread sizes avaliable'
+p487
+asg29
+S'South-East Asia Type Regulator'
+p488
+sg31
+g32
+ssS'MR-0802'
+p489
+(dp490
+g3
+g489
+sg4
+S'08'
+p491
+sg6
+(dp492
+S'Inlet Connection'
+p493
+(lp494
+S"G5/8''"
+p495
+asS'Outlet Connection'
+p496
+(lp497
+S"BSP3/8''-RH"
+p498
+asS'Max Inlet Pressure(Bar)'
+p499
+(lp500
+S'200'
+p501
+asS'Gas'
+p502
+(lp503
+S'Oxygen'
+p504
+asS'Max Outlet Pressure(Bar)'
+p505
+(lp506
+S'10'
+p507
+assg23
+(lp508
+S'Single stage construction'
+p509
+aS'Solid forged brass body with all operational data permanentlyengraved'
+p510
+aS'Unique encapsulated vavle design for maximum control'
+p511
+aS'Oxyen regulator with safety relif valve is set for safe operation'
+p512
+aS'Sintered metal inlet filter to trap impurities'
+p513
+aS'No soldered joints, for easy maintenance'
+p514
+aS'Connection of other thread sizes avaliable'
+p515
+asg29
+S'South-East Asia Type Regulator'
+p516
+sg31
+g32
+ssS'MR-0110A'
+p517
+(dp518
+g3
+g517
+sg4
+S'01'
+p519
+sg6
+(dp520
+S'Inlet Connection'
+p521
+(lp522
+S'CGA510'
+p523
+asS'Outlet Connection'
+p524
+(lp525
+S"9/16''-18LH"
+p526
+asS'Max Inlet Pressure(Psi)'
+p527
+(lp528
+S'400'
+p529
+asS'Gas'
+p530
+(lp531
+S'Acetylene'
+p532
+asS'Max Outlet Pressure(Psi)'
+p533
+(lp534
+S'15'
+p535
+assg23
+(lp536
+S'Single stage construction'
+p537
+aS'Forged brass body & bonnet for maximum strenth'
+p538
+aS'Stainless steel diaphragm'
+p539
+aS'Sintered metal inlet filter to trap impurities'
+p540
+aS'No soldered joints, for easy maintenance'
+p541
+aS'Side entry'
+p542
+aS'Connection of other thread sizes avaliable'
+p543
+asg29
+S'American Type Regulator'
+p544
+sg31
+g32
+ssS'MR-1301A'
+p545
+(dp546
+g3
+g545
+sg4
+S'13'
+p547
+sg6
+(dp548
+S'Inlet Connection'
+p549
+(lp550
+S"G5/8''"
+p551
+asS'Outlet Connection'
+p552
+(lp553
+S"BSP3/8''-LH"
+p554
+asS'Max Inlet Pressure(Bar)'
+p555
+(lp556
+S'25'
+p557
+asS'Gas'
+p558
+(lp559
+S'Acetylene'
+p560
+asS'Max Outlet Pressure(Bar)'
+p561
+(lp562
+S'1.5'
+p563
+assg23
+(lp564
+S'Single stage construction'
+p565
+aS'Solid forged brass body with all operational data permanentlyengraved'
+p566
+aS'Unique encapsulated vavle design for maximum control'
+p567
+aS'Sintered metal inlet filter to trap impurities'
+p568
+aS'No soldered joints, for easy maintenance'
+p569
+aS'Connection of other thread sizes avaliable'
+p570
+asg29
+S'Switzerland Model Gloor Type Regulator'
+p571
+sg31
+g32
+ssS'MR-1301B'
+p572
+(dp573
+g3
+g572
+sg4
+S'13'
+p574
+sg6
+(dp575
+S'Inlet Connection'
+p576
+(lp577
+S"G5/8''"
+p578
+asS'Outlet Connection'
+p579
+(lp580
+S"BSP3/8''-RH"
+p581
+asS'Max Inlet Pressure(Bar)'
+p582
+(lp583
+S'200'
+p584
+asS'Gas'
+p585
+(lp586
+S'CO2'
+p587
+asS'Max Outlet Pressure(Bar)'
+p588
+(lp589
+S'10'
+p590
+assg23
+(lp591
+S'Single stage construction'
+p592
+aS'Solid forged brass body with all operational data permanentlyengraved'
+p593
+aS'Unique encapsulated vavle design for maximum control'
+p594
+aS'Oxyen regulator with safety relif valve is set for safe operation'
+p595
+aS'Sintered metal inlet filter to trap impurities'
+p596
+aS'No soldered joints, for easy maintenance'
+p597
+aS'Connection of other thread sizes avaliable'
+p598
+asg29
+S'Switzerland Model Gloor Type Regulator'
+p599
+sg31
+g32
+ssS'MR-0106A'
+p600
+(dp601
+g3
+g600
+sg4
+S'01'
+p602
+sg6
+(dp603
+S'Inlet Connection'
+p604
+(lp605
+S'CGA510'
+p606
+asS'Outlet Connection'
+p607
+(lp608
+S"9/16''-18LH"
+p609
+asS'Max Inlet Pressure(Psi)'
+p610
+(lp611
+S'400'
+p612
+asS'Gas'
+p613
+(lp614
+S'Acetylene'
+p615
+asS'Max Outlet Pressure(Psi)'
+p616
+(lp617
+S'15'
+p618
+assg23
+(lp619
+S'Single stage construction'
+p620
+aS'Forged brass body & bonnet for maximum strenth'
+p621
+aS'Stainless steel diaphragm'
+p622
+aS'Sintered metal inlet filter to trap impurities'
+p623
+aS'No soldered joints, for easy maintenance'
+p624
+aS'Side entry'
+p625
+aS'Connection of other thread sizes avaliable'
+p626
+asg29
+S'American Style Victor Type SR260 Medium Duty Regulator'
+p627
+sg31
+g32
+ssS'MR-0203A'
+p628
+(dp629
+g3
+g628
+sg4
+S'02'
+p630
+sg6
+(dp631
+S'Inlet Connection'
+p632
+(lp633
+S"G5/8''"
+p634
+asS'Outlet Connection'
+p635
+(lp636
+S"BSP3/8''-LH"
+p637
+asS'Max Inlet Pressure(Psi)'
+p638
+(lp639
+S'300'
+p640
+asS'Gas'
+p641
+(lp642
+S'Acetylene'
+p643
+asS'Max Outlet Pressure(Psi)'
+p644
+(lp645
+S'25'
+p646
+assg23
+(lp647
+S'Two stage construction'
+p648
+aS'Solid forged brass body with all operational data permanentlyengraved'
+p649
+aS'Unique encapsulated vavle design for maximum control'
+p650
+aS'Oxyen regulator with safety relif valve is set for safe operation'
+p651
+aS'Sintered metal inlet filter to trap impurities'
+p652
+aS'No soldered joints, for easy maintenance'
+p653
+aS'Side entry'
+p654
+aS'Connection of other thread sizes avaliable'
+p655
+asg29
+S'British Type Regulator'
+p656
+sg31
+g32
+ssS'MR-0701'
+p657
+(dp658
+g3
+g657
+sg4
+S'07'
+p659
+sg6
+(dp660
+S'Inlet Connection'
+p661
+(lp662
+S"G5/8''"
+p663
+asS'Outlet Connection'
+p664
+(lp665
+S"BSP3/8''-RH"
+p666
+asS'Max Inlet Pressure(Bar)'
+p667
+(lp668
+S'200'
+p669
+asS'Gas'
+p670
+(lp671
+S'Oxygen'
+p672
+asS'Max Outlet Pressure(Bar)'
+p673
+(lp674
+S'10'
+p675
+assg23
+(lp676
+S'Single stage construction'
+p677
+aS'Solid forged brass body with all operational data permanentlyengraved'
+p678
+aS'Unique encapsulated vavle design for maximum control'
+p679
+aS'Oxyen regulator with safety relif valve is set for safe operation'
+p680
+aS'Sintered metal inlet filter to trap impurities'
+p681
+aS'No soldered joints, for easy maintenance'
+p682
+aS'Connection of other thread sizes avaliable'
+p683
+asg29
+S'French Model SAF Type Regulator'
+p684
+sg31
+g32
+ssS'MR-0107A'
+p685
+(dp686
+g3
+g685
+sg4
+S'01'
+p687
+sg6
+(dp688
+S'Inlet Connection'
+p689
+(lp690
+S'CGA510'
+p691
+asS'Outlet Connection'
+p692
+(lp693
+S"9/16''-18LH"
+p694
+asS'Max Inlet Pressure(Psi)'
+p695
+(lp696
+S'400'
+p697
+asS'Gas'
+p698
+(lp699
+S'Acetylene'
+p700
+asS'Max Outlet Pressure(Psi)'
+p701
+(lp702
+S'15'
+p703
+assg23
+(lp704
+S'Single stage construction'
+p705
+aS'Forged brass body & bonnet for maximum strenth'
+p706
+aS'Stainless steel diaphragm'
+p707
+aS'Sintered metal inlet filter to trap impurities'
+p708
+aS'No soldered joints, for easy maintenance'
+p709
+aS'Side entry'
+p710
+aS'Connection of other thread sizes avaliable'
+p711
+asg29
+S'American Style Victor Type SR260 Medium Duty Regulator'
+p712
+sg31
+g32
+ssS'MR-0107B'
+p713
+(dp714
+g3
+g713
+sg4
+S'01'
+p715
+sg6
+(dp716
+S'Inlet Connection'
+p717
+(lp718
+S'CGA510'
+p719
+asS'Outlet Connection'
+p720
+(lp721
+S"9/16''-18LH"
+p722
+asS'Max Inlet Pressure(Psi)'
+p723
+(lp724
+S'400'
+p725
+asS'Gas'
+p726
+(lp727
+S'Propane'
+p728
+asS'Max Outlet Pressure(Psi)'
+p729
+(lp730
+S'125'
+p731
+assg23
+(lp732
+S'Single stage construction'
+p733
+aS'Forged brass body & bonnet for maximum strenth'
+p734
+aS'Stainless steel diaphragm'
+p735
+aS'Sintered metal inlet filter to trap impurities'
+p736
+aS'No soldered joints, for easy maintenance'
+p737
+aS'Side entry'
+p738
+aS'Connection of other thread sizes avaliable'
+p739
+asg29
+S'American Style Victor Type SR260 Medium Duty Regulator'
+p740
+sg31
+g32
+ssS'MR-0304'
+p741
+(dp742
+g3
+g741
+sg4
+S'03'
+p743
+sg6
+(dp744
+S'Inlet Connection'
+p745
+(lp746
+S'W21.8-14'
+p747
+asS'Outlet Connection'
+p748
+(lp749
+S"G1/4''-19"
+p750
+asS'Max Inlet Pressure(bar)'
+p751
+(lp752
+S'25'
+p753
+asS'Gas'
+p754
+(lp755
+S'CO2'
+p756
+asS'Max Outlet Pressure(bar)'
+p757
+(lp758
+S'1.5'
+p759
+assg23
+(lp760
+S'Ideal to fit welding machine MIG/MAG, which require robustness and high flow rates stability'
+p761
+aS'The additional valve for fine control and convenience and ensures a high flow stability'
+p762
+aS'Adjusting knob made of high grade PC provides smooth pressure adjustment'
+p763
+aS'A very sturdy structure for a pressure reducer with bottom adjusting knob and side entry'
+p764
+aS'Integrated safety valve and shut-off valve'
+p765
+aS'No soldered joints for easy maintenance'
+p766
+asg29
+S'Italy Type Mini Regulator'
+p767
+sg31
+g32
+ssS'MR-0305'
+p768
+(dp769
+g3
+g768
+sg4
+S'03'
+p770
+sg6
+(dp771
+S'Inlet Connection'
+p772
+(lp773
+S'W21.8-14'
+p774
+asS'Outlet Connection'
+p775
+(lp776
+S"G1/4''-19"
+p777
+asS'Max Inlet Pressure(bar)'
+p778
+(lp779
+S'25'
+p780
+asS'Gas'
+p781
+(lp782
+S'CO2'
+p783
+asS'Max Outlet Pressure(bar)'
+p784
+(lp785
+S'1.5'
+p786
+assg23
+(lp787
+S'Ideal to fit welding machine MIG/MAG, which require robustness and high flow rates stability'
+p788
+aS'The additional valve for fine control and convenience and ensures a high flow stability'
+p789
+aS'Adjusting knob made of high grade PC provides smooth pressure adjustment'
+p790
+aS'A very sturdy structure for a pressure reducer with bottom adjusting knob and side entry'
+p791
+aS'Integrated safety valve and shut-off valve'
+p792
+aS'No soldered joints for easy maintenance'
+p793
+asg29
+S'Italy Type Mini Regulator'
+p794
+sg31
+g32
+ssS'MR-0302'
+p795
+(dp796
+g3
+g795
+sg4
+S'03'
+p797
+sg6
+(dp798
+S'Inlet Connection'
+p799
+(lp800
+S"G5/8''-14"
+p801
+asS'Outlet Connection'
+p802
+(lp803
+S"G1/4''-19"
+p804
+asS'Max Inlet Pressure(bar)'
+p805
+(lp806
+S'200'
+p807
+asS'Gas'
+p808
+(lp809
+S'Oxygen'
+p810
+asS'Max Outlet Pressure(bar)'
+p811
+(lp812
+S'10'
+p813
+assg23
+(lp814
+S'Ideal to fit welding machine MIG/MAG, which require robustness and high flow rates stability'
+p815
+aS'The additional valve for fine control and convenience and ensures a high flow stability'
+p816
+aS'Adjusting knob made of high grade PC provides smooth pressure adjustment'
+p817
+aS'A very sturdy structure for a pressure reducer with bottom adjusting knob and side entry'
+p818
+aS'Integrated safety valve and shut-off valve'
+p819
+aS'No soldered joints for easy maintenance'
+p820
+asg29
+S'Italy Model Mujelli Type Regulator'
+p821
+sg31
+g32
+ssS'MR-0303'
+p822
+(dp823
+g3
+g822
+sg4
+S'03'
+p824
+sg6
+(dp825
+S'Inlet Connection'
+p826
+(lp827
+S"G5/8''-14"
+p828
+asS'Outlet Connection'
+p829
+(lp830
+S"G1/4''-19"
+p831
+asS'Max Inlet Pressure(bar)'
+p832
+(lp833
+S'200'
+p834
+asS'Gas'
+p835
+(lp836
+S'Oxygen'
+p837
+asS'Max Outlet Pressure(bar)'
+p838
+(lp839
+S'10'
+p840
+assg23
+(lp841
+S'Ideal to fit welding machine MIG/MAG, which require robustness and high flow rates stability'
+p842
+aS'The additional valve for fine control and convenience and ensures a high flow stability'
+p843
+aS'Adjusting knob made of high grade PC provides smooth pressure adjustment'
+p844
+aS'A very sturdy structure for a pressure reducer with bottom adjusting knob and side entry'
+p845
+aS'Integrated safety valve and shut-off valve'
+p846
+aS'No soldered joints for easy maintenance'
+p847
+asg29
+S'Italy Type Regulator'
+p848
+sg31
+g32
+ssS'MR-0301'
+p849
+(dp850
+g3
+g849
+sg4
+S'03'
+p851
+sg6
+(dp852
+S'Inlet Connection'
+p853
+(lp854
+S"G5/8''-14"
+p855
+asS'Outlet Connection'
+p856
+(lp857
+S"G1/4''-19"
+p858
+asS'Max Inlet Pressure(bar)'
+p859
+(lp860
+S'200'
+p861
+asS'Gas'
+p862
+(lp863
+S'Oxygen'
+p864
+asS'Max Outlet Pressure(bar)'
+p865
+(lp866
+S'10'
+p867
+assg23
+(lp868
+S'Ideal to fit welding machine MIG/MAG, which require robustness and high flow rates stability'
+p869
+aS'The additional valve for fine control and convenience and ensures a high flow stability'
+p870
+aS'Adjusting knob made of high grade PC provides smooth pressure adjustment'
+p871
+aS'A very sturdy structure for a pressure reducer with bottom adjusting knob and side entry'
+p872
+aS'Integrated safety valve and shut-off valve'
+p873
+aS'No soldered joints for easy maintenance'
+p874
+asg29
+S'Italy Type Regulator'
+p875
+sg31
+g32
+ssS'MR-0301A'
+p876
+(dp877
+g3
+g876
+sg4
+S'03'
+p878
+sg6
+(dp879
+S'Inlet Connection'
+p880
+(lp881
+S'Clamp'
+p882
+asS'Outlet Connection'
+p883
+(lp884
+S"G1/4''-19-LH"
+p885
+asS'Max Inlet Pressure(bar)'
+p886
+(lp887
+S'25'
+p888
+asS'Gas'
+p889
+(lp890
+S'Acetylene'
+p891
+asS'Max Outlet Pressure(bar)'
+p892
+(lp893
+S'1.5'
+p894
+assg23
+(lp895
+S'Ideal to fit welding machine MIG/MAG, which require robustness and high flow rates stability'
+p896
+aS'The additional valve for fine control and convenience and ensures a high flow stability'
+p897
+aS'Adjusting knob made of high grade PC provides smooth pressure adjustment'
+p898
+aS'A very sturdy structure for a pressure reducer with bottom adjusting knob and side entry'
+p899
+aS'Integrated safety valve and shut-off valve'
+p900
+aS'No soldered joints for easy maintenance'
+p901
+asg29
+S'Italy Type Regulator'
+p902
+sg31
+g32
+ssS'MR-0301B'
+p903
+(dp904
+g3
+g903
+sg4
+S'03'
+p905
+sg6
+(dp906
+S'Inlet Connection'
+p907
+(lp908
+S'W21.8-14'
+p909
+asS'Outlet Connection'
+p910
+(lp911
+S"G1/4''-19"
+p912
+asS'Max Inlet Pressure(bar)'
+p913
+(lp914
+S'200'
+p915
+asS'Gas'
+p916
+(lp917
+S'Argon/CO2'
+p918
+asS'Max Outlet Pressure(bar)'
+p919
+(lp920
+S'10'
+p921
+assg23
+(lp922
+S'Ideal to fit welding machine MIG/MAG, which require robustness and high flow rates stability'
+p923
+aS'The additional valve for fine control and convenience and ensures a high flow stability'
+p924
+aS'Adjusting knob made of high grade PC provides smooth pressure adjustment'
+p925
+aS'A very sturdy structure for a pressure reducer with bottom adjusting knob and side entry'
+p926
+aS'Integrated safety valve and shut-off valve'
+p927
+aS'No soldered joints for easy maintenance'
+p928
+asg29
+S'Italy Type Regulator'
+p929
+sg31
+g32
+ssS'MR-0301C'
+p930
+(dp931
+g3
+g930
+sg4
+S'03'
+p932
+sg6
+(dp933
+S'Inlet Connection'
+p934
+(lp935
+S'W21.8-14'
+p936
+asS'Outlet Connection'
+p937
+(lp938
+S"G1/4''-19-LH"
+p939
+asS'Max Inlet Pressure(bar)'
+p940
+(lp941
+S'25'
+p942
+asS'Gas'
+p943
+(lp944
+S'Propane'
+p945
+asS'Max Outlet Pressure(bar)'
+p946
+(lp947
+S'1.5'
+p948
+assg23
+(lp949
+S'Ideal to fit welding machine MIG/MAG, which require robustness and high flow rates stability'
+p950
+aS'The additional valve for fine control and convenience and ensures a high flow stability'
+p951
+aS'Adjusting knob made of high grade PC provides smooth pressure adjustment'
+p952
+aS'A very sturdy structure for a pressure reducer with bottom adjusting knob and side entry'
+p953
+aS'Integrated safety valve and shut-off valve'
+p954
+aS'No soldered joints for easy maintenance'
+p955
+asg29
+S'Italy Type Regulator'
+p956
+sg31
+g32
+ssS'MR-0112A'
+p957
+(dp958
+g3
+g957
+sg4
+S'01'
+p959
+sg6
+(dp960
+S'Inlet Connection'
+p961
+(lp962
+S'CGA510'
+p963
+asS'Outlet Connection'
+p964
+(lp965
+S"9/16''-18LH"
+p966
+asS'Max Inlet Pressure(Psi)'
+p967
+(lp968
+S'400'
+p969
+asS'Gas'
+p970
+(lp971
+S'Acetylene'
+p972
+asS'Max Outlet Pressure(Psi)'
+p973
+(lp974
+S'15'
+p975
+assg23
+(lp976
+S'Single stage construction'
+p977
+aS'Forged brass body & bonnet for maximum strenth'
+p978
+aS'Stainless steel diaphragm'
+p979
+aS'Sintered metal inlet filter to trap impurities'
+p980
+aS'No soldered joints, for easy maintenance'
+p981
+aS'Side entry'
+p982
+aS'Connection of other thread sizes avaliable'
+p983
+asg29
+S'American Style Harris Type Regulator'
+p984
+sg31
+g32
+ssS'MR-1101'
+p985
+(dp986
+g3
+g985
+sg4
+S'11'
+p987
+sg6
+(dp988
+S'Inlet Connection'
+p989
+(lp990
+S"G5/8''"
+p991
+asS'Outlet Connection'
+p992
+(lp993
+S"BSP3/8''-RH"
+p994
+asS'Max Inlet Pressure(Psi)'
+p995
+(lp996
+S'30000'
+p997
+asS'Gas'
+p998
+(lp999
+S'Oxygen'
+p1000
+asS'Max Outlet Pressure(Psi)'
+p1001
+(lp1002
+S'800'
+p1003
+assg23
+(lp1004
+S'Offers different quality and performance for application'
+p1005
+aS'Solid forged brass body with all operational data permanentlyengraved'
+p1006
+aS'Unique encapsulated vavle design for maximum control'
+p1007
+aS'Oxyen regulator with safety relif valve is set for safe operation'
+p1008
+aS'Sintered metal inlet filter to trap impurities'
+p1009
+aS'No soldered joints, for easy maintenance'
+p1010
+aS'Connection of other thread sizes avaliable'
+p1011
+asg29
+S'Australian Type Regulator'
+p1012
+sg31
+g32
+ssS'MR-0104A'
+p1013
+(dp1014
+g3
+g1013
+sg4
+S'01'
+p1015
+sg6
+(dp1016
+S'Inlet Connection'
+p1017
+(lp1018
+S'CGA510'
+p1019
+asS'Outlet Connection'
+p1020
+(lp1021
+S"9/16''-18LH"
+p1022
+asS'Max Inlet Pressure(Psi)'
+p1023
+(lp1024
+S'400'
+p1025
+asS'Gas'
+p1026
+(lp1027
+S'Acetylene'
+p1028
+asS'Max Outlet Pressure(Psi)'
+p1029
+(lp1030
+S'15'
+p1031
+assg23
+(lp1032
+S'Single stage construction'
+p1033
+aS'Forged brass body & bonnet for maximum strenth'
+p1034
+aS'Stainless steel diaphragm'
+p1035
+aS'Sintered metal inlet filter to trap impurities'
+p1036
+aS'No soldered joints, for easy maintenance'
+p1037
+aS'Side entry'
+p1038
+aS'Connection of other thread sizes avaliable'
+p1039
+asg29
+S'American Style Victor Type SR450 Heavy Duty Regulator'
+p1040
+sg31
+g32
+ssS'MR-0104B'
+p1041
+(dp1042
+g3
+g1041
+sg4
+S'01'
+p1043
+sg6
+(dp1044
+S'Inlet Connection'
+p1045
+(lp1046
+S'CGA510'
+p1047
+asS'Outlet Connection'
+p1048
+(lp1049
+S"9/16''-18LH"
+p1050
+asS'Max Inlet Pressure(Psi)'
+p1051
+(lp1052
+S'400'
+p1053
+asS'Gas'
+p1054
+(lp1055
+S'Propane'
+p1056
+asS'Max Outlet Pressure(Psi)'
+p1057
+(lp1058
+S'125'
+p1059
+assg23
+(lp1060
+S'Single stage construction'
+p1061
+aS'Forged brass body & bonnet for maximum strenth'
+p1062
+aS'Stainless steel diaphragm'
+p1063
+aS'Sintered metal inlet filter to trap impurities'
+p1064
+aS'No soldered joints, for easy maintenance'
+p1065
+aS'Side entry'
+p1066
+aS'Connection of other thread sizes avaliable'
+p1067
+asg29
+S'American Style Victor Type SR450 Heavy Duty Regulator'
+p1068
+sg31
+g32
+ssS'MR-0802A'
+p1069
+(dp1070
+g3
+g1069
+sg4
+S'08'
+p1071
+sg6
+(dp1072
+S'Inlet Connection'
+p1073
+(lp1074
+S"G5/8''"
+p1075
+asS'Outlet Connection'
+p1076
+(lp1077
+S"BSP3/8''-LH"
+p1078
+asS'Max Inlet Pressure(Psi)'
+p1079
+(lp1080
+S'30'
+p1081
+asS'Gas'
+p1082
+(lp1083
+S'Acetylene'
+p1084
+asS'Max Outlet Pressure(Psi)'
+p1085
+(lp1086
+S'1.5'
+p1087
+assg23
+(lp1088
+S'Single stage construction'
+p1089
+aS'Solid forged brass body with all operational data permanentlyengraved'
+p1090
+aS'Unique encapsulated vavle design for maximum control'
+p1091
+aS'Sintered metal inlet filter to trap impurities'
+p1092
+aS'No soldered joints, for easy maintenance'
+p1093
+aS'Connection of other thread sizes avaliable'
+p1094
+asg29
+S'South-East Asia Type Regulator'
+p1095
+sg31
+g32
+ssS'MR-0802B'
+p1096
+(dp1097
+g3
+g1096
+sg4
+S'08'
+p1098
+sg6
+(dp1099
+S'Inlet Connection'
+p1100
+(lp1101
+S"G5/8''"
+p1102
+asS'Outlet Connection'
+p1103
+(lp1104
+S"BSP3/8''-LH"
+p1105
+asS'Max Inlet Pressure(Psi)'
+p1106
+(lp1107
+S'30'
+p1108
+asS'Gas'
+p1109
+(lp1110
+S'Propane'
+p1111
+asS'Max Outlet Pressure(Psi)'
+p1112
+(lp1113
+S'1.5'
+p1114
+assg23
+(lp1115
+S'Single stage construction'
+p1116
+aS'Solid forged brass body with all operational data permanentlyengraved'
+p1117
+aS'Unique encapsulated vavle design for maximum control'
+p1118
+aS'Sintered metal inlet filter to trap impurities'
+p1119
+aS'No soldered joints, for easy maintenance'
+p1120
+aS'Connection of other thread sizes avaliable'
+p1121
+asg29
+S'South-East Asia Type Regulator'
+p1122
+sg31
+g32
+ssS'MR-0701A'
+p1123
+(dp1124
+g3
+g1123
+sg4
+S'07'
+p1125
+sg6
+(dp1126
+S'Inlet Connection'
+p1127
+(lp1128
+S'Clamp'
+p1129
+asS'Outlet Connection'
+p1130
+(lp1131
+S"BSP3/8''-LH"
+p1132
+asS'Max Inlet Pressure(Psi)'
+p1133
+(lp1134
+S'30'
+p1135
+asS'Gas'
+p1136
+(lp1137
+S'Acetylene'
+p1138
+asS'Max Outlet Pressure(Psi)'
+p1139
+(lp1140
+S'1.5'
+p1141
+assg23
+(lp1142
+S'Single stage construction'
+p1143
+aS'Solid forged brass body with all operational data permanentlyengraved'
+p1144
+aS'Unique encapsulated vavle design for maximum control'
+p1145
+aS'Sintered metal inlet filter to trap impurities'
+p1146
+aS'No soldered joints, for easy maintenance'
+p1147
+aS'Connection of other thread sizes avaliable'
+p1148
+asg29
+S'French Model SAF Type Regulator'
+p1149
+sg31
+g32
+ssS'MR-0701B'
+p1150
+(dp1151
+g3
+g1150
+sg4
+S'07'
+p1152
+sg6
+(dp1153
+S'Inlet Connection'
+p1154
+(lp1155
+S"G5/8''"
+p1156
+asS'Outlet Connection'
+p1157
+(lp1158
+S"BSP3/8''-RH"
+p1159
+asS'Max Inlet Pressure(Psi)'
+p1160
+(lp1161
+S'200'
+p1162
+asS'Gas'
+p1163
+(lp1164
+S'CO2'
+p1165
+asS'Max Outlet Pressure(Psi)'
+p1166
+(lp1167
+S'10'
+p1168
+assg23
+(lp1169
+S'Single stage construction'
+p1170
+aS'Solid forged brass body with all operational data permanentlyengraved'
+p1171
+aS'Unique encapsulated vavle design for maximum control'
+p1172
+aS'Sintered metal inlet filter to trap impurities'
+p1173
+aS'No soldered joints, for easy maintenance'
+p1174
+aS'Connection of other thread sizes avaliable'
+p1175
+asg29
+S'French Model SAF Type Regulator'
+p1176
+sg31
+g32
+ssS'MR-0403B'
+p1177
+(dp1178
+g3
+g1177
+sg4
+S'04'
+p1179
+sg6
+(dp1180
+S'Inlet Connection'
+p1181
+(lp1182
+S"G5/8''-LH"
+p1183
+asS'Outlet Connection'
+p1184
+(lp1185
+S"BSP3/8''-LH"
+p1186
+asS'Max Inlet Pressure(bar)'
+p1187
+(lp1188
+S'200'
+p1189
+asS'Gas'
+p1190
+(lp1191
+S'Propane'
+p1192
+asS'Max Outlet Pressure(bar)'
+p1193
+(lp1194
+S'15'
+p1195
+assg23
+(lp1196
+S'Forged brass body for maximum strength'
+p1197
+aS'Aluminum bonnet spray color paint'
+p1198
+aS'Sintered metal inlet filter to trap impurities'
+p1199
+aS'No soldered joints for easy maintenance'
+p1200
+asg29
+S'Japan Model Nakata Type Regulator'
+p1201
+sg31
+g32
+ssS'MR-0403A'
+p1202
+(dp1203
+g3
+g1202
+sg4
+S'04'
+p1204
+sg6
+(dp1205
+S'Inlet Connection'
+p1206
+(lp1207
+S"G5/8''-LH"
+p1208
+asS'Outlet Connection'
+p1209
+(lp1210
+S"BSP3/8''-LH"
+p1211
+asS'Max Inlet Pressure(bar)'
+p1212
+(lp1213
+S'15'
+p1214
+asS'Gas'
+p1215
+(lp1216
+S'Acetylene'
+p1217
+asS'Max Outlet Pressure(bar)'
+p1218
+(lp1219
+S'1.5'
+p1220
+assg23
+(lp1221
+S'Forged brass body for maximum strength'
+p1222
+aS'Aluminum bonnet spray color paint'
+p1223
+aS'Sintered metal inlet filter to trap impurities'
+p1224
+aS'No soldered joints for easy maintenance'
+p1225
+asg29
+S'Japan Model Nakata Type Regulator'
+p1226
+sg31
+g32
+ssS'MR-0111A'
+p1227
+(dp1228
+g3
+g1227
+sg4
+S'01'
+p1229
+sg6
+(dp1230
+S'Inlet Connection'
+p1231
+(lp1232
+S'CGA510'
+p1233
+asS'Outlet Connection'
+p1234
+(lp1235
+S"9/16''-18LH"
+p1236
+asS'Max Inlet Pressure(Psi)'
+p1237
+(lp1238
+S'400'
+p1239
+asS'Gas'
+p1240
+(lp1241
+S'Acetylene'
+p1242
+asS'Max Outlet Pressure(Psi)'
+p1243
+(lp1244
+S'15'
+p1245
+assg23
+(lp1246
+S'Single stage construction'
+p1247
+aS'Forged brass body & bonnet for maximum strenth'
+p1248
+aS'Stainless steel diaphragm'
+p1249
+aS'Sintered metal inlet filter to trap impurities'
+p1250
+aS'No soldered joints, for easy maintenance'
+p1251
+aS'Side entry'
+p1252
+aS'Connection of other thread sizes avaliable'
+p1253
+asg29
+S'American Type Heavy Duty Regulator'
+p1254
+sg31
+g32
+ssS'MR-0601B'
+p1255
+(dp1256
+g3
+g1255
+sg4
+S'06'
+p1257
+sg6
+(dp1258
+S'Inlet Connection'
+p1259
+(lp1260
+S'W21.8-14'
+p1261
+asS'Outlet Connection'
+p1262
+(lp1263
+S"BSP3/8''-RH"
+p1264
+asS'Max Inlet Pressure(Psi)'
+p1265
+(lp1266
+S'200'
+p1267
+asS'Gas'
+p1268
+(lp1269
+S'CO2'
+p1270
+asS'Max Outlet Pressure(Psi)'
+p1271
+(lp1272
+S'10'
+p1273
+assg23
+(lp1274
+S'Single stage construction'
+p1275
+aS'Solid forged brass body with all operational data permanentlyengraved'
+p1276
+aS'Unique encapsulated vavle design for maximum control'
+p1277
+aS'Sintered metal inlet filter to trap impurities'
+p1278
+aS'No soldered joints, for easy maintenance'
+p1279
+aS'Connection of other thread sizes avaliable'
+p1280
+asg29
+S'Germany Model Zinser Type Regulator'
+p1281
+sg31
+g32
+ssS'MR-0601A'
+p1282
+(dp1283
+g3
+g1282
+sg4
+S'06'
+p1284
+sg6
+(dp1285
+S'Inlet Connection'
+p1286
+(lp1287
+S'W21.8-14'
+p1288
+asS'Outlet Connection'
+p1289
+(lp1290
+S"BSP3/8''-LH"
+p1291
+asS'Max Inlet Pressure(Psi)'
+p1292
+(lp1293
+S'30'
+p1294
+asS'Gas'
+p1295
+(lp1296
+S'Acetylene'
+p1297
+asS'Max Outlet Pressure(Psi)'
+p1298
+(lp1299
+S'1.5'
+p1300
+assg23
+(lp1301
+S'Single stage construction'
+p1302
+aS'Solid forged brass body with all operational data permanentlyengraved'
+p1303
+aS'Unique encapsulated vavle design for maximum control'
+p1304
+aS'Sintered metal inlet filter to trap impurities'
+p1305
+aS'No soldered joints, for easy maintenance'
+p1306
+aS'Connection of other thread sizes avaliable'
+p1307
+asg29
+S'Germany Model Zinser Type Regulator'
+p1308
+sg31
+g32
+ssS'MR-0105B'
+p1309
+(dp1310
+g3
+g1309
+sg4
+S'01'
+p1311
+sg6
+(dp1312
+S'Inlet Connection'
+p1313
+(lp1314
+S'Clamp'
+p1315
+asS'Outlet Connection'
+p1316
+(lp1317
+S"9/16''-18LH"
+p1318
+asS'Max Inlet Pressure(Psi)'
+p1319
+(lp1320
+S'400'
+p1321
+asS'Gas'
+p1322
+(lp1323
+S'Propane'
+p1324
+asS'Max Outlet Pressure(Psi)'
+p1325
+(lp1326
+S'125'
+p1327
+assg23
+(lp1328
+S'Single stage construction'
+p1329
+aS'Forged brass body & bonnet for maximum strenth'
+p1330
+aS'Stainless steel diaphragm'
+p1331
+aS'Sintered metal inlet filter to trap impurities'
+p1332
+aS'No soldered joints, for easy maintenance'
+p1333
+aS'Side entry'
+p1334
+aS'Connection of other thread sizes avaliable'
+p1335
+asg29
+S'American Style Victor Type Heavy Duty Regulator'
+p1336
+sg31
+g32
+ssS'MR-0105A'
+p1337
+(dp1338
+g3
+g1337
+sg4
+S'01'
+p1339
+sg6
+(dp1340
+S'Inlet Connection'
+p1341
+(lp1342
+S'CGA510'
+p1343
+asS'Outlet Connection'
+p1344
+(lp1345
+S"9/16''-18LH"
+p1346
+asS'Max Inlet Pressure(Psi)'
+p1347
+(lp1348
+S'400'
+p1349
+asS'Gas'
+p1350
+(lp1351
+S'Acetylene'
+p1352
+asS'Max Outlet Pressure(Psi)'
+p1353
+(lp1354
+S'15'
+p1355
+assg23
+(lp1356
+S'Single stage construction'
+p1357
+aS'Forged brass body & bonnet for maximum strenth'
+p1358
+aS'Stainless steel diaphragm'
+p1359
+aS'Sintered metal inlet filter to trap impurities'
+p1360
+aS'No soldered joints, for easy maintenance'
+p1361
+aS'Side entry'
+p1362
+aS'Connection of other thread sizes avaliable'
+p1363
+asg29
+S'American Style Victor Type Heavy Duty Regulator'
+p1364
+sg31
+g32
+ssS'MR-0204'
+p1365
+(dp1366
+g3
+g1365
+sg4
+S'02'
+p1367
+sg6
+(dp1368
+S'Inlet Connection'
+p1369
+(lp1370
+S"G5/8''"
+p1371
+asS'Outlet Connection'
+p1372
+(lp1373
+S"BSP3/8''"
+p1374
+asS'Max Inlet Pressure(Psi)'
+p1375
+(lp1376
+S'4000'
+p1377
+asS'Gas'
+p1378
+(lp1379
+S'Oxygen'
+p1380
+asS'Max Outlet Pressure(Psi)'
+p1381
+(lp1382
+S'145'
+p1383
+assg23
+(lp1384
+S'Single stage construction'
+p1385
+aS'Solid forged brass body with all operational data permanentlyengraved'
+p1386
+aS'Unique encapsulated vavle design for maximum control'
+p1387
+aS'Oxyen regulator with safety relif valve is set for safe operation'
+p1388
+aS'Sintered metal inlet filter to trap impurities'
+p1389
+aS'No soldered joints, for easy maintenance'
+p1390
+aS'Side entry'
+p1391
+aS'Connection of other thread sizes avaliable'
+p1392
+asg29
+S'British Type Regulator'
+p1393
+sg31
+g32
+ssS'MR-0203'
+p1394
+(dp1395
+g3
+g1394
+sg4
+S'02'
+p1396
+sg6
+(dp1397
+S'Inlet Connection'
+p1398
+(lp1399
+S"G5/8''"
+p1400
+asS'Outlet Connection'
+p1401
+(lp1402
+S"BSP3/8''"
+p1403
+asS'Max Inlet Pressure(Psi)'
+p1404
+(lp1405
+S'4000'
+p1406
+asS'Gas'
+p1407
+(lp1408
+S'Oxygen'
+p1409
+asS'Max Outlet Pressure(Psi)'
+p1410
+(lp1411
+S'145'
+p1412
+assg23
+(lp1413
+S'Two stage construction'
+p1414
+aS'Solid forged brass body with all operational data permanentlyengraved'
+p1415
+aS'Unique encapsulated vavle design for maximum control'
+p1416
+aS'Oxyen regulator with safety relif valve is set for safe operation'
+p1417
+aS'Sintered metal inlet filter to trap impurities'
+p1418
+aS'No soldered joints, for easy maintenance'
+p1419
+aS'Side entry'
+p1420
+aS'Connection of other thread sizes avaliable'
+p1421
+asg29
+S'British Type Regulator'
+p1422
+sg31
+g32
+ssS'MR-0204A'
+p1423
+(dp1424
+g3
+g1423
+sg4
+S'02'
+p1425
+sg6
+(dp1426
+S'Inlet Connection'
+p1427
+(lp1428
+S"G5/8''"
+p1429
+asS'Outlet Connection'
+p1430
+(lp1431
+S"BSP3/8''-LH"
+p1432
+asS'Max Inlet Pressure(Psi)'
+p1433
+(lp1434
+S'300'
+p1435
+asS'Gas'
+p1436
+(lp1437
+S'Acetylene'
+p1438
+asS'Max Outlet Pressure(Psi)'
+p1439
+(lp1440
+S'25'
+p1441
+assg23
+(lp1442
+S'Single stage construction'
+p1443
+aS'Solid forged brass body with all operational data permanentlyengraved'
+p1444
+aS'Unique encapsulated vavle design for maximum control'
+p1445
+aS'Oxyen regulator with safety relif valve is set for safe operation'
+p1446
+aS'Sintered metal inlet filter to trap impurities'
+p1447
+aS'No soldered joints, for easy maintenance'
+p1448
+aS'Side entry'
+p1449
+aS'Connection of other thread sizes avaliable'
+p1450
+asg29
+S'British Type Regulator'
+p1451
+sg31
+g32
+ssS'MR-0201'
+p1452
+(dp1453
+g3
+g1452
+sg4
+S'02'
+p1454
+sg6
+(dp1455
+S'Inlet Connection'
+p1456
+(lp1457
+S"G5/8''"
+p1458
+asS'Outlet Connection'
+p1459
+(lp1460
+S"BSP3/8''"
+p1461
+asS'Max Inlet Pressure(Psi)'
+p1462
+(lp1463
+S'4000'
+p1464
+asS'Gas'
+p1465
+(lp1466
+S'Oxygen'
+p1467
+asS'Max Outlet Pressure(Psi)'
+p1468
+(lp1469
+S'145'
+p1470
+assg23
+(lp1471
+S'Single stage construction'
+p1472
+aS'Solid forged brass body with all operational data permanentlyengraved'
+p1473
+aS'Unique encapsulated vavle design for maximum control'
+p1474
+aS'Oxyen regulator with safety relif valve is set for safe operation'
+p1475
+aS'Sintered metal inlet filter to trap impurities'
+p1476
+aS'No soldered joints, for easy maintenance'
+p1477
+aS'Side entry'
+p1478
+aS'Connection of other thread sizes avaliable'
+p1479
+asg29
+S'British Style Murex Type 300 Series Regulator'
+p1480
+sg31
+g32
+ssS'MR-0303B'
+p1481
+(dp1482
+g3
+g1481
+sg4
+S'03'
+p1483
+sg6
+(dp1484
+S'Inlet Connection'
+p1485
+(lp1486
+S'W21.8-14'
+p1487
+asS'Outlet Connection'
+p1488
+(lp1489
+S"G1/4''-19"
+p1490
+asS'Max Inlet Pressure(bar)'
+p1491
+(lp1492
+S'25'
+p1493
+asS'Gas'
+p1494
+(lp1495
+S'CO2'
+p1496
+asS'Max Outlet Pressure(bar)'
+p1497
+(lp1498
+S'1.5'
+p1499
+assg23
+(lp1500
+S'Ideal to fit welding machine MIG/MAG, which require robustness and high flow rates stability'
+p1501
+aS'The additional valve for fine control and convenience and ensures a high flow stability'
+p1502
+aS'Adjusting knob made of high grade PC provides smooth pressure adjustment'
+p1503
+aS'A very sturdy structure for a pressure reducer with bottom adjusting knob and side entry'
+p1504
+aS'Integrated safety valve and shut-off valve'
+p1505
+aS'No soldered joints for easy maintenance'
+p1506
+asg29
+S'Italy Type Regulator'
+p1507
+sg31
+g32
+ssS'MR-0402A'
+p1508
+(dp1509
+g3
+g1508
+sg4
+S'04'
+p1510
+sg6
+(dp1511
+S'Inlet Connection'
+p1512
+(lp1513
+S"G5/8''-LH"
+p1514
+asS'Outlet Connection'
+p1515
+(lp1516
+S"BSP3/8''-LH"
+p1517
+asS'Max Inlet Pressure(bar)'
+p1518
+(lp1519
+S'15'
+p1520
+asS'Gas'
+p1521
+(lp1522
+S'Acetylene'
+p1523
+asS'Max Outlet Pressure(bar)'
+p1524
+(lp1525
+S'1.5'
+p1526
+assg23
+(lp1527
+S'Forged brass body for maximum strength'
+p1528
+aS'Aluminum bonnet spray color paint'
+p1529
+aS'Sintered metal inlet filter to trap impurities'
+p1530
+aS'No soldered joints for easy maintenance'
+p1531
+asg29
+S'Japan Model Tanaka Type Regulator'
+p1532
+sg31
+g32
+ssS'MR-0402B'
+p1533
+(dp1534
+g3
+g1533
+sg4
+S'04'
+p1535
+sg6
+(dp1536
+S'Inlet Connection'
+p1537
+(lp1538
+S"G5/8''-LH"
+p1539
+asS'Outlet Connection'
+p1540
+(lp1541
+S"BSP3/8''-LH"
+p1542
+asS'Max Inlet Pressure(bar)'
+p1543
+(lp1544
+S'200'
+p1545
+asS'Gas'
+p1546
+(lp1547
+S'Propane'
+p1548
+asS'Max Outlet Pressure(bar)'
+p1549
+(lp1550
+S'15'
+p1551
+assg23
+(lp1552
+S'Forged brass body for maximum strength'
+p1553
+aS'Aluminum bonnet spray color paint'
+p1554
+aS'Sintered metal inlet filter to trap impurities'
+p1555
+aS'No soldered joints for easy maintenance'
+p1556
+asg29
+S'Japan Model Tanaka Type Regulator'
+p1557
+sg31
+g32
+ssS'MR-0303A'
+p1558
+(dp1559
+g3
+g1558
+sg4
+S'03'
+p1560
+sg6
+(dp1561
+S'Inlet Connection'
+p1562
+(lp1563
+S'Clamp'
+p1564
+asS'Outlet Connection'
+p1565
+(lp1566
+S"G1/4''-19-LH"
+p1567
+asS'Max Inlet Pressure(bar)'
+p1568
+(lp1569
+S'25'
+p1570
+asS'Gas'
+p1571
+(lp1572
+S'Acetylene'
+p1573
+asS'Max Outlet Pressure(bar)'
+p1574
+(lp1575
+S'1.5'
+p1576
+assg23
+(lp1577
+S'Ideal to fit welding machine MIG/MAG, which require robustness and high flow rates stability'
+p1578
+aS'The additional valve for fine control and convenience and ensures a high flow stability'
+p1579
+aS'Adjusting knob made of high grade PC provides smooth pressure adjustment'
+p1580
+aS'A very sturdy structure for a pressure reducer with bottom adjusting knob and side entry'
+p1581
+aS'Integrated safety valve and shut-off valve'
+p1582
+aS'No soldered joints for easy maintenance'
+p1583
+asg29
+S'Italy Type Regulator'
+p1584
+sg31
+g32
+ssS'MR-0202A'
+p1585
+(dp1586
+g3
+g1585
+sg4
+S'02'
+p1587
+sg6
+(dp1588
+S'Inlet Connection'
+p1589
+(lp1590
+S"G5/8''"
+p1591
+asS'Outlet Connection'
+p1592
+(lp1593
+S"BSP3/8''-LH"
+p1594
+asS'Max Inlet Pressure(Psi)'
+p1595
+(lp1596
+S'300'
+p1597
+asS'Gas'
+p1598
+(lp1599
+S'Acetylene'
+p1600
+asS'Max Outlet Pressure(Psi)'
+p1601
+(lp1602
+S'25'
+p1603
+assg23
+(lp1604
+S'Single stage construction'
+p1605
+aS'Solid forged brass body with all operational data permanentlyengraved'
+p1606
+aS'Unique encapsulated vavle design for maximum control'
+p1607
+aS'Oxyen regulator with safety relif valve is set for safe operation'
+p1608
+aS'Sintered metal inlet filter to trap impurities'
+p1609
+aS'No soldered joints, for easy maintenance'
+p1610
+aS'Side entry'
+p1611
+aS'Connection of other thread sizes avaliable'
+p1612
+asg29
+S'British Style Murex Type 300 Series Regulator'
+p1613
+sg31
+g32
+ssS'MR-0102A'
+p1614
+(dp1615
+g3
+g1614
+sg4
+S'01'
+p1616
+sg6
+(dp1617
+S'Inlet Connection'
+p1618
+(lp1619
+S'CGA510'
+p1620
+asS'Outlet Connection'
+p1621
+(lp1622
+S"9/16''-18LH"
+p1623
+asS'Max Inlet Pressure(Psi)'
+p1624
+(lp1625
+S'400'
+p1626
+asS'Gas'
+p1627
+(lp1628
+S'Acetylene'
+p1629
+asS'Max Outlet Pressure(Psi)'
+p1630
+(lp1631
+S'15'
+p1632
+assg23
+(lp1633
+S'Single stage construction'
+p1634
+aS'Forged brass body & bonnet for maximum strenth'
+p1635
+aS'Stainless steel diaphragm'
+p1636
+aS'Sintered metal inlet filter to trap impurities'
+p1637
+aS'No soldered joints, for easy maintenance'
+p1638
+aS'Side entry'
+p1639
+aS'Connection of other thread sizes avaliable'
+p1640
+asg29
+S'American Style Victor Type SR460 Heavy Duty Regulator'
+p1641
+sg31
+g32
+ssS'MR-1101B'
+p1642
+(dp1643
+g3
+g1642
+sg4
+S'11'
+p1644
+sg6
+(dp1645
+S'Inlet Connection'
+p1646
+(lp1647
+S"G5/8''"
+p1648
+asS'Outlet Connection'
+p1649
+(lp1650
+S"BSP3/8''-LH"
+p1651
+asS'Max Inlet Pressure(Psi)'
+p1652
+(lp1653
+S'4000'
+p1654
+asS'Gas'
+p1655
+(lp1656
+S'Acetylene'
+p1657
+asS'Max Outlet Pressure(Psi)'
+p1658
+(lp1659
+S'150'
+p1660
+assg23
+(lp1661
+S'Single stage construction'
+p1662
+aS'Solid forged brass body with all operational data permanentlyengraved'
+p1663
+aS'Unique encapsulated vavle design for maximum control'
+p1664
+aS'Sintered metal inlet filter to trap impurities'
+p1665
+aS'No soldered joints, for easy maintenance'
+p1666
+aS'Connection of other thread sizes avaliable'
+p1667
+asg29
+S'South-East Asia Type Regulator'
+p1668
+sg31
+g32
+ssS'MR-1101A'
+p1669
+(dp1670
+g3
+g1669
+sg4
+S'11'
+p1671
+sg6
+(dp1672
+S'Inlet Connection'
+p1673
+(lp1674
+S"G5/8''"
+p1675
+asS'Outlet Connection'
+p1676
+(lp1677
+S"BSP3/8''-LH"
+p1678
+asS'Max Inlet Pressure(Psi)'
+p1679
+(lp1680
+S'4000'
+p1681
+asS'Gas'
+p1682
+(lp1683
+S'Acetylene'
+p1684
+asS'Max Outlet Pressure(Psi)'
+p1685
+(lp1686
+S'150'
+p1687
+assg23
+(lp1688
+S'Single stage construction'
+p1689
+aS'Solid forged brass body with all operational data permanentlyengraved'
+p1690
+aS'Unique encapsulated vavle design for maximum control'
+p1691
+aS'Sintered metal inlet filter to trap impurities'
+p1692
+aS'No soldered joints, for easy maintenance'
+p1693
+aS'Connection of other thread sizes avaliable'
+p1694
+asg29
+S'Australian Type Regulator'
+p1695
+sg31
+g32
+ssS'MR-0601'
+p1696
+(dp1697
+g3
+g1696
+sg4
+S'06'
+p1698
+sg6
+(dp1699
+S'Inlet Connection'
+p1700
+(lp1701
+S'W21.8-14'
+p1702
+asS'Outlet Connection'
+p1703
+(lp1704
+S"BSP3/8''-RH"
+p1705
+asS'Max Inlet Pressure(Bar)'
+p1706
+(lp1707
+S'200'
+p1708
+asS'Gas'
+p1709
+(lp1710
+S'Oxygen'
+p1711
+asS'Max Outlet Pressure(Bar)'
+p1712
+(lp1713
+S'10'
+p1714
+assg23
+(lp1715
+S'Single stage construction'
+p1716
+aS'Solid forged brass body with all operational data permanentlyengraved'
+p1717
+aS'Unique encapsulated vavle design for maximum control'
+p1718
+aS'Oxyen regulator with safety relif valve is set for safe operation'
+p1719
+aS'Sintered metal inlet filter to trap impurities'
+p1720
+aS'No soldered joints, for easy maintenance'
+p1721
+aS'Connection of other thread sizes avaliable'
+p1722
+asg29
+S'Germany Model Zinser Type Regulator'
+p1723
+sg31
+g32
+ssS'MR-0501'
+p1724
+(dp1725
+g3
+g1724
+sg4
+S'05'
+p1726
+sg6
+(dp1727
+S'Inlet Connection'
+p1728
+(lp1729
+S'G3/4'
+p1730
+asS'Outlet Connection'
+p1731
+(lp1732
+S'M16*1.5'
+p1733
+asS'Max Inlet Pressure(Mpa)'
+p1734
+(lp1735
+S'25'
+p1736
+asS'Gas'
+p1737
+(lp1738
+S'Oxygen'
+p1739
+asS'Max Outlet Pressure(Mpa)'
+p1740
+(lp1741
+S'2.5'
+p1742
+assg23
+(lp1743
+S'Forged brass body for maximum strength'
+p1744
+aS'Suitable for various welding and cutting applications'
+p1745
+aS'Body and cap forged A brass ensure maximum strength'
+p1746
+aS'Deisgn expecially for for Russian Market'
+p1747
+aS'Coonnection of other thread sizes avaliable'
+p1748
+asg29
+S'Russia Type Regulator'
+p1749
+sg31
+g32
+ssS'MR-0502'
+p1750
+(dp1751
+g3
+g1750
+sg4
+S'05'
+p1752
+sg6
+(dp1753
+S'Inlet Connection'
+p1754
+(lp1755
+S'G3/4'
+p1756
+asS'Outlet Connection'
+p1757
+(lp1758
+S'M16*1.5'
+p1759
+asS'Max Inlet Pressure(Mpa)'
+p1760
+(lp1761
+S'25'
+p1762
+asS'Gas'
+p1763
+(lp1764
+S'Oxygen'
+p1765
+asS'Max Outlet Pressure(Mpa)'
+p1766
+(lp1767
+S'2.5'
+p1768
+assg23
+(lp1769
+S'Forged brass body for maximum strength'
+p1770
+aS'Suitable for various welding and cutting applications'
+p1771
+aS'Body and cap forged A brass ensure maximum strength'
+p1772
+aS'Deisgn expecially for for Russian Market'
+p1773
+aS'Coonnection of other thread sizes avaliable'
+p1774
+asg29
+S'Russia Type Regulator'
+p1775
+sg31
+g32
+ssS'MR-0503'
+p1776
+(dp1777
+g3
+g1776
+sg4
+S'05'
+p1778
+sg6
+(dp1779
+S'Inlet Connection'
+p1780
+(lp1781
+S'G3/4'
+p1782
+asS'Outlet Connection'
+p1783
+(lp1784
+S'M16*1.5'
+p1785
+asS'Max Inlet Pressure(Mpa)'
+p1786
+(lp1787
+S'25'
+p1788
+asS'Gas'
+p1789
+(lp1790
+S'Oxygen'
+p1791
+asS'Max Outlet Pressure(Mpa)'
+p1792
+(lp1793
+S'2.5'
+p1794
+assg23
+(lp1795
+S'Forged brass body for maximum strength'
+p1796
+aS'Suitable for various welding and cutting applications'
+p1797
+aS'Body and cap forged A brass ensure maximum strength'
+p1798
+aS'Deisgn expecially for for Russian Market'
+p1799
+aS'Coonnection of other thread sizes avaliable'
+p1800
+asg29
+S'Russia Type Regulator'
+p1801
+sg31
+g32
+ssS'MR-0112'
+p1802
+(dp1803
+g3
+g1802
+sg4
+S'01'
+p1804
+sg6
+(dp1805
+S'Inlet Connection'
+p1806
+(lp1807
+S'CGA540'
+p1808
+asS'Outlet Connection'
+p1809
+(lp1810
+S"9/16''-18"
+p1811
+asS'Max Inlet Pressure(Psi)'
+p1812
+(lp1813
+S'3000'
+p1814
+asS'Gas'
+p1815
+(lp1816
+S'Oxygen'
+p1817
+asS'Max Outlet Pressure(Psi)'
+p1818
+(lp1819
+S'250'
+p1820
+assg23
+(lp1821
+S'Single stage construction'
+p1822
+aS'Forged brass body & bonnet for maximum strenth'
+p1823
+aS'Stainless steel diaphragm'
+p1824
+aS'Oxyen regulator with safety relif valve is set for safe operation'
+p1825
+aS'Sintered metal inlet filter to trap impurities'
+p1826
+aS'No soldered joints, for easy maintenance'
+p1827
+aS'Side entry'
+p1828
+aS'Connection of other thread sizes avaliable'
+p1829
+asg29
+S'American Style Harris Type Regulator'
+p1830
+sg31
+g32
+ssS'MR-0111'
+p1831
+(dp1832
+g3
+g1831
+sg4
+S'01'
+p1833
+sg6
+(dp1834
+S'Inlet Connection'
+p1835
+(lp1836
+S'CGA540'
+p1837
+asS'Outlet Connection'
+p1838
+(lp1839
+S"9/16''-18"
+p1840
+asS'Max Inlet Pressure(Psi)'
+p1841
+(lp1842
+S'3000'
+p1843
+asS'Gas'
+p1844
+(lp1845
+S'Oxygen'
+p1846
+asS'Max Outlet Pressure(Psi)'
+p1847
+(lp1848
+S'250'
+p1849
+assg23
+(lp1850
+S'Single stage construction'
+p1851
+aS'Forged brass body, zinc cover & bonnet for maximum strenth'
+p1852
+aS'Stainless steel diaphragm'
+p1853
+aS'Oxyen regulator with safety relif valve is set for safe operation'
+p1854
+aS'Sintered metal inlet filter to trap impurities'
+p1855
+aS'No soldered joints, for easy maintenance'
+p1856
+aS'Side entry'
+p1857
+aS'Connection of other thread sizes avaliable'
+p1858
+asg29
+S'American Type Regulator'
+p1859
+sg31
+g32
+ssS'MR-0110'
+p1860
+(dp1861
+g3
+g1860
+sg4
+S'01'
+p1862
+sg6
+(dp1863
+S'Inlet Connection'
+p1864
+(lp1865
+S'CGA540'
+p1866
+asS'Outlet Connection'
+p1867
+(lp1868
+S"9/16''-18"
+p1869
+asS'Max Inlet Pressure(Psi)'
+p1870
+(lp1871
+S'3000'
+p1872
+asS'Gas'
+p1873
+(lp1874
+S'Oxygen'
+p1875
+asS'Max Outlet Pressure(Psi)'
+p1876
+(lp1877
+S'250'
+p1878
+assg23
+(lp1879
+S'Single stage construction'
+p1880
+aS'Forged brass body, steel cover & bonnet for maximum strenth'
+p1881
+aS'Stainless steel diaphragm'
+p1882
+aS'Oxyen regulator with safety relif valve is set for safe operation'
+p1883
+aS'Sintered metal inlet filter to trap impurities'
+p1884
+aS'No soldered joints, for easy maintenance'
+p1885
+aS'Side entry'
+p1886
+aS'Connection of other thread sizes avaliable'
+p1887
+asg29
+S'American Type Regulator'
+p1888
+sg31
+g32
+ssS'MR-0503A'
+p1889
+(dp1890
+g3
+g1889
+sg4
+S'05'
+p1891
+sg6
+(dp1892
+S'Inlet Connection'
+p1893
+(lp1894
+S'G3/4'
+p1895
+asS'Outlet Connection'
+p1896
+(lp1897
+S'M16*1.5'
+p1898
+asS'Max Inlet Pressure(Mpa)'
+p1899
+(lp1900
+S'16'
+p1901
+asS'Gas'
+p1902
+(lp1903
+S'CO2'
+p1904
+asS'Max Outlet Pressure(Mpa)'
+p1905
+(lp1906
+S'1'
+p1907
+assg23
+(lp1908
+S'Forged brass body for maximum strength'
+p1909
+aS'Suitable for various welding and cutting applications'
+p1910
+aS'Body and cap forged A brass ensure maximum strength'
+p1911
+aS'Deisgn expecially for for Russian Market'
+p1912
+aS'Coonnection of other thread sizes avaliable'
+p1913
+asg29
+S'Russia Type Regulator'
+p1914
+sg31
+g32
+ssS'MR-0503B'
+p1915
+(dp1916
+g3
+g1915
+sg4
+S'05'
+p1917
+sg6
+(dp1918
+S'Inlet Connection'
+p1919
+(lp1920
+S'G7/8'
+p1921
+asS'Outlet Connection'
+p1922
+(lp1923
+S'M16*1.5-LH'
+p1924
+asS'Max Inlet Pressure(Mpa)'
+p1925
+(lp1926
+S'3'
+p1927
+asS'Gas'
+p1928
+(lp1929
+S'Propane'
+p1930
+asS'Max Outlet Pressure(Mpa)'
+p1931
+(lp1932
+S'0.5'
+p1933
+assg23
+(lp1934
+S'Forged brass body for maximum strength'
+p1935
+aS'Suitable for various welding and cutting applications'
+p1936
+aS'Body and cap forged A brass ensure maximum strength'
+p1937
+aS'Deisgn expecially for for Russian Market'
+p1938
+aS'Coonnection of other thread sizes avaliable'
+p1939
+asg29
+S'Russia Type Regulator'
+p1940
+sg31
+g32
+ssS'MR-0109A'
+p1941
+(dp1942
+g3
+g1941
+sg4
+S'01'
+p1943
+sg6
+(dp1944
+S'Inlet Connection'
+p1945
+(lp1946
+S'CGA510'
+p1947
+asS'Outlet Connection'
+p1948
+(lp1949
+S"9/16''-18LH"
+p1950
+asS'Max Inlet Pressure(Psi)'
+p1951
+(lp1952
+S'400'
+p1953
+asS'Gas'
+p1954
+(lp1955
+S'Acetylene'
+p1956
+asS'Max Outlet Pressure(Psi)'
+p1957
+(lp1958
+S'15'
+p1959
+assg23
+(lp1960
+S'Single stage construction'
+p1961
+aS'Forged brass body & bonnet for maximum strenth'
+p1962
+aS'Stainless steel diaphragm'
+p1963
+aS'Sintered metal inlet filter to trap impurities'
+p1964
+aS'No soldered joints, for easy maintenance'
+p1965
+aS'Side entry'
+p1966
+aS'Connection of other thread sizes avaliable'
+p1967
+asg29
+S'American Style Victor Type Heavy Duty Regulator'
+p1968
+sg31
+g32
+ssS'MR-0103A'
+p1969
+(dp1970
+g3
+g1969
+sg4
+S'01'
+p1971
+sg6
+(dp1972
+S'Inlet Connection'
+p1973
+(lp1974
+S'CGA510'
+p1975
+asS'Outlet Connection'
+p1976
+(lp1977
+S"9/16''-18LH"
+p1978
+asS'Max Inlet Pressure(Psi)'
+p1979
+(lp1980
+S'400'
+p1981
+asS'Gas'
+p1982
+(lp1983
+S'Acetylene'
+p1984
+asS'Max Outlet Pressure(Psi)'
+p1985
+(lp1986
+S'15'
+p1987
+assg23
+(lp1988
+S'Single stage construction'
+p1989
+aS'Forged brass body & bonnet for maximum strenth'
+p1990
+aS'Stainless steel diaphragm'
+p1991
+aS'Sintered metal inlet filter to trap impurities'
+p1992
+aS'No soldered joints, for easy maintenance'
+p1993
+aS'Side entry'
+p1994
+aS'Connection of other thread sizes avaliable'
+p1995
+asg29
+S'American Style Victor Type SR450 Heavy Duty Regulator'
+p1996
+sg31
+g32
+ssS'MR-0103B'
+p1997
+(dp1998
+g3
+g1997
+sg4
+S'01'
+p1999
+sg6
+(dp2000
+S'Inlet Connection'
+p2001
+(lp2002
+S'CGA510'
+p2003
+asS'Outlet Connection'
+p2004
+(lp2005
+S"9/16''-18LH"
+p2006
+asS'Max Inlet Pressure(Psi)'
+p2007
+(lp2008
+S'400'
+p2009
+asS'Gas'
+p2010
+(lp2011
+S'Propane'
+p2012
+asS'Max Outlet Pressure(Psi)'
+p2013
+(lp2014
+S'125'
+p2015
+assg23
+(lp2016
+S'Single stage construction'
+p2017
+aS'Forged brass body & bonnet for maximum strenth'
+p2018
+aS'Stainless steel diaphragm'
+p2019
+aS'Sintered metal inlet filter to trap impurities'
+p2020
+aS'No soldered joints, for easy maintenance'
+p2021
+aS'Side entry'
+p2022
+aS'Connection of other thread sizes avaliable'
+p2023
+asg29
+S'American Style Victor Type SR450 Heavy Duty Regulator'
+p2024
+sg31
+g32
+ssS'MR-0302A'
+p2025
+(dp2026
+g3
+g2025
+sg4
+S'03'
+p2027
+sg6
+(dp2028
+S'Inlet Connection'
+p2029
+(lp2030
+S'Clamp'
+p2031
+asS'Outlet Connection'
+p2032
+(lp2033
+S"G1/4''-19-LH"
+p2034
+asS'Max Inlet Pressure(bar)'
+p2035
+(lp2036
+S'25'
+p2037
+asS'Gas'
+p2038
+(lp2039
+S'Acetylene'
+p2040
+asS'Max Outlet Pressure(bar)'
+p2041
+(lp2042
+S'1.5'
+p2043
+assg23
+(lp2044
+S'Ideal to fit welding machine MIG/MAG, which require robustness and high flow rates stability'
+p2045
+aS'The additional valve for fine control and convenience and ensures a high flow stability'
+p2046
+aS'Adjusting knob made of high grade PC provides smooth pressure adjustment'
+p2047
+aS'A very sturdy structure for a pressure reducer with bottom adjusting knob and side entry'
+p2048
+aS'Integrated safety valve and shut-off valve'
+p2049
+aS'No soldered joints for easy maintenance'
+p2050
+asg29
+S'Italy Model Mujelli Type Regulator'
+p2051
+sg31
+g32
+ssS'MR-0302B'
+p2052
+(dp2053
+g3
+g2052
+sg4
+S'03'
+p2054
+sg6
+(dp2055
+S'Inlet Connection'
+p2056
+(lp2057
+S'W21.8-14'
+p2058
+asS'Outlet Connection'
+p2059
+(lp2060
+S"G1/4''-19"
+p2061
+asS'Max Inlet Pressure(bar)'
+p2062
+(lp2063
+S'25'
+p2064
+asS'Gas'
+p2065
+(lp2066
+S'CO2'
+p2067
+asS'Max Outlet Pressure(bar)'
+p2068
+(lp2069
+S'1.5'
+p2070
+assg23
+(lp2071
+S'Ideal to fit welding machine MIG/MAG, which require robustness and high flow rates stability'
+p2072
+aS'The additional valve for fine control and convenience and ensures a high flow stability'
+p2073
+aS'Adjusting knob made of high grade PC provides smooth pressure adjustment'
+p2074
+aS'A very sturdy structure for a pressure reducer with bottom adjusting knob and side entry'
+p2075
+aS'Integrated safety valve and shut-off valve'
+p2076
+aS'No soldered joints for easy maintenance'
+p2077
+asg29
+S'Italy Model Mujelli Type Regulator'
+p2078
+sg31
+g32
+ssS'MR-0108'
+p2079
+(dp2080
+g3
+g2079
+sg4
+S'01'
+p2081
+sg6
+(dp2082
+S'Inlet Connection'
+p2083
+(lp2084
+S'CGA540'
+p2085
+asS'Outlet Connection'
+p2086
+(lp2087
+S"9/16''-18"
+p2088
+asS'Max Inlet Pressure(Psi)'
+p2089
+(lp2090
+S'3000'
+p2091
+asS'Gas'
+p2092
+(lp2093
+S'Oxygen'
+p2094
+asS'Max Outlet Pressure(Psi)'
+p2095
+(lp2096
+S'250'
+p2097
+assg23
+(lp2098
+S'Single stage construction'
+p2099
+aS'Forged brass body & bonnet for maximum strenth'
+p2100
+aS'Stainless steel diaphragm'
+p2101
+aS'Oxyen regulator with safety relif valve is set for safe operation'
+p2102
+aS'Sintered metal inlet filter to trap impurities'
+p2103
+aS'No soldered joints, for easy maintenance'
+p2104
+aS'Side entry'
+p2105
+aS'Connection of other thread sizes avaliable'
+p2106
+asg29
+S'American Style Victor Type SR150 Light Duty Regulator'
+p2107
+sg31
+g32
+ssS'MR-0109'
+p2108
+(dp2109
+g3
+g2108
+sg4
+S'01'
+p2110
+sg6
+(dp2111
+S'Inlet Connection'
+p2112
+(lp2113
+S'CGA540'
+p2114
+asS'Outlet Connection'
+p2115
+(lp2116
+S"9/16''-18"
+p2117
+asS'Max Inlet Pressure(Psi)'
+p2118
+(lp2119
+S'3000'
+p2120
+asS'Gas'
+p2121
+(lp2122
+S'Oxygen'
+p2123
+asS'Max Outlet Pressure(Psi)'
+p2124
+(lp2125
+S'200'
+p2126
+assg23
+(lp2127
+S'Single stage construction'
+p2128
+aS'Forged brass body & bonnet for maximum strenth'
+p2129
+aS'Stainless steel diaphragm'
+p2130
+aS'Oxyen regulator with safety relif valve is set for safe operation'
+p2131
+aS'Sintered metal inlet filter to trap impurities'
+p2132
+aS'No soldered joints, for easy maintenance'
+p2133
+aS'Side entry'
+p2134
+aS'Connection of other thread sizes avaliable'
+p2135
+asg29
+S'American Style Victor Type Heavy Duty Regulator'
+p2136
+sg31
+g32
+ssS'MR-0104'
+p2137
+(dp2138
+g3
+g2137
+sg4
+S'01'
+p2139
+sg6
+(dp2140
+S'Inlet Connection'
+p2141
+(lp2142
+S'CGA540'
+p2143
+asS'Outlet Connection'
+p2144
+(lp2145
+S"9/16''-18"
+p2146
+asS'Max Inlet Pressure(Psi)'
+p2147
+(lp2148
+S'3000'
+p2149
+asS'Gas'
+p2150
+(lp2151
+S'Oxygen'
+p2152
+asS'Max Outlet Pressure(Psi)'
+p2153
+(lp2154
+S'250'
+p2155
+assg23
+(lp2156
+S'Single stage construction'
+p2157
+aS'Forged brass body & bonnet for maximum strenth'
+p2158
+aS'Stainless steel diaphragm'
+p2159
+aS'Oxyen regulator with safety relif valve is set for safe operation'
+p2160
+aS'Sintered metal inlet filter to trap impurities'
+p2161
+aS'No soldered joints, for easy maintenance'
+p2162
+aS'Side entry'
+p2163
+aS'Connection of other thread sizes avaliable'
+p2164
+asg29
+S'American Style Victor Type SR350 Heavy Duty Regulator'
+p2165
+sg31
+g32
+ssS'MR-0105'
+p2166
+(dp2167
+g3
+g2166
+sg4
+S'01'
+p2168
+sg6
+(dp2169
+S'Inlet Connection'
+p2170
+(lp2171
+S'CGA540'
+p2172
+asS'Outlet Connection'
+p2173
+(lp2174
+S"9/16''-18"
+p2175
+asS'Max Inlet Pressure(Psi)'
+p2176
+(lp2177
+S'3000'
+p2178
+asS'Gas'
+p2179
+(lp2180
+S'Oxygen'
+p2181
+asS'Max Outlet Pressure(Psi)'
+p2182
+(lp2183
+S'250'
+p2184
+assg23
+(lp2185
+S'Single stage construction'
+p2186
+aS'Forged brass body & bonnet for maximum strenth'
+p2187
+aS'Stainless steel diaphragm'
+p2188
+aS'Oxyen regulator with safety relif valve is set for safe operation'
+p2189
+aS'Sintered metal inlet filter to trap impurities'
+p2190
+aS'No soldered joints, for easy maintenance'
+p2191
+aS'Side entry'
+p2192
+aS'Connection of other thread sizes avaliable'
+p2193
+asg29
+S'American Style Heavy Duty Regulator'
+p2194
+sg31
+g32
+ssS'MR-0106'
+p2195
+(dp2196
+g3
+g2195
+sg4
+S'01'
+p2197
+sg6
+(dp2198
+S'Inlet Connection'
+p2199
+(lp2200
+S'CGA540'
+p2201
+asS'Outlet Connection'
+p2202
+(lp2203
+S"9/16''-18"
+p2204
+asS'Max Inlet Pressure(Psi)'
+p2205
+(lp2206
+S'3000'
+p2207
+asS'Gas'
+p2208
+(lp2209
+S'Oxygen'
+p2210
+asS'Max Outlet Pressure(Psi)'
+p2211
+(lp2212
+S'250'
+p2213
+assg23
+(lp2214
+S'Single stage construction'
+p2215
+aS'Forged brass body & bonnet for maximum strenth'
+p2216
+aS'Stainless steel diaphragm'
+p2217
+aS'Oxyen regulator with safety relif valve is set for safe operation'
+p2218
+aS'Sintered metal inlet filter to trap impurities'
+p2219
+aS'No soldered joints, for easy maintenance'
+p2220
+aS'Side entry'
+p2221
+aS'Connection of other thread sizes avaliable'
+p2222
+asg29
+S'American Style Victor Type SR250 Medium Duty Regulator'
+p2223
+sg31
+g32
+ssS'MR-0107'
+p2224
+(dp2225
+g3
+g2224
+sg4
+S'01'
+p2226
+sg6
+(dp2227
+S'Inlet Connection'
+p2228
+(lp2229
+S'CGA540'
+p2230
+asS'Outlet Connection'
+p2231
+(lp2232
+S"9/16''-18"
+p2233
+asS'Max Inlet Pressure(Psi)'
+p2234
+(lp2235
+S'3000'
+p2236
+asS'Gas'
+p2237
+(lp2238
+S'Oxygen'
+p2239
+asS'Max Outlet Pressure(Psi)'
+p2240
+(lp2241
+S'250'
+p2242
+assg23
+(lp2243
+S'Single stage construction'
+p2244
+aS'Forged brass body & bonnet for maximum strenth'
+p2245
+aS'Stainless steel diaphragm'
+p2246
+aS'Oxyen regulator with safety relif valve is set for safe operation'
+p2247
+aS'Sintered metal inlet filter to trap impurities'
+p2248
+aS'No soldered joints, for easy maintenance'
+p2249
+aS'Side entry'
+p2250
+aS'Connection of other thread sizes avaliable'
+p2251
+asg29
+S'American Style Victor Type SR250 Medium Duty Regulator'
+p2252
+sg31
+g32
+ssS'MR-0101'
+p2253
+(dp2254
+g3
+g2253
+sg4
+S'01'
+p2255
+sg6
+(dp2256
+S'Inlet Connection'
+p2257
+(lp2258
+S'CGA540'
+p2259
+asS'Outlet Connection'
+p2260
+(lp2261
+S"9/16''-18"
+p2262
+asS'Max Inlet Pressure(Psi)'
+p2263
+(lp2264
+S'3000'
+p2265
+asS'Gas'
+p2266
+(lp2267
+S'Oxygen'
+p2268
+asS'Max Outlet Pressure(Psi)'
+p2269
+(lp2270
+S'250'
+p2271
+assg23
+(lp2272
+S'Single stage construction'
+p2273
+aS'Forged brass body & bonnet for maximum strenth'
+p2274
+aS'Stainless steel diaphragm'
+p2275
+aS'Oxyen regulator with safety relif valve is set for safe operation'
+p2276
+aS'Sintered metal inlet filter to trap impurities'
+p2277
+aS'No soldered joints, for easy maintenance'
+p2278
+aS'Side entry'
+p2279
+aS'Connection of other thread sizes avaliable'
+p2280
+asg29
+S'American Style Victor Type SR450 Heavy Duty Regulator'
+p2281
+sg31
+g32
+ssS'MR-0102'
+p2282
+(dp2283
+g3
+g2282
+sg4
+S'01'
+p2284
+sg6
+(dp2285
+S'Inlet Connection'
+p2286
+(lp2287
+S'CGA540'
+p2288
+asS'Outlet Connection'
+p2289
+(lp2290
+S"9/16''-18"
+p2291
+asS'Max Inlet Pressure(Psi)'
+p2292
+(lp2293
+S'3000'
+p2294
+asS'Gas'
+p2295
+(lp2296
+S'Oxygen'
+p2297
+asS'Max Outlet Pressure(Psi)'
+p2298
+(lp2299
+S'250'
+p2300
+assg23
+(lp2301
+S'Single stage construction'
+p2302
+aS'Forged brass body & bonnet for maximum strenth'
+p2303
+aS'Stainless steel diaphragm'
+p2304
+aS'Oxyen regulator with safety relif valve is set for safe operation'
+p2305
+aS'Sintered metal inlet filter to trap impurities'
+p2306
+aS'No soldered joints, for easy maintenance'
+p2307
+aS'Side entry'
+p2308
+aS'Connection of other thread sizes avaliable'
+p2309
+asg29
+S'American Style Victor Type SR460 Heavy Duty Regulator'
+p2310
+sg31
+g32
+ssS'MR-0103'
+p2311
+(dp2312
+g3
+g2311
+sg4
+S'01'
+p2313
+sg6
+(dp2314
+S'Inlet Connection'
+p2315
+(lp2316
+S'CGA540'
+p2317
+asS'Outlet Connection'
+p2318
+(lp2319
+S"9/16''-18"
+p2320
+asS'Max Inlet Pressure(Psi)'
+p2321
+(lp2322
+S'3000'
+p2323
+asS'Gas'
+p2324
+(lp2325
+S'Oxygen'
+p2326
+asS'Max Outlet Pressure(Psi)'
+p2327
+(lp2328
+S'250'
+p2329
+assg23
+(lp2330
+S'Single stage construction'
+p2331
+aS'Forged brass body & bonnet for maximum strenth'
+p2332
+aS'Stainless steel diaphragm'
+p2333
+aS'Oxyen regulator with safety relif valve is set for safe operation'
+p2334
+aS'Sintered metal inlet filter to trap impurities'
+p2335
+aS'No soldered joints, for easy maintenance'
+p2336
+aS'Side entry'
+p2337
+aS'Connection of other thread sizes avaliable'
+p2338
+asg29
+S'American Style Victor Type SR350 Heavy Duty Regulator'
+p2339
+sg31
+g32
+ssS'MR-0803B'
+p2340
+(dp2341
+g3
+g2340
+sg4
+S'08'
+p2342
+sg6
+(dp2343
+S'Inlet Connection'
+p2344
+(lp2345
+S"G5/8''"
+p2346
+asS'Outlet Connection'
+p2347
+(lp2348
+S"BSP3/8''-LH"
+p2349
+asS'Max Inlet Pressure(Psi)'
+p2350
+(lp2351
+S'30'
+p2352
+asS'Gas'
+p2353
+(lp2354
+S'Propane'
+p2355
+asS'Max Outlet Pressure(Psi)'
+p2356
+(lp2357
+S'1.5'
+p2358
+assg23
+(lp2359
+S'Single stage construction'
+p2360
+aS'Solid forged brass body with all operational data permanentlyengraved'
+p2361
+aS'Unique encapsulated vavle design for maximum control'
+p2362
+aS'Sintered metal inlet filter to trap impurities'
+p2363
+aS'No soldered joints, for easy maintenance'
+p2364
+aS'Connection of other thread sizes avaliable'
+p2365
+asg29
+S'South-East Asia Type Regulator'
+p2366
+sg31
+g32
+ssS'MR-0803A'
+p2367
+(dp2368
+g3
+g2367
+sg4
+S'08'
+p2369
+sg6
+(dp2370
+S'Inlet Connection'
+p2371
+(lp2372
+S"G5/8''"
+p2373
+asS'Outlet Connection'
+p2374
+(lp2375
+S"BSP3/8''-LH"
+p2376
+asS'Max Inlet Pressure(Psi)'
+p2377
+(lp2378
+S'30'
+p2379
+asS'Gas'
+p2380
+(lp2381
+S'Acetylene'
+p2382
+asS'Max Outlet Pressure(Psi)'
+p2383
+(lp2384
+S'1.5'
+p2385
+assg23
+(lp2386
+S'Single stage construction'
+p2387
+aS'Solid forged brass body with all operational data permanentlyengraved'
+p2388
+aS'Unique encapsulated vavle design for maximum control'
+p2389
+aS'Sintered metal inlet filter to trap impurities'
+p2390
+aS'No soldered joints, for easy maintenance'
+p2391
+aS'Connection of other thread sizes avaliable'
+p2392
+asg29
+S'South-East Asia Type Regulator'
+p2393
+sg31
+g32
+ss.

@@ -1,0 +1,1429 @@
+(dp0
+S'MC-0601'
+p1
+(dp2
+S'order_no'
+p3
+g1
+sS'country'
+p4
+S'06'
+p5
+sS'specification'
+p6
+(dp7
+S'Length(mm)'
+p8
+(lp9
+S'470'
+p10
+asS'Head'
+p11
+(lp12
+S'90\xc2\xb0'
+p13
+asS'Nozzle for Acetylene'
+p14
+(lp15
+S'2025C'
+p16
+asS'Nozzle for Propane'
+p17
+(lp18
+S'2025C'
+p19
+asS'Cutting Capacity(mm)'
+p20
+(lp21
+S'3-250'
+p22
+assS'feaList'
+p23
+(lp24
+S'Solid forged head resist abuse and distortion'
+p25
+aS'Brazed connection prevents leaks'
+p26
+aS'Protected torch union nut protects seats and "O"-ring from abuse'
+p27
+aS'Stainless steel forged lever for exceptional strength'
+p28
+aS'Forged brass handle with aluminum grip'
+p29
+aS'Ease-on cutting oxygen control for smoother starts'
+p30
+aS"Hose connection: BSP 3/8'', other thread sizes available"
+p31
+asS'typeDetail'
+p32
+S'Germany Zinser Style Cutting torch'
+p33
+sS'typeInShort'
+p34
+S'Cutting torch'
+p35
+ssS'MC-0501A'
+p36
+(dp37
+g3
+g36
+sg4
+S'05'
+p38
+sg6
+(dp39
+S'Length(mm)'
+p40
+(lp41
+S'465'
+p42
+asS'Head'
+p43
+(lp44
+S'90\xc2\xb0'
+p45
+asS'Nozzle for Acetylene'
+p46
+(lp47
+S'2023AC'
+p48
+asS'Nozzle for Propane'
+p49
+(lp50
+S'2023LPG'
+p51
+asS'Cutting Capacity(mm)'
+p52
+(lp53
+S'3-100'
+p54
+assg23
+(lp55
+S'Die-forged brass head for added strength and durability'
+p56
+aS'Suitable for both acetylene and propane service'
+p57
+aS'Unique cutting oxygen flow valve creates a progressive piercing and the smoothest cutting conditions'
+p58
+aS'Hose connection: M16*1.5, other thread sizes available'
+p59
+asg32
+S'Russia Type Medium Duty Cutting torch'
+p60
+sg34
+g35
+ssS'MC-0402'
+p61
+(dp62
+g3
+g61
+sg4
+S'04'
+p63
+sg6
+(dp64
+S'Length(mm)'
+p65
+(lp66
+S'480'
+p67
+aS'480'
+p68
+asS'Head'
+p69
+(lp70
+S'90\xc2\xb0'
+p71
+aS'90\xc2\xb0'
+p72
+asS'Nozzle for Acetylene'
+p73
+(lp74
+S'ANM '
+p75
+aS'ANME'
+p76
+asS'Nozzle for Propane'
+p77
+(lp78
+S'PNM '
+p79
+aS'PNME'
+p80
+asS'Cutting Capacity(mm)'
+p81
+(lp82
+S'3-200'
+p83
+aS'3-200'
+p84
+assg23
+(lp85
+S'Die-forged brass head for added strength and durability'
+p86
+aS'Suitable for both acetylene and propane service'
+p87
+aS'In-line tube design'
+p88
+aS'Nozzle mix principle for maximum safety'
+p89
+aS'Stainless steel lever with locking clip'
+p90
+aS"Hose connection: BSP 3/8'', other thread sizes available"
+p91
+asg32
+S'Koike MK-100 Type Cutting torch'
+p92
+sg34
+g35
+ssS'MC-0403'
+p93
+(dp94
+g3
+g93
+sg4
+S'04'
+p95
+sg6
+(dp96
+S'Length(mm)'
+p97
+(lp98
+S'440'
+p99
+asS'Head'
+p100
+(lp101
+S'90\xc2\xb0'
+p102
+asS'Nozzle for Acetylene'
+p103
+(lp104
+S'"M" AC'
+p105
+asS'Nozzle for Propane'
+p106
+(lp107
+S'"M" LPG'
+p108
+asS'Cutting Capacity(mm)'
+p109
+(lp110
+S'3-100'
+p111
+assg23
+(lp112
+S'Die-forged brass head for added strength and durability'
+p113
+aS'Suitable for both acetylene and propane service'
+p114
+aS'Nozzle mix principle for maximum safety'
+p115
+aS"Hose connection: BSP 3/8'', other thread sizes available"
+p116
+asg32
+S'440 M Type Cutting torch'
+p117
+sg34
+g35
+ssS'MC-0401'
+p118
+(dp119
+g3
+g118
+sg4
+S'04'
+p120
+sg6
+(dp121
+S'Length(mm)'
+p122
+(lp123
+S'480'
+p124
+aS'480'
+p125
+asS'Head'
+p126
+(lp127
+S'90\xc2\xb0'
+p128
+aS'90\xc2\xb0'
+p129
+asS'Nozzle for Acetylene'
+p130
+(lp131
+S'ANM '
+p132
+aS'ANME'
+p133
+asS'Nozzle for Propane'
+p134
+(lp135
+S'PNM '
+p136
+aS'PNME'
+p137
+asS'Cutting Capacity(mm)'
+p138
+(lp139
+S'3-200'
+p140
+aS'3-200'
+p141
+assg23
+(lp142
+S'Die-forged brass head for added strength and durability'
+p143
+aS'Suitable for both acetylene and propane service'
+p144
+aS'In-line tube design'
+p145
+aS'Nozzle mix principle for maximum safety'
+p146
+aS'Stainless steel lever without locking clip'
+p147
+aS"Hose connection: BSP 3/8'', other thread sizes available"
+p148
+asg32
+S'G02-200 Japan Type Cutting torch'
+p149
+sg34
+g35
+ssS'MC-0404'
+p150
+(dp151
+g3
+g150
+sg4
+S'04'
+p152
+sg6
+(dp153
+S'Length(mm)'
+p154
+(lp155
+S'450'
+p156
+asS'Head'
+p157
+(lp158
+S'90\xc2\xb0'
+p159
+asS'Nozzle for Acetylene'
+p160
+(lp161
+S'"A" AC'
+p162
+asS'Nozzle for Propane'
+p163
+(lp164
+S'"A" LPG'
+p165
+asS'Cutting Capacity(mm)'
+p166
+(lp167
+S'3-150'
+p168
+assg23
+(lp169
+S'Die-forged brass head for added strength and durability'
+p170
+aS'Suitable for both acetylene and propane service'
+p171
+aS'Nozzle mix principle for maximum safety'
+p172
+aS"Hose connection: BSP 3/8'', other thread sizes available"
+p173
+asg32
+S'520 A Type Cutting torch'
+p174
+sg34
+g35
+ssS'MC-0701'
+p175
+(dp176
+g3
+g175
+sg4
+S'07'
+p177
+sg6
+(dp178
+S'Length(mm)'
+p179
+(lp180
+S'505'
+p181
+asS'Head'
+p182
+(lp183
+S'90\xc2\xb0'
+p184
+asS'Nozzle for Acetylene'
+p185
+(lp186
+S'G1-A'
+p187
+asS'Nozzle for Propane'
+p188
+(lp189
+S'G1-P'
+p190
+asS'Cutting Capacity(mm)'
+p191
+(lp192
+S'3-300'
+p193
+assg23
+(lp194
+S'Die-forged brass head for added strength and durability'
+p195
+aS'Nozzle mix principle for maximum safety'
+p196
+aS'Suitable for both acetylene and propane service'
+p197
+aS'Unique cutting oxygen flow valve creates a progressive piercing and the smoothest cutting conditions'
+p198
+aS"Hose connection: BSP 3/8'', other thread sizes available"
+p199
+asg32
+S'French Le Lorrain Type Cutting torch'
+p200
+sg34
+g35
+ssS'MC-0702'
+p201
+(dp202
+g3
+g201
+sg4
+S'07'
+p203
+sg6
+(dp204
+S'Length(mm)'
+p205
+(lp206
+S'505'
+p207
+asS'Head'
+p208
+(lp209
+S'90\xc2\xb0'
+p210
+asS'Nozzle for Acetylene'
+p211
+(lp212
+S'G1-A'
+p213
+asS'Nozzle for Propane'
+p214
+(lp215
+S'G1-P'
+p216
+asS'Cutting Capacity(mm)'
+p217
+(lp218
+S'3-300'
+p219
+assg23
+(lp220
+S'Die-forged brass head for added strength and durability'
+p221
+aS'Nozzle mix principle for maximum safety'
+p222
+aS'Suitable for both acetylene and propane service'
+p223
+aS'Unique cutting oxygen flow valve creates a progressive piercing and the smoothest cutting conditions'
+p224
+aS"Hose connection: BSP 3/8'', other thread sizes available"
+p225
+asg32
+S'French SAF Type Cutting torch'
+p226
+sg34
+g35
+ssS'MC-0201'
+p227
+(dp228
+g3
+g227
+sg4
+S'02'
+p229
+sg6
+(dp230
+S'Length(mm)'
+p231
+(lp232
+S'490'
+p233
+aS'490'
+p234
+asS'Head'
+p235
+(lp236
+S'75\xc2\xb0/90\xc2\xb0/180\xc2\xb0'
+p237
+aS'75\xc2\xb0/90\xc2\xb0/180\xc2\xb0'
+p238
+asS'Nozzle for Acetylene'
+p239
+(lp240
+S'ANM '
+p241
+aS'ANME'
+p242
+asS'Nozzle for Propane'
+p243
+(lp244
+S'PNM '
+p245
+aS'PNME'
+p246
+asS'Cutting Capacity(mm)'
+p247
+(lp248
+S'3-300'
+p249
+aS'3-300'
+p250
+assg23
+(lp251
+S'Die-forged brass head for added strength and durability'
+p252
+aS'Suitable for both acetylene and propane service'
+p253
+aS'Backfire resistant design'
+p254
+aS'Nozzle mix principle for maximum safety'
+p255
+aS'Stainless steel lever with hold-down button'
+p256
+aS"Hose connection: BSP 3/8'', other thread sizes available"
+p257
+asg32
+S'NM-250 Cutting torch'
+p258
+sg34
+g35
+ssS'MC-0202'
+p259
+(dp260
+g3
+g259
+sg4
+S'02'
+p261
+sg6
+(dp262
+S'Length(mm)'
+p263
+(lp264
+S'445'
+p265
+aS'445'
+p266
+asS'Head'
+p267
+(lp268
+S'90\xc2\xb0'
+p269
+aS'90\xc2\xb0'
+p270
+asS'Nozzle for Acetylene'
+p271
+(lp272
+S'ANM '
+p273
+aS'ANME'
+p274
+asS'Nozzle for Propane'
+p275
+(lp276
+S'PNM '
+p277
+aS'PNME'
+p278
+asS'Cutting Capacity(mm)'
+p279
+(lp280
+S'3-200'
+p281
+aS'3-200'
+p282
+assg23
+(lp283
+S'CA-271 cutting attachment'
+p284
+aS'TH-272 torch handle'
+p285
+aS'Heavy chrome finish for maximum wear resistance'
+p286
+aS'Stainless steel tubes'
+p287
+aS'Unique aluminum alloy gun drilled handle specially shaped for comfort and lightness with strength and reliability'
+p288
+aS'Brass coupling nut & "O" ring seals give quick gas-tight seal tightening'
+p289
+aS'Totally encapsulated trim valves for precise gas control'
+p290
+aS'Suitable for all fuel gases, pressure restrictions for different gases'
+p291
+aS"Hose connection: BSP 3/8'', other thread sizes available"
+p292
+asg32
+S'GE-540 Saffire Murex Type Cutting torch'
+p293
+sg34
+g35
+ssS'MC-0501'
+p294
+(dp295
+g3
+g294
+sg4
+S'05'
+p296
+sg6
+(dp297
+S'Length(mm)'
+p298
+(lp299
+S'480'
+p300
+asS'Head'
+p301
+(lp302
+S'90\xc2\xb0'
+p303
+asS'Nozzle for Acetylene'
+p304
+(lp305
+S'2023AC'
+p306
+asS'Nozzle for Propane'
+p307
+(lp308
+S'2023LPG'
+p309
+asS'Cutting Capacity(mm)'
+p310
+(lp311
+S'3-100'
+p312
+assg23
+(lp313
+S'Die-forged brass head for added strength and durability'
+p314
+aS'Suitable for both acetylene and propane service'
+p315
+aS'Unique cutting oxygen flow valve creates a progressive piercing and the smoothest cutting conditions'
+p316
+aS'Hose connection: M16*1.5, other thread sizes available'
+p317
+asg32
+S'Russia Type Heavy Duty Cutting torch'
+p318
+sg34
+g35
+ssS'MC-0201B'
+p319
+(dp320
+g3
+g319
+sg4
+S'02'
+p321
+sg6
+(dp322
+S'Length(mm)'
+p323
+(lp324
+S'900'
+p325
+aS'900'
+p326
+asS'Head'
+p327
+(lp328
+S'75\xc2\xb0/90\xc2\xb0/180\xc2\xb0'
+p329
+aS'75\xc2\xb0/90\xc2\xb0/180\xc2\xb0'
+p330
+asS'Nozzle for Acetylene'
+p331
+(lp332
+S'ANM '
+p333
+aS'ANME'
+p334
+asS'Nozzle for Propane'
+p335
+(lp336
+S'PNM '
+p337
+aS'PNME'
+p338
+asS'Cutting Capacity(mm)'
+p339
+(lp340
+S'3-300'
+p341
+aS'3-300'
+p342
+assg23
+(lp343
+S'Die-forged brass head for added strength and durability'
+p344
+aS'Suitable for both acetylene and propane service'
+p345
+aS'Backfire resistant design'
+p346
+aS'Nozzle mix principle for maximum safety'
+p347
+aS'Stainless steel lever with hold-down button'
+p348
+aS"Hose connection: BSP 3/8'', other thread sizes available"
+p349
+asg32
+S'NM-250 Cutting torch'
+p350
+sg34
+g35
+ssS'MC-0201A'
+p351
+(dp352
+g3
+g351
+sg4
+S'02'
+p353
+sg6
+(dp354
+S'Length(mm)'
+p355
+(lp356
+S'750'
+p357
+aS'750'
+p358
+asS'Head'
+p359
+(lp360
+S'75\xc2\xb0/90\xc2\xb0/180\xc2\xb0'
+p361
+aS'75\xc2\xb0/90\xc2\xb0/180\xc2\xb0'
+p362
+asS'Nozzle for Acetylene'
+p363
+(lp364
+S'ANM '
+p365
+aS'ANME'
+p366
+asS'Nozzle for Propane'
+p367
+(lp368
+S'PNM '
+p369
+aS'PNME'
+p370
+asS'Cutting Capacity(mm)'
+p371
+(lp372
+S'3-300'
+p373
+aS'3-300'
+p374
+assg23
+(lp375
+S'Die-forged brass head for added strength and durability'
+p376
+aS'Suitable for both acetylene and propane service'
+p377
+aS'Backfire resistant design'
+p378
+aS'Nozzle mix principle for maximum safety'
+p379
+aS'Stainless steel lever with hold-down button'
+p380
+aS"Hose connection: BSP 3/8'', other thread sizes available"
+p381
+asg32
+S'NM-250 Cutting torch'
+p382
+sg34
+g35
+ssS'MC-0101A'
+p383
+(dp384
+g3
+g383
+sg4
+S'01'
+p385
+sg6
+(dp386
+S'Length(mm)'
+p387
+(lp388
+S'410'
+p389
+asS'Head'
+p390
+(lp391
+S'90\xc2\xb0'
+p392
+asS'Nozzle for Acetylene'
+p393
+(lp394
+S'3-101'
+p395
+asS'Nozzle for Propane'
+p396
+(lp397
+S'3-GPN'
+p398
+asS'Cutting Capacity(mm)'
+p399
+(lp400
+S'3-50'
+p401
+assg23
+(lp402
+S'CA-1350 cutting attachment'
+p403
+aS'100FC torch handle'
+p404
+aS'Die-forged brass head for added strength and durability'
+p405
+aS'Stainless steel tubes'
+p406
+aS'Smooth cutting oxygen valve(pull type)'
+p407
+aS'Brass coupling nut & "O" ring seals give quick gas-tight seal tightening'
+p408
+aS'Built-in reverse flow check valves for added safety'
+p409
+aS'Suitable for all fuel gases, pressure restrictions for different gases'
+p410
+aS"Hose connection: 9/16''-18, other thread sizes available"
+p411
+asg32
+S'100FC Victor Type Cutting torch'
+p412
+sg34
+g35
+ssS'MC-1101'
+p413
+(dp414
+g3
+g413
+sg4
+S'11'
+p415
+sg6
+(dp416
+S'Length(mm)'
+p417
+(lp418
+S'480'
+p419
+asS'Head'
+p420
+(lp421
+S'90\xc2\xb0'
+p422
+asS'Nozzle for Acetylene'
+p423
+(lp424
+S'41TYPE'
+p425
+asS'Nozzle for Propane'
+p426
+(lp427
+S'44TYPE'
+p428
+asS'Cutting Capacity(mm)'
+p429
+(lp430
+S'3-300'
+p431
+assg23
+(lp432
+S'Suitable for both acetylene and propane service'
+p433
+aS'Two stage valve gives precise gas control from the smallest welding tip to the largest heating tip'
+p434
+aS'A non-rotating valve spindle drastically minimises wear'
+p435
+aS'When used with appropriate attachments, is suitable for fusion welding, soldering, heating and hand cutting'
+p436
+aS'Color coded control knobs are fitted for maximum safety and ease of operation, even when wearing gloves'
+p437
+aS"Hose connection: BSP 3/8'', other thread sizes available"
+p438
+asg32
+S'Australia GW247 Type Cutting torch'
+p439
+sg34
+g35
+ssS'MC-0902'
+p440
+(dp441
+g3
+g440
+sg4
+S'09'
+p442
+sg6
+(dp443
+S'Length(mm)'
+p444
+(lp445
+S'545'
+p446
+asS'Head'
+p447
+(lp448
+S'90\xc2\xb0'
+p449
+asS'Nozzle for Acetylene'
+p450
+(lp451
+S'1502'
+p452
+asS'Nozzle for Propane'
+p453
+(lp454
+S'1503'
+p455
+asS'Cutting Capacity(mm)'
+p456
+(lp457
+S'3-200'
+p458
+assg23
+(lp459
+S'Die-forged brass head for added strength and durability'
+p460
+aS'Nozzle mix principle for maximum safety'
+p461
+aS'Suitable for both acetylene and propane service'
+p462
+aS'Unique cutting oxygen flow valve creates a progressive piercing and the smoothest cutting conditions'
+p463
+aS"Hose connection: 9/16''-18, other thread sizes available"
+p464
+asg32
+S'Brazil Type Cutting torch'
+p465
+sg34
+g35
+ssS'MC-0901'
+p466
+(dp467
+g3
+g466
+sg4
+S'09'
+p468
+sg6
+(dp469
+S'Length(mm)'
+p470
+(lp471
+S'545'
+p472
+asS'Head'
+p473
+(lp474
+S'90\xc2\xb0'
+p475
+asS'Nozzle for Acetylene'
+p476
+(lp477
+S'1502'
+p478
+asS'Nozzle for Propane'
+p479
+(lp480
+S'1503'
+p481
+asS'Cutting Capacity(mm)'
+p482
+(lp483
+S'3-200'
+p484
+assg23
+(lp485
+S'Die-forged brass head for added strength and durability'
+p486
+aS'Nozzle mix principle for maximum safety'
+p487
+aS'Suitable for both acetylene and propane service'
+p488
+aS'Unique cutting oxygen flow valve creates a progressive piercing and the smoothest cutting conditions'
+p489
+aS"Hose connection: 9/16''-18, other thread sizes available"
+p490
+asg32
+S'Brazil Type Cutting torch'
+p491
+sg34
+g35
+ssS'MC-0107'
+p492
+(dp493
+g3
+g492
+sg4
+S'01'
+p494
+sg6
+(dp495
+S'Length(mm)'
+p496
+(lp497
+S'480'
+p498
+asS'Head'
+p499
+(lp500
+S'90\xc2\xb0'
+p501
+asS'Nozzle for Acetylene'
+p502
+(lp503
+S'6290'
+p504
+asS'Nozzle for Propane'
+p505
+(lp506
+S'6290NX'
+p507
+asS'Cutting Capacity(mm)'
+p508
+(lp509
+S'3-150'
+p510
+assg23
+(lp511
+S'Die-forged brass head for added strength and durability'
+p512
+aS'Stainless steel tubes'
+p513
+aS'Smooth cutting oxygen valve(pull type)'
+p514
+aS'Built-in reverse flow check valves for added safety'
+p515
+aS'Suitable for all fuel gases, pressure restrictions for different gases'
+p516
+aS"Hose connection: 9/16''-18, other thread sizes available"
+p517
+asg32
+S'63-2 Harris Type Cutting torch'
+p518
+sg34
+g35
+ssS'MC-0106'
+p519
+(dp520
+g3
+g519
+sg4
+S'01'
+p521
+sg6
+(dp522
+S'Length(mm)'
+p523
+(lp524
+S'480'
+p525
+asS'Head'
+p526
+(lp527
+S'90\xc2\xb0'
+p528
+asS'Nozzle for Acetylene'
+p529
+(lp530
+S'6290'
+p531
+asS'Nozzle for Propane'
+p532
+(lp533
+S'6290NX'
+p534
+asS'Cutting Capacity(mm)'
+p535
+(lp536
+S'3-150'
+p537
+assg23
+(lp538
+S'Die-forged brass head for added strength and durability'
+p539
+aS'Stainless steel tubes'
+p540
+aS'Smooth cutting oxygen valve(pull type)'
+p541
+aS'Built-in reverse flow check valves for added safety'
+p542
+aS'Suitable for all fuel gases, pressure restrictions for different gases'
+p543
+aS"Hose connection: 9/16''-18, other thread sizes available"
+p544
+asg32
+S'62-3F Harris Type Cutting torch'
+p545
+sg34
+g35
+ssS'MC-0105'
+p546
+(dp547
+g3
+g546
+sg4
+S'01'
+p548
+sg6
+(dp549
+S'Length(mm)'
+p550
+(lp551
+S'480'
+p552
+asS'Head'
+p553
+(lp554
+S'90\xc2\xb0'
+p555
+asS'Nozzle for Acetylene'
+p556
+(lp557
+S'1-101'
+p558
+asS'Nozzle for Propane'
+p559
+(lp560
+S'GPN'
+p561
+asS'Cutting Capacity(mm)'
+p562
+(lp563
+S'3-150'
+p564
+assg23
+(lp565
+S'Die-forged brass head for added strength and durability'
+p566
+aS'Stainless steel tubes'
+p567
+aS'Smooth cutting oxygen valve(pull type)'
+p568
+aS'Built-in reverse flow check valves for added safety'
+p569
+aS'Suitable for all fuel gases, pressure restrictions for different gases'
+p570
+aS"Hose connection: 9/16''-18, other thread sizes available"
+p571
+asg32
+S'ST-1000FC Victor Type Cutting torch'
+p572
+sg34
+g35
+ssS'MC-0104'
+p573
+(dp574
+g3
+g573
+sg4
+S'01'
+p575
+sg6
+(dp576
+S'Length(mm)'
+p577
+(lp578
+S'480'
+p579
+asS'Head'
+p580
+(lp581
+S'90\xc2\xb0'
+p582
+asS'Nozzle for Acetylene'
+p583
+(lp584
+S'1-101'
+p585
+asS'Nozzle for Propane'
+p586
+(lp587
+S'GPN'
+p588
+asS'Cutting Capacity(mm)'
+p589
+(lp590
+S'3-100'
+p591
+assg23
+(lp592
+S'Die-forged brass head for added strength and durability'
+p593
+aS'Stainless steel tubes'
+p594
+aS'Smooth cutting oxygen valve(pull type)'
+p595
+aS'Built-in reverse flow check valves for added safety'
+p596
+aS'Suitable for all fuel gases, pressure restrictions for different gases'
+p597
+aS"Hose connection: 9/16''-18, other thread sizes available"
+p598
+asg32
+S'ST-900FC Victor Type Cutting torch'
+p599
+sg34
+g35
+ssS'MC-0103'
+p600
+(dp601
+g3
+g600
+sg4
+S'01'
+p602
+sg6
+(dp603
+S'Length(mm)'
+p604
+(lp605
+S'480'
+p606
+asS'Head'
+p607
+(lp608
+S'90\xc2\xb0'
+p609
+asS'Nozzle for Acetylene'
+p610
+(lp611
+S'1-101'
+p612
+asS'Nozzle for Propane'
+p613
+(lp614
+S'GPN'
+p615
+asS'Cutting Capacity(mm)'
+p616
+(lp617
+S'3-100'
+p618
+assg23
+(lp619
+S'CA-2460 cutting attachment'
+p620
+aS'H315FC torch handle'
+p621
+aS'Die-forged brass head for added strength and durability'
+p622
+aS'Stainless steel tubes'
+p623
+aS'Smooth cutting oxygen valve(pull type)'
+p624
+aS'Brass coupling nut & "O" ring seals give quick gas-tight seal tightening'
+p625
+aS'Built-in reverse flow check valves for added safety'
+p626
+aS'Suitable for all fuel gases, pressure restrictions for different gases'
+p627
+aS"Hose connection: 9/16''-18, other thread sizes available"
+p628
+asg32
+S'H315FC Victor Type Cutting torch'
+p629
+sg34
+g35
+ssS'MC-0102'
+p630
+(dp631
+g3
+g630
+sg4
+S'01'
+p632
+sg6
+(dp633
+S'Length(mm)'
+p634
+(lp635
+S'480'
+p636
+asS'Head'
+p637
+(lp638
+S'90\xc2\xb0'
+p639
+asS'Nozzle for Acetylene'
+p640
+(lp641
+S'1-101'
+p642
+asS'Nozzle for Propane'
+p643
+(lp644
+S'GPN'
+p645
+asS'Cutting Capacity(mm)'
+p646
+(lp647
+S'3-100'
+p648
+assg23
+(lp649
+S'CA-2460 cutting attachment'
+p650
+aS'HD-310C torch handle'
+p651
+aS'Die-forged brass head for added strength and durability'
+p652
+aS'Stainless steel tubes'
+p653
+aS'Smooth cutting oxygen valve(pull type)'
+p654
+aS'Brass coupling nut & "O" ring seals give quick gas-tight seal tightening'
+p655
+aS'Suitable for all fuel gases, pressure restrictions for different gases'
+p656
+aS"Hose connection: 9/16''-18, other thread sizes available"
+p657
+asg32
+S'HD310C Victor Type Cutting torch'
+p658
+sg34
+g35
+ssS'MC-0101'
+p659
+(dp660
+g3
+g659
+sg4
+S'01'
+p661
+sg6
+(dp662
+S'Length(mm)'
+p663
+(lp664
+S'480'
+p665
+asS'Head'
+p666
+(lp667
+S'90\xc2\xb0'
+p668
+asS'Nozzle for Acetylene'
+p669
+(lp670
+S'1-101'
+p671
+asS'Nozzle for Propane'
+p672
+(lp673
+S'GPN'
+p674
+asS'Cutting Capacity(mm)'
+p675
+(lp676
+S'3-100'
+p677
+assg23
+(lp678
+S'CA-2460 cutting attachment'
+p679
+aS'315FC torch handle'
+p680
+aS'Die-forged brass head for added strength and durability'
+p681
+aS'Stainless steel tubes'
+p682
+aS'Smooth cutting oxygen valve(pull type)'
+p683
+aS'Brass coupling nut & "O" ring seals give quick gas-tight seal tightening'
+p684
+aS'Built-in reverse flow check valves for added safety'
+p685
+aS'Suitable for all fuel gases, pressure restrictions for different gases'
+p686
+aS"Hose connection: 9/16''-18, other thread sizes available"
+p687
+asg32
+S'315FC Victor Type Cutting torch'
+p688
+sg34
+g35
+ssS'MC-0102A'
+p689
+(dp690
+g3
+g689
+sg4
+S'01'
+p691
+sg6
+(dp692
+S'Length(mm)'
+p693
+(lp694
+S'410'
+p695
+asS'Head'
+p696
+(lp697
+S'90\xc2\xb0'
+p698
+asS'Nozzle for Acetylene'
+p699
+(lp700
+S'3-101'
+p701
+asS'Nozzle for Propane'
+p702
+(lp703
+S'3-GPN'
+p704
+asS'Cutting Capacity(mm)'
+p705
+(lp706
+S'3-50'
+p707
+assg23
+(lp708
+S'CA-2460 cutting attachment'
+p709
+aS'50DC torch handle'
+p710
+aS'Die-forged brass head for added strength and durability'
+p711
+aS'Stainless steel tubes'
+p712
+aS'Smooth cutting oxygen valve(pull type)'
+p713
+aS'Brass coupling nut & "O" ring seals give quick gas-tight seal tightening'
+p714
+aS'Suitable for all fuel gases, pressure restrictions for different gases'
+p715
+aS"Hose connection: 9/16''-18, other thread sizes available"
+p716
+asg32
+S'50DC Victor Type Cutting torch'
+p717
+sg34
+g35
+ss.

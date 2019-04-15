@@ -32,6 +32,7 @@ ALLOWED_HOSTS = ['localhost', '127.0.0.1', '47.93.41.106', 'masterweldingtools.c
 
 INSTALLED_APPS = [
     'myweb.apps.MywebConfig',
+    'myweb.templatetags',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',

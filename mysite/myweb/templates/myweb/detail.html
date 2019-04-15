@@ -1,11 +1,12 @@
 {% extends "base.html" %}
+{% load web_extra %}
 {%block mainblock%}
         <div class="contactBody" id="slice">
             <div class="container">
                 <ol class="breadcrumb">
                     <li><a href="/webSite/list/query/00/MR/">PRODUCTS</a></li>
-                    <li><a href="/webSite/list/query/00/{{good.typeInShort}}">{{good.typeInShort}}</a></li>
-                    <li class="active">{{good.order_no}}</li>
+                    <li><a href="/webSite/list/query/00/{{good.typeInShort}}">{{typeInShort}}</a></li>
+                    <li class="active">{{order_no}}</li>
                 </ol>
                 <div class="media">
                     <div class="media-left">
@@ -14,10 +15,8 @@
                       </a>
                     </div>
                     <div class="media-body">
-                      <h1 class="media-heading" style="color:rgb(238, 196, 167)">{{good.order_no}}</h1>
-                      <h4> {{typeName}}</h4>
-                      <h3>Type:</h3>
-                      <a class="btn btn-primary" href="/webSite/list/query/00/{{good.typeInShort}}" role="button">{{good.typeInShort}}</a>
+                      <h1 class="media-heading" style="color:rgb(238, 196, 167)">{{order_no}}</h1>
+                      <h3>{{typeName}}</h3>
                       <h3>Features:</h3>
                       <ol> 
                             {% for fea in feature%}
@@ -25,38 +24,26 @@
                             {% endfor%} 
                       </ol> 
                       <h3>Specifications:</h3>
-                        <div class="row">
-                            <div class="col-md-3 col-lg-2 col-sm-3 col-xs-4">
-                                <p class="specifyHeader">Order No.</p>
-                                <p class="specifyFea"><span class="label label-default ">{{good.order_no}}</span></p>
-                            </div>
-                            <div class="col-md-3 col-lg-2 col-sm-3 col-xs-4">
-                                <p class="specifyHeader">Gas</p>
-                                <p class="specifyFea"><span class="label label-primary ">{{good.gas}}</span></p>
-                                
-                            </div>
-                            <div class="col-md-3 col-lg-2 col-sm-3 col-xs-4">
-                                <p class="specifyHeader">Max Inlet Pressure(Bar)</p>
-                                <p class="specifyFea"><span class="label label-success ">{{good.max_inlet_pressure}}</span></p></p>
-                                
-                                
-                            </div>
-                            <div class="col-md-3 col-lg-2 col-sm-3 col-xs-4">
-                                <p class="specifyHeader">Max Outlet Pressure(Bar)</p>
-                                <p class="specifyFea"><span class="label label-info ">{{good.max_outlet_pressure}}</span></p>    
-                                
-                            </div>
-                            <div class="col-md-3 col-lg-2 col-sm-3 col-xs-4">
-                                <p class="specifyHeader">Inlet Connection</p>
-                                <p class="specifyFea"><span class="label label-warning ">{{good.inlet_connection}}</span></p>
-                                
-                            </div>
-                            <div class="col-md-3 col-lg-2 col-sm-3 col-xs-4">
-                                <p class="specifyHeader">Outlet Connection</p>
-                                <p class="specifyFea"><span class="label label-danger ">{{good.outlet_connection}}</span></p>
-                                
-                            </div>
-                        </div>                     
+                      <div class="table-responsive">
+                          <table class="table">
+                            <thead>
+                              <tr>
+                                  {% for name in header %}
+                                  <th>{{name}}</th>
+                                  {% endfor %}
+                              </tr>
+                            </thead>
+                            <tbody>
+                                  {% for line in specificationItem %}
+                                  <tr>
+                                      {% for item in line %}
+                                      <td>{{item}}</td>
+                                      {% endfor %}
+                                  </tr>
+                                  {%endfor%}
+                            </tbody>
+                          </table>
+                      </div>        
                     </div>
                   </div>
             </div>
