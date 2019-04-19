@@ -4,8 +4,8 @@
     <script src="/static/js/jq-paginator.js"></script>
     <div class="container">
         <ol class="breadcrumb" style="margin-bottom:0px">
-            <li><a href="/webSite/list/query/00/MR/">PRODUCTS</a></li>
-            <li class="active"><a href="/webSite/list/query/00/{{query}}/">{{query}}</a></li>
+            <li><a href="/webSite/list/query/000/M/">PRODUCTS</a></li>
+            <li class="active">{{query}}</li>
         </ol>
     </div>
     <div id="description">
@@ -16,7 +16,7 @@
                 </div>
                 <div class="col-md-6 col-lg-6 col-sm-6 text-right">
                     <select class="selectpicker" id="area" onchange="search(1)">
-                        <option value="00">all</option>
+                        <option value="000">all</option>
                         {% for cour in country%}
                         <option value="{{cour.country_no}}">{{cour.country_text}}</option>
                         {%endfor%}

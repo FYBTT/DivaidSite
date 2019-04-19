@@ -29,7 +29,7 @@ def listPage(request, country, query):
 
 def listAjaxGet(request, query, country, page_id):
     start = (int(page_id) - 1)*pageSize
-    if country == '00':
+    if country == '000':
         good_count = Goods.objects.filter(Q(order_no__icontains = query)|Q(typeInShort__icontains = query)).count()
         reSet = Goods.objects.filter(Q(order_no__icontains = query)|Q(typeInShort__icontains = query)).values('order_no', 'typeInShort')[start: pageSize + start]    
     else:    
@@ -48,8 +48,8 @@ def good(request, good_id):
     features = []
     for fea in feaList:
         features.append(fea.fea_text)
-    pic = reGood.order_no.split('-')[-1]
-    pic = pic + ".jpg"
+    #pic = reGood.order_no.split('-')[-1]
+    pic = reGood.order_no + ".jpg"
     specificationItems = SpecificationGroupValue.objects.filter(goodId = reGood.id)
     header = []
     lines = []

@@ -4,48 +4,47 @@
         <div class="contactBody" id="slice">
             <div class="container">
                 <ol class="breadcrumb">
-                    <li><a href="/webSite/list/query/00/MR/">PRODUCTS</a></li>
-                    <li><a href="/webSite/list/query/00/{{good.typeInShort}}">{{typeInShort}}</a></li>
+                    <li><a href="/webSite/list/query/000/M/">PRODUCTS</a></li>
+                    <li><a href="/webSite/list/query/000/{{typeInShort}}">{{typeInShort}}</a></li>
                     <li class="active">{{order_no}}</li>
                 </ol>
-                <div class="media">
-                    <div class="media-left">
-                      <a href="#">
+                <div class="row"  id="media">
+                    
+                    <div class="col-sm-12 col-md-7 col-lg-7">
+                        <h1 style="margin-top:0px; color:rgb(245, 209, 179)">{{order_no}}</h1>
+                        <h3>{{typeName}}</h3>
+                        <h3>Features:</h3>
+                        <ol> 
+                              {% for fea in feature%}
+                              <li>{{fea}}</li>
+                              {% endfor%} 
+                        </ol> 
+                        <h3>Specifications:</h3>
+                        <div class="table-responsive">
+                            <table class="table table-bordered">
+                              <thead>
+                                <tr>
+                                    {% for name in header %}
+                                    <th>{{name}}</th>
+                                    {% endfor %}
+                                </tr>
+                              </thead>
+                              <tbody>
+                                    {% for line in specificationItem %}
+                                    <tr>
+                                        {% for item in line %}
+                                        <td>{{item}}</td>
+                                        {% endfor %}
+                                    </tr>
+                                    {%endfor%}
+                              </tbody>
+                            </table>
+                        </div>
+                    </div>
+                    <div class="col-sm-12 col-md-5 col-lg-5">
                         <img class="media-object img-thumbnail detailImg" src="/static/goods/{{pic}}">
-                      </a>
                     </div>
-                    <div class="media-body">
-                      <h1 class="media-heading" style="color:rgb(238, 196, 167)">{{order_no}}</h1>
-                      <h3>{{typeName}}</h3>
-                      <h3>Features:</h3>
-                      <ol> 
-                            {% for fea in feature%}
-                            <li>{{fea}}</li>
-                            {% endfor%} 
-                      </ol> 
-                      <h3>Specifications:</h3>
-                      <div class="table-responsive">
-                          <table class="table">
-                            <thead>
-                              <tr>
-                                  {% for name in header %}
-                                  <th>{{name}}</th>
-                                  {% endfor %}
-                              </tr>
-                            </thead>
-                            <tbody>
-                                  {% for line in specificationItem %}
-                                  <tr>
-                                      {% for item in line %}
-                                      <td>{{item}}</td>
-                                      {% endfor %}
-                                  </tr>
-                                  {%endfor%}
-                            </tbody>
-                          </table>
-                      </div>        
-                    </div>
-                  </div>
+                </div>
             </div>
           </div>
 
