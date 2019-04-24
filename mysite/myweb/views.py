@@ -31,10 +31,10 @@ def listAjaxGet(request, query, country, page_id):
     start = (int(page_id) - 1)*pageSize
     if country == '000':
         good_count = Goods.objects.filter(Q(order_no__icontains = query)|Q(typeInShort__icontains = query)).count()
-        reSet = Goods.objects.filter(Q(order_no__icontains = query)|Q(typeInShort__icontains = query)).values('order_no', 'typeInShort')[start: pageSize + start]    
+        reSet = Goods.objects.filter(Q(order_no__icontains = query)|Q(typeInShort__icontains = query)).values('order_no', 'typeInShort').order_by('order_no')[start: pageSize + start]    
     else:    
         good_count = Goods.objects.filter(country_no = country).filter(Q(order_no__icontains = query)|Q(typeInShort__icontains = query)).count()
-        reSet = Goods.objects.filter(country_no = country).filter(Q(order_no__icontains = query)|Q(typeInShort__icontains = query)).values('order_no', 'typeInShort')[start: pageSize + start]
+        reSet = Goods.objects.filter(country_no = country).filter(Q(order_no__icontains = query)|Q(typeInShort__icontains = query)).values('order_no', 'typeInShort').order_by('order_no')[start: pageSize + start]
     result = list(reSet)
     datas = {}
     datas['data'] = result
