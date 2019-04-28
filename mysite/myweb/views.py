@@ -54,6 +54,7 @@ def good(request, good_id):
     header = []
     lines = []
     re = specificationItems.filter(valueIndex = 0)
+    re = sorted(re, key = lambda spe: spe.specificationId.weight)
     if len(re) > 0:
         line = []
         for spe in re:
@@ -63,6 +64,7 @@ def good(request, good_id):
         lines.append(line)
         for i in xrange(1, len(specificationItems)):
             re = specificationItems.filter(valueIndex = i)
+            re = sorted(re, key = lambda spe: spe.specificationId.weight)
             if len(re) == 0:
                 break
             line = []
@@ -78,7 +80,7 @@ def good(request, good_id):
         'header':header,
         'specificationItem': lines,
     }
-    print lines
+    #print lines
     return render(request, 'myweb/detail.html', context)
 
 def page_not_found(request):

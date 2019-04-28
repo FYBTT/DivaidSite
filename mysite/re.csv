@@ -1,0 +1,41 @@
+id,specification_text,weight
+1,Length(mm),0
+2,Head,0
+3,"Nozzle for Acetylene",0
+4,"Nozzle for Propane",0
+5,"Cutting Capacity(mm)",0
+6,"Welding Tip",0
+7,"Hose Connection",0
+8,"Torch Handle",0
+9,"Welding Capacity(mm)",0
+10,"Inlet Connection",0
+11,"Outlet Connection",0
+12,"Max Inlet Pressure(Mpa)",0
+13,Gas,0
+14,"Max Outlet Pressure(Mpa)",0
+15,"Max Inlet Pressure(bar)",0
+16,"Max Outlet Pressure(bar)",0
+17,"Orifice Size(mm)",0
+18,"Cutting Thickness(mm)",0
+19,"Model No",0
+20,"Max Inlet Pressure(Psi)",0
+21,"Max Outlet Pressure(Psi)",0
+22,"Max Inlet Pressure(Bar)",0
+23,"Max Outlet Pressure(Bar)",0
+24,"Cutting Tip",0
+25,Capacity,0
+26,"Accessories Included",0
+27,"Applicable Gas",0
+28,"Nut Fitting",0
+29,Application,0
+30,"Acetylene Inlet&Outlet",0
+31,"Heating Tip",0
+32,"Oxygen Inlet&Outlet",0
+33,"Heavy Duty regulator",0
+34,"Light Duty regulator",0
+35,"Acetylene Cylinder",0
+36,"Oxygen Cylinder",0
+37,"Max Outlet Pressure(LPM)",0
+38,typeDetail,0
+39,typeInShort,0
+40,Flow,0
